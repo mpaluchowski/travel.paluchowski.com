@@ -1,0 +1,7 @@
+### SublimeText ###
+*.sublime-workspace
+*.sublime-project
+
+### Hugo ###
+/public/
+/themes/
