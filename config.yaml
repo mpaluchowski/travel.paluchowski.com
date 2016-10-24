@@ -1,0 +1,8 @@
+baseurl: https://travel.paluchowski.com/
+title: Well Traveled
+languageCode: "en-us"
+googleAnalytics: UA-2971180-12
+author: "Michał Paluchowski"
+copyright: 'Made around the world by <a href="https://michal.paluchowski.com/">Michał Paluchowski</a>. All content is under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.'
+params:
+  description: 'Stories from extended travels, endeavored by Milena & Michał Paluchowski. Highly opinionated. Mildly biased. A mixture of intersecting thoughts from our hearts and minds.'
