@@ -4,6 +4,9 @@ RewriteCond %{HTTPS} !=on
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 <IfModule mod_headers.c>
+    Header set Content-Security-Policy "default-src 'https' 'self'; script-src 'https' 'unsafe-inline' 'self' www.google-analytics.com; style-src 'https' 'unsafe-inline' 'self' fonts.googleapis.com; font-src 'https' 'self' fonts.gstatic.com; img-src 'https' 'self' www.google-analytics.com"
+    Header set X-Frame-Options DENY
+
     <FilesMatch "\.(jpg|jpeg|png|svg|ico)$">
         Header set Cache-Control "max-age=604800, public"
     </FilesMatch>
@@ -35,4 +38,3 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
                                       text/xml
     </IfModule>
 </IfModule>
-
