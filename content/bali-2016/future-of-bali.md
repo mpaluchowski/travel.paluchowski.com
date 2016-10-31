@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2016-10-29T15:04:16+02:00
 timezone: CEST
 location: Warszawa, Poland
