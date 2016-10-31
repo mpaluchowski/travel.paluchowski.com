@@ -24,6 +24,8 @@ I [complained a lot about Bali]({{< ref "bali-2016/which-way-to-paradise.md" >}}
 
 Examples abound:
 
+{{< figure src="img/bali-2016/future-of-bali/green-school-power-plant.jpg" class="right" alt="Hydropower plant at Green School" title="Hydropower plant at Green School" >}}
+
 * Yes, [traffic is dense on most streets]({{< ref "bali-2016/rules-of-the-road.md" >}}) and walking is a balancing act between getting hit by a passing scooter and falling into a roadside ditch. But gradually __streets are getting sidewalks__---narrow, frequently used by scooters to overtake traffic, but still---and their availability increased dramatically over the last few years.
 * __Bikers are a frequent sight__ and their numbers are growing---a trend I reckon will continue as dedicated infrastructure becomes available.
 * A week into our vacation, the local transformer made a loud "boom" and... died, leaving us without electricity (and no internet access, which was more annoying than the lack of air conditioning). The __repair crew was on site within an hour__, with a portable transformer immediately restored power while they continue to work on the broken equipment.
