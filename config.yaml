@@ -1,5 +1,7 @@
+metaDataFormat: yaml
 baseurl: https://travel.paluchowski.com/
 title: Well Traveled
+theme: well-traveled
 languageCode: "en-us"
 googleAnalytics: UA-2971180-12
 author: "Michał Paluchowski"
