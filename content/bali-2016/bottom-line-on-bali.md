@@ -9,6 +9,7 @@ tags:
   - public spaces
   - quality of living
   - environment
+image: img/bali-2016/bottom-line-on-bali/tegalalang-rice-terrace-statue-header.jpg
 ---
 
 We _could_ live there. Adapt, eventually. Find our places, our people, a favorite stretch of beach, good coffee and reasonable access to the internet. If only we were very careful in selecting pieces of reality we like, and pass over all the rest. Bali today is _not_ a paradise, it's just too inconsistent. But it does have the _makings_ of one.
