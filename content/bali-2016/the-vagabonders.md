@@ -15,7 +15,7 @@ Our Flying Dutchman is leaving today. That's not his name, but we didn't get his
 
 <!--more-->
 
-"[Digital Nomads](https://en.wikipedia.org/wiki/Digital_nomad)" is the term used often for __people, who work remotely__, thanks to the wonders of the internet age, while roaming around the world, spending months or just weeks at a time in one place before moving on. Most of them seem to __cluster around the equator__, and in Asia. Not that it's particularly surprising.
+"[Digital Nomads](https://en.wikipedia.org/wiki/Digital_nomad)" is the term used often for __people, who work remotely__, thanks to the wonders of the internet age. They roam the world, spending a few weeks to months someplace, then move on. Most of them seem to __cluster around the equator__, and in Asia. That's not particularly surprising, considering climate and costs of living.
 
 "Digital" isn't too precise though, since a lot of them have local jobs. Often well paid, compared to the local salaries. Our Dutchman will be making $3,000 a month plus have an opportunity to complete an advanced scuba diving course---free of charge. He needs a work permit too.
 
