@@ -5,3 +5,7 @@
 ### Hugo ###
 /public/
 /themes/
+
+### Visual Studio Code ###
+.settings/
+.vscode/
