@@ -67,6 +67,8 @@ Of course we're thrilled! We're going to get ourselves the local clothing too lo
 
 We're a bit concerned for our good friend getting married, with the __ceremonies taking the whole weekend__. I remember my own wedding in Bulgaria, which was only a single day long, and how both physically and mentally exhausting it was. Now we're talking about not one but two, three or four days, depending how you count. That's an IronMan-class endurance sport!
 
+---
+
 'nuff said for now. Time to comb Airbnb and Booking.com for accommodation offers on our route and prepare a training plan that I can follow in the 35C heat. This'll be an excellent transition away from this year's cold, snowy Polish winter.
 
 [lp-bengaluru]: https://www.lonelyplanet.com/india/bengaluru-bangalore
