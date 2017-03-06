@@ -21,7 +21,7 @@ For instance, [Bengaluru to Mysuru](https://goo.gl/maps/US7naHLKhW62) is only a 
 The rough route plan is as follows then:
 
 1. [Bengaluru][lp-bengaluru], arrival, some sightseeing, meeting friends we have there and perhaps enjoying a bit of nightlife.
-2. [Mysuru][lp-mysuru], for the palace(s) and possibly one of the best street markets in India.
+2. [Mysuru][lp-mysuru], for the [palace](https://en.wikipedia.org/wiki/Mysore_Palace)(s) and possibly one of the best street markets in India.
 3. [Wayanad][lp-wayanad], a short stopover to see elephants.
 4. [Kochi][lp-kochi], for a bit of sightseeing, but mostly time off at the beaches.
 5. [Kumarakom][lp-kumarakom], with some excellent lodging on houseboats. More on that later.
@@ -57,13 +57,13 @@ Our own diet is pretty varied day to day, with plenty of raw stuff on the menu. 
 
 ## Visas
 
-__Travel restrictions are always a nuisance__ for myself, and perhaps for everybody else living in the European Union---especially the Schengen zone. The Indian ones are easy to obtain, with a fully online procedure, if a bit costly at $48. Yet I'm always surprised at why some countries would make it difficult for others to visit. My understanding of visas is that they're meant to control immigration. Fine. Now, how many immigrants is India expecting  from Poland?
+__Travel restrictions are always a nuisance__ for myself, and perhaps for everybody else living in the European Union---especially the Schengen zone. The Indian ones are easy to obtain, with a [fully online procedure][india-online-visa], if a bit costly at $48. Yet I'm always surprised at why some countries would make it difficult for others to visit. My understanding of visas is that they're meant to control immigration. Fine. Now, how many immigrants is India expecting  from Poland?
 
 ## Wedding
 
 Finally, the grand event, **_the_ reason we are going to India**, in the "little" town of Coimbatore in Tamil Nadu. Only a handful of friends a relatives expected. Some 3,000 people perhaps. We might be the only white people in there.
 
-Of course we're thrilled! We're going to get ourselves the local clothing too look properly. Henna tattoos too, and everything else that's part of the process.
+Of course we're thrilled! We're going to get ourselves the local clothing to look properly. Henna tattoos too, and [everything else that's part of the process][tamil-wedding].
 
 We're a bit concerned for our good friend getting married, with the __ceremonies taking the whole weekend__. I remember my own wedding in Bulgaria, which was only a single day long, and how both physically and mentally exhausting it was. Now we're talking about not one but two, three or four days, depending how you count. That's an IronMan-class endurance sport!
 
@@ -71,6 +71,7 @@ We're a bit concerned for our good friend getting married, with the __ceremonies
 
 'nuff said for now. Time to comb Airbnb and Booking.com for accommodation offers on our route and prepare a training plan that I can follow in the 35C heat. This'll be an excellent transition away from this year's cold, snowy Polish winter.
 
+[india-online-visa]: https://indianvisaonline.gov.in/visa/tvoa.html
 [lp-bengaluru]: https://www.lonelyplanet.com/india/bengaluru-bangalore
 [lp-coimbatore]: https://www.lonelyplanet.com/india/tamil-nadu/coimbatore
 [lp-kochi]: https://www.lonelyplanet.com/india/kerala/kochi-cochin
@@ -79,4 +80,5 @@ We're a bit concerned for our good friend getting married, with the __ceremonies
 [lp-mysuru]: https://www.lonelyplanet.com/india/karnataka/mysore
 [lp-ooty]: https://www.lonelyplanet.com/india/tamil-nadu/ooty-udhagamandalam
 [lp-wayanad]: https://www.lonelyplanet.com/india/kerala/wayanad-wildlife-sanctuary
+[tamil-wedding]: http://tamilculture.com/photos-tamil-hindu-wedding-ceremony/
 [wunderground-bangalor]: https://www.wunderground.com/cgi-bin/findweather/getForecast?query=Bangalore%2C+India
