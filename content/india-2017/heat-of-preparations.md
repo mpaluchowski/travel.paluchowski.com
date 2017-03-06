@@ -14,7 +14,7 @@ Three weeks away from now we'll take off from Warsaw, [stop over at Doha]({{< re
 
 <!--more-->
 
-With __two and a half weeks of time we have for the trip__ there's _some_ time to see and do a few things, but not overly much either. And we need to be careful with how often we're planning to transit from one location to the other, because __travel times between cities are surprisingly long__, as offered by Google Maps.
+With __two and a half weeks we have for the trip__ there's _some_ time to see and do a few things, but not overly much either. And we need to be careful with how often we're planning to transit from one location to another, because __travel times between cities are surprisingly long__, as offered by Google Maps.
 
 For instance, [Bengaluru to Mysuru](https://goo.gl/maps/US7naHLKhW62) is only a 150km drive, but the time is a whopping 3 hours, meaning a snail-pace average of 50km an hour. I could _cycle_ the distance in just a little longer than that. It probably says a lot about the road conditions we'll be facing and means we'll have to curb our plans for seeing several far off locations and focus on a relatively small area.
 
