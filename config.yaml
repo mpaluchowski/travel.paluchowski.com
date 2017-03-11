@@ -7,6 +7,7 @@ googleAnalytics: UA-2971180-12
 author: "Michał Paluchowski"
 copyright: 'Made around the world by <a href="https://michal.paluchowski.com/">Michał Paluchowski</a>. All content is under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.'
 params:
+  logo: img/compass-rose.svg
   favicon:
     image: favicon.png
     type: image/png
