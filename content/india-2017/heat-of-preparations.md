@@ -21,7 +21,7 @@ For instance, [Bengaluru to Mysuru](https://goo.gl/maps/US7naHLKhW62) is only a 
 The rough route plan is as follows then:
 
 1. [Bengaluru][lp-bengaluru], arrival, some sightseeing, meeting friends we have there and perhaps enjoying a bit of nightlife.
-2. [Mysuru][lp-mysuru], for the [palace](https://en.wikipedia.org/wiki/Mysore_Palace)(s) and possibly one of the best street markets in India.
+2. [Mysuru][lp-mysuru], for the [palace](https://en.wikipedia.org/wiki/Mysore_Palace)(s) and possibly one of the best [street markets][devaraja-street-market] in India.
 3. [Wayanad][lp-wayanad], a short stopover to see elephants.
 4. [Kochi][lp-kochi], for a bit of sightseeing, but mostly time off at the beaches.
 5. [Kumarakom][lp-kumarakom], with some excellent lodging on houseboats. More on that later.
@@ -71,6 +71,7 @@ We're a bit concerned for our good friend getting married, with the __ceremonies
 
 'nuff said for now. Time to comb Airbnb and Booking.com for accommodation offers on our route and prepare a training plan that I can follow in the 35C heat. This'll be an excellent transition away from this year's cold, snowy Polish winter.
 
+[devaraja-street-market]: http://www.global-gallivanting.com/reasons-to-visit-devaraja-market-in-mysore-a-photo-essay/
 [india-online-visa]: https://indianvisaonline.gov.in/visa/tvoa.html
 [lp-bengaluru]: https://www.lonelyplanet.com/india/bengaluru-bangalore
 [lp-coimbatore]: https://www.lonelyplanet.com/india/tamil-nadu/coimbatore
