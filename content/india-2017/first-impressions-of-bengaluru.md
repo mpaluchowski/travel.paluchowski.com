@@ -4,6 +4,10 @@ location: Bengaluru, India
 tags:
   - traffic
   - expectations
+  - food
+  - security
+  - culture
+  - military
 timezone: IST
 title: First impressions of Bengaluru
 image: img/india-2017/first-impressions-of-bengaluru/street-rikshaws.jpg
