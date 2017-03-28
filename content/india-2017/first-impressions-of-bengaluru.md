@@ -19,7 +19,7 @@ __Perhaps countries located along the equator are simply much alike.__ Climate s
 
 To my delight, __there are sidewalks__. Some of them wide and solid, others much less so, but they're there. We can walk, taking in the city. Or we could jump into one of the inexpensive, shabby looking, but definitively worth a try, rikshaw. There's also __real public transportation__. Bengaluru has two metro lines (looking quite modern, judging from the station entrances), and a ton of public buses. The latter seem to be in various stages of disrepair, but we still _definitively_ would like to take a ride on one, just for the kicks.
 
-__Traffic is bad.__ Main streets, no matter how many lanes they have, are filled with cars and scooters. The notable difference from Bali is __the noise__. Drivers use their car horns as often as they do the gas pedal, just to notify all other vehicles within sight (and people trying to sleep nearby) that they're moving---left, right, to the front, it doesn't matter. Somehow this really doesn't bother us. We noticed it, then stopped noticing within an hour or so. It's background noise.
+__Traffic is bad.__ Main streets, no matter how many lanes they have, are filled with cars and scooters. The notable [difference from Bali]({{< ref "bali-2016/rules-of-the-road.md" >}}) is __the noise__. Drivers use their car horns as often as they do the gas pedal, just to notify all other vehicles within sight (and people trying to sleep nearby) that they're moving---left, right, to the front, it doesn't matter. Somehow this really doesn't bother us. We noticed it, then stopped noticing within an hour or so. It's background noise.
 
 Bengaluru seems to be occupied largely by two big organizations: __the military and the catholic church__. We encountered military installations and training centers every couple of streets, plus the occasional fighter jet setup as a monument on some intersection. Churches, congregations, church schools are also in abundance. Surprisingly, we saw _very_  few Hindu temples so far.
 
@@ -29,12 +29,14 @@ There's a __visible focus on security everywhere__. India's facing a threat of t
 
 {{< figure src="img/india-2017/first-impressions-of-bengaluru/coffee-watermelon-juice.jpg" class="left" alt="Coffee & delicious watermelon juice" title="Coffee & delicious watermelon juice" >}}
 
-__Food is great__. We've always been fans of the heavy-spiced Indian cuisine and so far it hasn't disappointed. Even in the small hotel we're staying at, where breakfast is rather plain by hotel standards, what we're getting is delicious.
+__Food is great__. We've always been fans of the heavy-spiced Indian cuisine and so far it hasn't disappointed. Even in the [small hotel we're staying at][toms-hotel], where breakfast is rather plain by hotel standards, what we're getting is _delicious_.
 
-We're yet to properly explore the food scene here, including the many fruit varieties, riper than we could ever hope to have in Poland. Watermelon juice, turns out, is a delicious companion to morning coffee.
+We're yet to properly explore the food scene here, including the many fruit varieties, riper than we could ever hope to have in Poland. Watermelon juice, turns out, is a delicious companion to morning coffee. And we had some locally crafted, uhm, craft beer, flavorful and beautifully refreshing in this weather.
 
 Finally, there are the __funnies of culture__. We stressed to our transport company that we'll be four people with large suitcases and need a car big enough to carry those. Not a problem---two suitcases fit into the smallish trunk, two other... on the roof. Traffic is left-hand and so is the customary way one passes pedestrians on the sidewalks. We still need a moment to adjust here. Streets are also filled with signs and wall marks making statements in eyebrow-raising English. Some of them sounding serious, and because of their form we wouldn't even know if we're committing any felony.
 
 {{< figure src="img/india-2017/first-impressions-of-bengaluru/sign-nuissance-procecuted.jpg" alt="Should we be worried?" title="Should we be worried?" >}}
 
 All in all, __we're really happy to be here__. Perhaps because of the familiarity stated in the beginning, or maybe it's the joy of having escaped the lengthy, cold and dark Polish winter, into a country of neverending warmth and sunshine. We have two more weeks ahead of us, now it's time to try out running in the local park.
+
+[toms-hotel]: http://tomshotelbangalore.com/
