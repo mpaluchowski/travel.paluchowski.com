@@ -1,6 +1,5 @@
 ---
 date: 2017-04-01T07:12:16+05:30
-draft: true
 image: img/india-2017/roaming-the-roads/traffic-devaraja-market.jpg
 location: Kuzhupilly Beach, India
 tags:
