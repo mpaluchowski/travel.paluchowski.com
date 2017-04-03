@@ -1,6 +1,5 @@
 ---
 date: 2017-04-03T06:30:03+05:30
-draft: true
 image: img/india-2017/chasing-sunsets/mari-sunset.jpg
 location: Kuzhupilly Beach, India
 tags:
