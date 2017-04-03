@@ -35,7 +35,7 @@ It's really __pleasant to have people here to talk to__, other than the four of 
 
 Our culinary education continues as we're __exploring Keralan flavors__. Tonight's dinner is supposed to be "fish Keralan style". I have no idea what that means, but the staff asked us whether we want that or fried fish "European style" and we definitively liked the former better. We can eat "European" back in Europe.
 
-__Dinners are special events__ at the Lodge, when the whole staff and all guests sit together at the table. Dishes are prepared upfront by a local lady. She spends perhaps half a day cooking up the curries, chutneys, parottas and various forms of rice (with shredded coconut! yum!)---six to eight of them each evening for us to mix and match. Banana Curry! Pineapple Curry! Makes me act like Pavlov's dog just thinking about it.
+__Dinners are special events__ at the Lodge, when the whole staff and all guests sit together at the table. Dishes are prepared upfront by a magnificently kind lady named Khadija. She spends perhaps half a day cooking up the curries, chutneys, parottas and various forms of rice (with shredded coconut! yum!)---six to eight of them each evening for us to mix and match. Banana Curry! Pineapple Curry! Makes me act like Pavlov's dog just thinking about it.
 
 There's a number of small, but **_very_ busy villages nearby**, where we go for shopping, lunch and other activities. A local rikshaw takes us there, zooming through the narrow roads, streets, busy traffic and the crowds. These are perfectly air-conditioned vehicles, with no windows and the air blowing through freely at our cruising speeds of up to 40kph.
 
