@@ -1,16 +1,20 @@
 ---
-date: 2017-04-03T17:42:04+05:30
+date: 2017-04-04T09:16:04+05:30
 draft: true
 image: img/india-2017/creative-kochi/chinese-fishing-nets.jpg
 location: Kochi, India
 tags:
   - art
   - tourists
+  - fishing
+  - sightseeing
+  - Jews
+  - trade
 timezone: IST
 title: Creative Kochi
 ---
 
-(intro)
+It's not all sky, sand and sea in Kerala. Being the subcontinent's eastern seafront, some of the first explorers from the west arrived here, followed by centuries of foreign contacts. We took a day off from lazying around and went discovering the old port of Kochi.
 
 <!--more-->
 
@@ -38,7 +42,7 @@ We didn't realize it was a Sunday---we completely lost track of time here---and 
 
 Inside it was the __most packed shopping experience I have ever been through__. Worthwhile to get a feeling of just how many people live in this country. We entered the "hypermarket", what in Poland and elsewhere in the world would've been merely a "supermarket" by size, grabbed a few fruits, some massively expensive toilet paper (no wonder [locals prefer bidet sprayers][india-toilet-use], also known as "bum guns") and rushed the hell outta there.
 
-(outro)
+Kochi has been a fun interlude from the shores of the Kuzhupilly Beach. I always enjoy visiting towns that historically had a close relationship with the sea, because they usually maintain a cozy atmosphere, and Kochi is no different. It just needs a thorough cleaning---an effort that's already underway, and we'll be holding our thumbs that it's successful.
 
 [india-toilet-use]: https://www.quora.com/I-have-heard-that-most-Indians-dont-use-toilet-paper-after-they-poop-they-just-wash-it-directly-with-their-hands-Why-do-they-do-that
 [kochi-muziris-biennale]: http://www.kochimuzirisbiennale.org/
