@@ -1,6 +1,5 @@
 ---
 date: 2017-04-04T09:16:04+05:30
-draft: true
 image: img/india-2017/creative-kochi/chinese-fishing-nets.jpg
 location: Kochi, India
 tags:
