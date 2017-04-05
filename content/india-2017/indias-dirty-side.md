@@ -1,6 +1,5 @@
 ---
 date: 2017-04-05T18:55:28+05:30
-draft: true
 image: img/india-2017/indias-dirty-side/trash.jpg
 location: Kainakary, India
 tags:
