@@ -6,6 +6,7 @@ location: Kainakary, India
 tags:
   - houseboats
   - waterways
+  - nature
 timezone: IST
 title: Cruising Kerala's backwaters
 ---
@@ -18,6 +19,8 @@ These waterways have for centuries been used as "highways", before any roads wer
 
 The kettuvalam are a major tourist attraction here, for locals and foreigners alike. In fact, we heard about them, and were strongly recommended to take one, from our friend in Bengaluru. We're told there's over 1,500 of them floating around here, and in the tourist season most waterways are packed.
 
+{{< figure src="img/india-2017/cruising-keralas-backwaters/kettuvalam-houseboat.jpg" alt="Kettuvalam, a Keralan houseboat" title="Kettuvalam, a Keralan houseboat" >}}
+
 Our boat is medium-sized, compared to others we've seen so far. One deck, with two bedrooms for the four of us, plus our own captain to steer it and a cook to cater to our culinary needs. It's all inclusive, with what promises to be excellent Keralan cuisine.
 
 There's air-conditioning at night, so we can sleep, but only during nighttime, when the boat docks somewhere and we connect to mainland current. That's no issue during the day though, when we sit on a covered deck with a very pleasant breeze passing through from the water. There's no WiFi, but the excellent Indian cellular network has a steady 3G/4G signal even out here, in the middle of nowhere, so I can send some photos back home and publish these posts here uninterrupted.
@@ -25,6 +28,8 @@ There's air-conditioning at night, so we can sleep, but only during nighttime, w
 We spend the days cruising the waters. A bit in the open of the Vembanad Lake---the largest lake in Kerala, we were told---which is nothing to write home about, just a vast amount of water with a number of similar houseboats floating around. Most of the time we're in the waterways though. Lined up along their shores are locals' houses, sometimes solitary, most of the time organized into small villages.
 
 These are captivating scenes. I think I shot some two hundred photos with a tele-lens, out of the eight hundred or so total in India so far. Small, colorful cottages, children playing cricket on an improvised local field, women doing the laundry in the river, soaking every piece of clothing then beating it with a loud SMACK! several times against large stones laying on the shore. From afar it looks like a solid workout for the arms and shoulders, it's just a pity that it takes so much time out of their days.
+
+{{< figure src="img/india-2017/cruising-keralas-backwaters/kerala-lush-green.jpg" alt="Kerala's lush green scenery" title="Kerala's lush green scenery" >}}
 
 There's a _ton_ of these houseboats here, and we're lucky we made it here outside of the tourist season, when only a handful of them are moving. Otherwise it'd literally be traffic jams on the channels.
 
