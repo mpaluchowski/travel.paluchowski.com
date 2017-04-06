@@ -1,6 +1,5 @@
 ---
 date: 2017-04-06T07:50:05+05:30
-draft: true
 image: img/india-2017/cruising-keralas-backwaters/kerala-backwaters.jpg
 location: Kainakary, India
 tags:
