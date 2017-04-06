@@ -7,6 +7,9 @@ tags:
   - houseboats
   - waterways
   - nature
+  - shopping
+  - Kerala
+  - food
 timezone: IST
 title: Cruising Kerala's backwaters
 ---
