@@ -19,11 +19,11 @@ I figured you'd ask. Many languages outside of India have the expression "sacred
 
 The story goes (in case you haven't heard it) that __cows in India are worshiped by the Hindus as representing fertility and nurturing__. Eating beef is obviously _off limits_, and the animals are free to roam the roads, meadows and wherever they may please. Even the [Polish Ministry of Foreign Affair's travel guide][msz-indie] includes a remark, that doing any harm to a cow (hitting it with a car, for instance) may cause serious trouble with the locals.
 
-We have met a number of cows. In Mysuru and throughout lowland Kerala they've been walking largely unobstructed, munching on whatever they found tasty. Plants, grass, flowers hanging off cars and motorcycles. Elsewhere not so much. None in Bengaluru I remember and none so far in Coimbatore. In Kochi, as in Munnar, there were lots of goats instead.
+We have met a number of cows. [In Mysuru]({{< ref "india-2017/diving-into-mysuru.md" >}}) and throughout lowland Kerala they've been walking largely unobstructed, munching on whatever they found tasty. Plants, grass, flowers hanging off cars and motorcycles. Elsewhere not so much. None [in Bengaluru]({{< ref "india-2017/first-impressions-of-bengaluru.md" >}}) I remember and none so far in Coimbatore. [In Kochi]({{< ref "india-2017/creative-kochi.md" >}}), as in Munnar, there were lots of goats instead.
 
 {{< figure src="img/india-2017/diving-into-mysuru/mysuru-cows.jpg" alt="Cow eating flowers off a motorcycle" title="Cow eating flowers off a motorcycle" >}}
 
-__Some of them were clearly owned and herded__. At Kuzhupilly Beach a number of residents owned cows, usually no more than one or two---it was a pretty poor neighborhood---which were kept close to the houses, milked and otherwise taken care of. I suspect all the animals we've seen walking without any binding were also ultimately watched over by somebody. They weren't "wild cows" if you will.
+__Some of them were clearly owned and herded__. [At Kuzhupilly Beach]({{< ref "india-2017/chasing-sunsets.md" >}}) a number of residents owned cows, usually no more than one or two---it was a pretty poor neighborhood---which were kept close to the houses, milked and otherwise taken care of. I suspect all the animals we've seen walking without any binding were also ultimately watched over by somebody. They weren't "wild cows" if you will.
 
 __Finding beef on the menu is rare, but it does occur.__ We saw it once or twice. And I'm sure we'd see more if we went to non-Indian restaurants. India being this big and diverse obviously hosts various people, some of whom would never eat beef, while others happily would.
 
