@@ -1,6 +1,5 @@
 ---
 date: 2017-04-09T16:25:52+05:30
-draft: true
 image: img/india-2017/how-are-cows-doing/indian-cow.jpg
 location: Coimbatore, India
 tags:
