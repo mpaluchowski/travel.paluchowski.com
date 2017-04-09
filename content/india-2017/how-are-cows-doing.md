@@ -1,7 +1,7 @@
 ---
 date: 2017-04-09T16:25:52+05:30
 draft: true
-image: ""
+image: img/india-2017/how-are-cows-doing/indian-cow.jpg
 location: Coimbatore, India
 tags:
   - cows
@@ -20,6 +20,8 @@ I figured you'd ask. We use the expression "sacred cow" in many languages outsid
 The story goes (in case you haven't heard it) that cows in India have a very special status, being worshiped by the Hindus, representing fertility and nurturing. Eating beef is obviously _off limits_, and the animals are roaming the roads, meadows and wherever they please freely. Even the Polish Ministry of Foreign Affair's travel guide includes a remark, that doing any harm to a cow (as in hitting it with a car) may cause trouble with the locals.
 
 We have met a number of cows. In Mysuru and throughout lowland Kerala they've been walking around largely unobstructed, munching on whatever they found tasty. Plants, grass, flowers hanging off cars and motorcycles.
+
+{{< figure src="img/india-2017/diving-into-mysuru/mysuru-cows.jpg" alt="Cow eating flowers off a motorcycle" title="Cow eating flowers off a motorcycle" >}}
 
 Some of them were clearly owned and herded though. At Kuzhupili Beach a number of residents owned some cows, which were bound to local trees, milked and otherwise taken care of. I suspect all of the other animals we've seen walking without any binding were also owned and watched over by somebody. They weren't "wild cows" if you will.
 
