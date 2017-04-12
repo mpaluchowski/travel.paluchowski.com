@@ -28,6 +28,8 @@ Munnar is the most distinct location on our route because of its location---high
 
 The mild climate makes growing tea possible. Plantations cover large areas around Munnar---hilltops, slopes, valleys, all green, all covered top to bottom with densely packed, low bushes. I did most of the photos in the evening after we arrived. The sun was already hidden behind one of the mountains and there wasn't enough light to highlight all the shades of green that the surroundings present.
 
+{{< figure src="img/india-2017/teatime-in-munnar/tea-fields.jpg" alt="Tea plantation" title="Tea plantation" >}}
+
 Our accommodation, called Green Magic Home is another one worth mentioning because of the stunning view from the terrace, where we spent our evening and then had our breakfast served. The small house is settled on a mountain slope overlooking the valley near Munnar (but not the city itself), with a view on the surrounding mountains, a view villages down in the valley, boundless carpets of tea plantations cut through by narrow service roads and paths between the bushes.
 
 There's nothing else to do here. No temples, palaces nearby. Just the greenness to enjoy. We thought we might check out the wildlife sanctuary on our way later from Munnar to Coimbatore, but sadly we won't have enough time. It'll take us 5.5 hours of driving, not including a pit stop for lunch, and we still need to pick up our clothing for the wedding before the shops close on Friday evening.
