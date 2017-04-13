@@ -1,6 +1,5 @@
 ---
 date: 2017-04-06T18:35:11+05:30
-draft: true
 image: img/india-2017/teatime-in-munnar/tea-leaves.jpg
 location: Munnar, India
 tags:
