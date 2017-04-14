@@ -1,6 +1,5 @@
 ---
 date: 2017-04-10T15:35:11+05:30
-draft: true
 image: img/india-2017/grand-wedding/wedding-family-photo.jpg
 location: Coimbatore, India
 tags:
