@@ -1,7 +1,7 @@
 ---
 date: 2017-04-10T15:35:11+05:30
 draft: true
-image: ""
+image: img/india-2017/grand-wedding/wedding-family-photo.jpg
 location: Coimbatore, India
 tags:
   - wedding
@@ -12,6 +12,8 @@ timezone: IST
 title: The Grand Wedding
 ---
 
+
+
 <!--more-->
 
 The wedding is a three-day event. We're told that that's the modern-times' "short" version of what used to be a week of ceremonies in the old days, just because people are more busy nowadays. Why this long? It relates to how many people will typically attend. Thousands. The wealthier the family the more it'll be, and in our friend's case the final number oscillated around _five_ thousand. That's some _fifty times more_ than you'll have at a typical wedding in Poland.
@@ -19,6 +21,8 @@ The wedding is a three-day event. We're told that that's the modern-times' "shor
 Three days times five thousand people means a lot of opportunities for networking, which is a major component of the wedding. Relationships matter a lot in India and theses events are a way to maintain them, within the circles of geographically dispersed families, friends and acquaintances.
 
 I was heavily surprised by just _how little_ the event centered around the bride & groom and the procedures they were going through. Mind you, at any given time their closest relatives were present with them, and a few hundred people were watching from the audience seats. But the people focused on the couple were just a subset of everyone in the facility. The rest were coming in or out, eating, sipping coffee, chatting.
+
+{{< figure src="img/india-2017/grand-wedding/bride-blessings.jpg" class="right" alt="Blessings for the bride" title="Blessings for the bride" >}}
 
 The wedding starts on Saturday morning with the bride-to-be receiving blessings from her own family, orchestrated by the women. Relatively few guests attend this portion of the event, mostly family and close friends. The facility is still only being setup, stage is being built, speakers and screens installed (if any), chairs laid out. The groom is free to wander the facility and welcome guests. Mid-day everyone is off to prepare for the evening event.
 
@@ -28,6 +32,8 @@ Then there are photos. Lots and lots of photos. The future newlyweds (they're _n
 
 Saturday evening is the closest it gets to what we call a "wedding reception" in the western world. There's music---a pair of local singers performing live---but _no_ dancing (we were disappointed on this one, hoping for a bit of Bollywood-style choreographies, but apparently that's a north-Indian thing), and there's plenty of food. Buffets of breads, chutneys, curries, rice (obviously) and all the other spice-filled Indian delicacies. We couldn't really understand a thing from the menu, printed all in Tamil, but thankfully the buffet setup allowed us to choose by sight & smell.
 
+{{< figure src="img/india-2017/grand-wedding/palm-tree-leave-plate.jpg" alt="Palm tree leaf plate" title="Palm tree leaf plate" >}}
+
 Saturday's the moment when we realized we should've practiced eating with our hands. All food was presented to us on coconut palm tree leaves, with no utensils. So we did a quick recap of what we knew:
 
 * touch food with your _right_ hand only,
@@ -35,6 +41,8 @@ Saturday's the moment when we realized we should've practiced eating with our ha
 * put it in your mouth keeping your hand horizontally and lightly pushing the food with your thumb.
 
 It worked all right, we managed. At some point we were offered spoons, which we politely declined. Wouldn't want to have our bragging rights taken away for this one.
+
+{{< figure src="img/india-2017/grand-wedding/wedding-attire.jpg" class="right" alt="Our attire for the wedding" title="Our attire for the wedding" >}}
 
 Finally, the Sunday. The wedding ceremony starts around 7:30AM, but the day started a lot earlier for us. Had to get out of bed at 5AM, get clean and ready for the girls' sarees to arrive just before 6AM and followed by stylists to help put on the sarees. Many of today's young Indian women don't know how to do that, relying on their mothers, aunts and other elders.
 
