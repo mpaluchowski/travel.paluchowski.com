@@ -1,6 +1,5 @@
 ---
 date: 2017-04-15T19:44:08+02:00
-draft: true
 image: img/india-2017/weight-watchers-nightmare/south-indian-lunch.jpg
 location: Warszawa, Poland
 tags:
