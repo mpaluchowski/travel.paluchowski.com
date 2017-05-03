@@ -7,6 +7,8 @@ tags:
   - modernity
   - recycling
   - ecology
+  - payments
+  - violence
 timezone: CEST
 title: March towards the future
 ---
