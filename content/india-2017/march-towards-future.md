@@ -1,6 +1,5 @@
 ---
 date: 2017-05-03T19:46:39+02:00
-draft: true
 image: img/india-2017/march-towards-future/toilet-chamundi-hill.jpg
 location: Warszawa, Poland
 tags:
