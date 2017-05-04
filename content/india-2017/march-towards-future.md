@@ -40,7 +40,7 @@ __Ecology__ is big on the agenda. Yes, there's [lots and lots of litter everywhe
 
 [CFLs][wp-cfl] and LED lights are dominating. We saw a [__sizable wind farm__ between Udumalpet and Pollachi][udumalpet-wind-farm] in Tamil Nadu. Many homes heat their water with solar thermal collectors. I haven't spotted any solar batteries, but with all the sunlight India's getting I'm sure they're already in use. In short, progress is tangible, even if there's still a lot to do for the environment.
 
-__Energy supply__ is perhaps still a bit fragile. While we were [in Chameleon Beach Lodge in Kerala]({{< ref "india-2017/chasing-sunsets.md" >}}), power went out one day and staid off for the better part of the afternoon. We haven't experienced outages elsewhere, but a lot of buildings have visible power generators attached.
+__Energy supply__ is perhaps still a bit fragile. While we were [in Chameleon Beach Lodge in Kerala]({{< ref "india-2017/chasing-sunsets.md" >}}), power went out one day and stayed off for the better part of the afternoon. We haven't experienced outages elsewhere, but a lot of buildings have visible power generators attached.
 
 __Payments__ became a hot topic last November, when the government [announced a sudden "demonetization"][wp-india-demonetization], from one day to the next invalidating all IDR 500 and 1,000 notes, replacing them with new 500 and 2,000 ones and for months curtailing the amount people were allowed to pay out of ATMs. We're lucky we arrived just after these measures were lifted.
 
@@ -50,7 +50,7 @@ __ATMs__ were a similar story. Widely available, even in small towns. Some of th
 
 {{< figure src="img/india-2017/march-towards-future/street-food-hygiene.jpg" alt="Street food, uhm, hygiene?" title="Street food, uhm, hygiene?" >}}
 
-Finally, the __toilets__. Sanitation in India is a topic big enough that it even [has its own TED Talks](https://www.ted.com/talks/joe_madiath_better_toilets_better_life). All our accommodation had decent facilities (otherwise we wouldn't have staid there obviously), but in many, many public places, restaurants and others, there was __no toilet paper__. There was the "[bum gun][wp-bidet-shower]", if lucky, or just a bucket and a jug if not. I'm not even sure how to effectively use the latter and I know for a fact that the locals aren't too good at it either, because most of these toilets had floors flooded with water.
+Finally, the __toilets__. Sanitation in India is a topic big enough that it even [has its own TED Talks](https://www.ted.com/talks/joe_madiath_better_toilets_better_life). All our accommodation had decent facilities (otherwise we wouldn't have stayed there obviously), but in many, many public places, restaurants and others, there was __no toilet paper__. There was the "[bum gun][wp-bidet-shower]", if lucky, or just a bucket and a jug if not. I'm not even sure how to effectively use the latter and I know for a fact that the locals aren't too good at it either, because most of these toilets had floors flooded with water.
 
 Even if I did use my (left, obviously) hand to wash myself, going to the washroom afterwards there often was no soap. No way for me to make sure my hands are clean. (We had our anti-bacterial gel, but what do the locals have?) And often times these were places serving food, which is why one eats in India with their right hand _only_.
 
