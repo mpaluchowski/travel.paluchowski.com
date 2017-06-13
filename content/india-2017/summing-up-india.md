@@ -1,6 +1,5 @@
 ---
 date: 2017-05-07T06:53:32+02:00
-draft: true
 image: img/india-2017/summing-up-india/hindu-temple.jpg
 location: Warszawa, Poland
 tags:
