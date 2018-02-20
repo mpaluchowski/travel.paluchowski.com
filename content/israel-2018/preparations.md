@@ -8,3 +8,13 @@ tags:
   - preparations
 image: ""
 ---
+
+- Polish-Israeli conflict on Holocaust
+- stay in Tel Aviv, drive around
+- rent a car
+- Tel Aviv for the beaches and nightlife
+- Jerusalem, Yad Vashem museum
+- Haifa
+- Dead Sea?
+- not a religious trip
+- looks like the Balkans?
