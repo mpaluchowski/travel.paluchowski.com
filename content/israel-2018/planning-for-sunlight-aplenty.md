@@ -23,8 +23,8 @@ Tel Aviv itself doesn't seem to have many sights---it'll "just" be a lovely plac
 
 - **Jerusalem**, of course, covered by the first and longest chapter of the Israel Lonely Planet travel guide. Thousands of years of history in one place. Stones and olive trees that have "seen" events that legends talk about. We might need to go there twice just to cover the most interesting parts.
 - **Haifa** with its Baha'i Gardens, beautiful port and adjacent districts.
-- **Caesarea** for the old, Roman ruins and nearby **Zichron Ya'acov** for the excellent wine.
-- **Sea of Galilee** with its beautiful nature, and most likely the **Dead See** to have the obligatory photos of floating on top of the super-salty water.
+- **Caesarea** for the old, Roman ruins and nearby **Zikhron Ya'akov** for the excellent wine.
+- **Sea of Galilee** with its beautiful nature, and most likely the **Dead Sea** to have the obligatory photos of floating on top of the super-salty water.
 - **Nazareth** and **Bethlehem**, perhaps, because they're so enshrined in the history of the region, even though we're not going there for religious reasons. More on that later.
 
 Many people, upon hearing about us going to Israel---the Holy Land---assume we're doing so for religious reasons. We're not. What we're after is the ingenuity and energy of the people, that in the most unlikely of circumstances created this little, but massively successful country in a place surrounded by enemies. We're heavily inspired by books, such as [Startup Nation](https://www.amazon.com/Start-up-Nation-Israels-Economic-Miracle-ebook/dp/B004QZ9P6K/) and want to see all the good we heard about the country with our own eyes.
