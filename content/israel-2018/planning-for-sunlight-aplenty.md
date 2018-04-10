@@ -9,7 +9,6 @@ tags:
   - climate
   - politics
   - religion
-image: ""
 ---
 
 I've been watching [StreetView images from Tel Aviv](https://goo.gl/maps/Cvt46icUWSK2) for months now, with envy. People in March and October walking around in short sleeves and sandals, light jackets at worst. All the while we were having -15C here in Warsaw. But it's time now. Spring's in Poland, and a few days from now we'll be in year-round-sunny Israel.
