@@ -7,6 +7,7 @@ tags:
   - Israel
   - independence
   - patriotism
+  - parties
 image: ""
 ---
 
