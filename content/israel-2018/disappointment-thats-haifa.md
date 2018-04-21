@@ -6,7 +6,7 @@ location: Tel Aviv
 tags:
   - Israel
   - Haifa
-image: ""
+image: img/israel-2018/disappointment-thats-haifa/bahai-gardens.jpg
 ---
 
 
@@ -22,6 +22,8 @@ Navigating a mountain slope takes more time, so our primary destination---the **
 Let's see, what else does Haifa have to offer? Turns out, not much. The Lonely Planet guide hailed the **Hadar** district as a "garden city", and indeed the streets were pleasantly shaded by rows of trees. The adjacent **Wadi Nisnas** neighborhood is described as a "museum without walls" and we did see a number of neat murals on the way. Neither of these two were, however, particularly engaging or worth a visit by themselves.
 
 Then there's the **Downtown** part, which could be considered the center or the old town, I guess. In reality, it's one small, partly dilapidated street with a few bars and restaurants along it. On the plus side, we had a delicious falafel lunch here.
+
+{{< figure src="img/israel-2018/disappointment-thats-haifa/haifa-downtown.jpg" alt="Haifa Downtown" title="Haifa Downtown" >}}
 
 The south-western part of the city hosts a **high-tech campus** with heavyweights of the IT industry located here---Microsoft, IBM, Intel and others. That's likely because Haifa is home to [Technion](https://www.technion.ac.il/en/home-2/)---Israel's top technical university. It's an impressive concentrations of big brains and money, although obviously the area is an office district like pretty much every other in the world, not a worthy sight.
 
