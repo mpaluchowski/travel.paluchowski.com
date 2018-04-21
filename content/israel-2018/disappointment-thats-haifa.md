@@ -6,6 +6,8 @@ location: Tel Aviv
 tags:
   - Israel
   - Haifa
+  - high-tech
+  - livability
 image: img/israel-2018/disappointment-thats-haifa/bahai-gardens.jpg
 ---
 
