@@ -1,5 +1,5 @@
 ---
-date: 2018-04-21T19:56:10+03:00
+date: 2018-04-23T10:34:10+03:00
 title: Scorching heat of the Dead Sea
 timezone: IDT
 location: Tel Aviv
@@ -10,6 +10,8 @@ tags:
   - heat
 image: ""
 ---
+
+People floating on their backs in the deep blue water, reading newspapers. That's the image of the Dead Sea we had in our minds, probably from some ancient brochure. We had to see for ourselves, of course.
 
 <!--more-->
 
