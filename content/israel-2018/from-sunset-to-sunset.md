@@ -6,7 +6,7 @@ location: Tel Aviv
 tags:
   - Israel
   - holidays
-image: ""
+image: img/israel-2018/from-sunset-to-sunset/tel-aviv-sunset.jpg
 ---
 
 "We close today at seven", said the shop clerk on the eve of [Yom Hazikaron]({{< ref "israel-2018/proud-nation.md" >}}). Most of the shops and restaurants did likewise, with 19:00 being roughly the time of sunset at this time of year. Israel lives on a curious schedule, counting many of its days from sunset to sunset.
