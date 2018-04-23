@@ -8,6 +8,8 @@ tags:
   - Dead Sea
   - desert
   - heat
+  - seaside
+  - beaches
 image: img/israel-2018/scorching-heat-dead-sea/desert-dead-sea.jpg
 ---
 
