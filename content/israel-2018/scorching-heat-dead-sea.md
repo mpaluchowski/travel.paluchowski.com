@@ -8,7 +8,7 @@ tags:
   - Dead Sea
   - desert
   - heat
-image: ""
+image: img/israel-2018/scorching-heat-dead-sea/desert-dead-sea.jpg
 ---
 
 People floating on their backs in the deep blue water, reading newspapers. That's the image of the Dead Sea we had in our minds, probably from some ancient brochure. We had to see for ourselves, of course.
@@ -22,6 +22,8 @@ It's a weird place. Reminded me of Las Vegas---an unreal oasis of civilization b
 Getting here requires **driving through the desert**, starting around Arad and along a continuous, steep drop of almost a kilometer vertically, down to nearly 500m *below* sea level. Markers along the road inform of the current terrain level, appearing at every 100m of descent. It's an impressive landscape of nothing but hills of sand and rocks, with sparsely growing scrubs here and there, and the occasional herds of camels closer to Arad. Beautiful, and deadly, if one was to get stranded there.
 
 It's **scorching hot**. Anywhere between 35 and 40C, rising the closer you get to the sea. Most of the beach-goers in Ein Bokek opted to stay our of direct sunglight, underneath large roof-like structures built for that purpose. Nights are quite cold, we were told, which isn't surprising in a desert, but we didn't stay long enough to check on our own.
+
+{{< figure src="img/israel-2018/scorching-heat-dead-sea/ein-bokek-beach.jpg" alt="Ein Bokek beach" title="Ein Bokek beach" >}}
 
 The entrance to the beach sported a set of instructions, advising visitors to **never dive** in the water and by all means **not to swallow it**. If anyone does, they need to see a doctor *immediately*. How inviting.
 
