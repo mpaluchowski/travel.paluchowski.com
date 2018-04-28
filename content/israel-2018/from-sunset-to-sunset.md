@@ -2,7 +2,7 @@
 date: 2018-04-23T18:51:23+03:00
 title: From sunset to sunset
 timezone: IDT
-location: Tel Aviv
+location: Tel Aviv, Israel
 tags:
   - Israel
   - holidays

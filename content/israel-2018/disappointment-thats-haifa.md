@@ -2,7 +2,7 @@
 date: 2018-04-21T09:02:28+03:00
 title: The disappointment that's Haifa
 timezone: IDT
-location: Tel Aviv
+location: Tel Aviv, Israel
 tags:
   - Israel
   - Haifa

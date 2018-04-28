@@ -2,7 +2,7 @@
 date: 2018-04-19T21:08:21+03:00
 title: Proud nation
 timezone: IDT
-location: Tel Aviv
+location: Tel Aviv, Israel
 tags:
   - Israel
   - independence

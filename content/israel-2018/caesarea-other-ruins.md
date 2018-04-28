@@ -2,7 +2,7 @@
 date: 2018-04-24T07:59:06+03:00
 title: Caesarea and other ruins
 timezone: IDT
-location: Tel Aviv
+location: Tel Aviv, Israel
 tags:
   - Israel
   - ruins

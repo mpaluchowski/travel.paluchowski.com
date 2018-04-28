@@ -2,7 +2,7 @@
 date: 2018-04-23T10:34:10+03:00
 title: Scorching heat of the Dead Sea
 timezone: IDT
-location: Tel Aviv
+location: Tel Aviv, Israel
 tags:
   - Israel
   - Dead Sea
