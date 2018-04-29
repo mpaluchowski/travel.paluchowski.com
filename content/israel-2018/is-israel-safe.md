@@ -1,5 +1,5 @@
 ---
-date: 2018-04-27T18:11:31+03:00
+date: 2018-04-29T09:05:31+03:00
 title: Is Israel safe?
 timezone: EEST
 location: Veliki Preslav, Bulgaria
@@ -7,7 +7,6 @@ tags:
   - Israel
   - security
   - weapons
-image: ""
 ---
 
 Terrorist attacks, bombings and warfare are, sadly, as much part of Israel's image, as the Western Wall and other sacred places. Our families were mildly concerned before our travel, urging us to stay safe and out of trouble. But was it warranted? For the most part, we *felt* very safe and saw less visible security than elsewhere.
