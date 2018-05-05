@@ -8,7 +8,7 @@ tags:
   - Jerusalem
   - religion
   - churches
-image: ""
+image: img/israel-2018/jerusalem-or-bust/western-wall-temple-mount.jpg
 ---
 
 Covered by the first, and by far the longest chapter of the [Lonely Planet Travel Guide to Israel](https://shop.lonelyplanet.com/products/israel-and-the-palestinian-territories-travel-guide-8). Of the (relatively few) places we've seen in the country, **it was the only one offering sights that impressed us**. That, together with its religious status, makes it chock-full of tourists---numerous groups of pilgrims, squeezing through the narrow streets of the Old City while chanting religious songs.
