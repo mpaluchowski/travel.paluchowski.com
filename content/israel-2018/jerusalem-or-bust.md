@@ -11,9 +11,9 @@ tags:
 image: ""
 ---
 
-<!--more-->
+Covered by the first, and by far the longest chapter of the [Lonely Planet Travel Guide to Israel](https://shop.lonelyplanet.com/products/israel-and-the-palestinian-territories-travel-guide-8). Of the (relatively few) places we've seen in the country, **it was the only one offering sights that impressed us**. That, together with its religious status, makes it chock-full of tourists---numerous groups of pilgrims, squeezing through the narrow streets of the Old City while chanting religious songs.
 
-Jerusalem is the first, and by far the longest chapter of the [Lonely Planet Travel Guide to Israel](https://shop.lonelyplanet.com/products/israel-and-the-palestinian-territories-travel-guide-8). Of the (relatively few) places we've seen in the country, **it was the only one offering sights that impressed us**. That, together with its religious status, makes it chock-full of tourists---numerous groups of pilgrims, squeezing through the narrow streets of the Old City while chanting religious songs.
+<!--more-->
 
 With tourists come all the annoyances of tourism-oriented commerce. Random people on the street offering city tours, rides to Bethlehem (which we couldn't reach easily on our own, because our car rental contract forbade us to go into Palestinian territory) and virtually all taxi drivers peddling their services---particularly intensely trying to convince anyone heading for the Mount of Olives to not go there on foot, this being such a "steep and difficult climb".
 
