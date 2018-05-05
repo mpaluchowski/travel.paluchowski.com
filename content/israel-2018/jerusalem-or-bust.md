@@ -1,6 +1,6 @@
 ---
 date: 2018-04-30T09:28:01+03:00
-title: Jerusalem
+title: Jerusalem or bust
 timezone: EEST
 location: Veliki Preslav, Bulgaria
 tags:
