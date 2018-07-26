@@ -15,7 +15,7 @@ timezone: IST
 title: Diving into Mysuru
 ---
 
-This is it, we're in India. Not the [cosmopolitan streets of Bengaluru]({{< ref "india-2017/first-impressions-of-bengaluru.md" >}}) anymore, and with far fewer white people in sight. Food is getting even better, weather is still great, we're integrating closer with local people, literally rubbing shoulders, and arguing over the price of watermelons.
+This is it, we're in India. Not the [cosmopolitan streets of Bengaluru]({{< ref "/india-2017/first-impressions-of-bengaluru.md" >}}) anymore, and with far fewer white people in sight. Food is getting even better, weather is still great, we're integrating closer with local people, literally rubbing shoulders, and arguing over the price of watermelons.
 
 <!--more-->
 

@@ -9,7 +9,7 @@ timezone: CET
 title: T minus 24 hours
 ---
 
-Almost there. Tomorrow at this time we'll be sipping outrageously overpriced coffee at Chopin Airport, waiting for boarding for the first leg of our journey. Looks like we have everything covered, [past dilemmas]({{< ref "india-2017/heat-of-preparations.md" >}}) resolved, auto-responders operational. It's just bits and pieces left.
+Almost there. Tomorrow at this time we'll be sipping outrageously overpriced coffee at Chopin Airport, waiting for boarding for the first leg of our journey. Looks like we have everything covered, [past dilemmas]({{< ref "/india-2017/heat-of-preparations.md" >}}) resolved, auto-responders operational. It's just bits and pieces left.
 
 <!--more-->
 

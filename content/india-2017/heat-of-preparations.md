@@ -10,7 +10,7 @@ timezone: CET
 title: The heat of preparations
 ---
 
-Three weeks away from now we'll take off from Warsaw, [stop over at Doha]({{< ref "bali-2016/doha.md" >}}) for some frozen yogurt, and then head straight for India. We're in the middle of our usual planning & preparations routine, steadily getting a bit more anxious with every passing week. It'll be fun to see how our, certainly flawed, expectations stack up against reality on the ground.
+Three weeks away from now we'll take off from Warsaw, [stop over at Doha]({{< ref "/bali-2016/doha.md" >}}) for some frozen yogurt, and then head straight for India. We're in the middle of our usual planning & preparations routine, steadily getting a bit more anxious with every passing week. It'll be fun to see how our, certainly flawed, expectations stack up against reality on the ground.
 
 <!--more-->
 
@@ -35,7 +35,7 @@ Doable? Hopefully. Our local friends said it's perhaps only a little bit of a st
 
 We've pretty much settled for __renting a car__ and using that as transportation. It's not as iconic as taking the Indian trains, but leaves us a lot of freedom in deciding the timings and routes of our travel. What we're still discussing is whether we want to be driving ourselves or hire a local driver.
 
-There have been legends told about the __unruly traffic of India__ (and other Asian countries, of course), people completely disregarding any regulations and standards. But I was [personally driving in Bali for three full weeks]({{< ref "bali-2016/rules-of-the-road.md" >}}), in what I _think_ were very similar conditions to what we'll face in India, and I'm not particularly daunted. It's much less dangerous than it seems from the outside. One simply has to be pretty decisive about intentions and execute them carefully. Only when you hesitate do others get confused and possibly dangerous situations happen on the road.
+There have been legends told about the __unruly traffic of India__ (and other Asian countries, of course), people completely disregarding any regulations and standards. But I was [personally driving in Bali for three full weeks]({{< ref "/bali-2016/rules-of-the-road.md" >}}), in what I _think_ were very similar conditions to what we'll face in India, and I'm not particularly daunted. It's much less dangerous than it seems from the outside. One simply has to be pretty decisive about intentions and execute them carefully. Only when you hesitate do others get confused and possibly dangerous situations happen on the road.
 
 Having said that, our __local friends insist that we hire a local driver__ with the car we'll be getting, saying that even they do so when they leave their home state. Apparently there are local road regulations to follow, known by the drivers but usually not the foreigners, and a driver would also be very helpful in resolving any local disputes that may arise.
 
@@ -49,7 +49,7 @@ One particularly interesting location will be the [house boats we were suggested
 
 ## Litter
 
-Oh, we've been warned. Some of the people we know, who have been to India before, said that they have "never seen such a messy place before, ever". Again, we've [seen our own share in Bali]({{< ref "bali-2016/future-of-bali.md" >}}), have been to the Balkans and even Poland isn't nearly as tidy as we would like it to be. We'll see for ourselves and report back on the findings.
+Oh, we've been warned. Some of the people we know, who have been to India before, said that they have "never seen such a messy place before, ever". Again, we've [seen our own share in Bali]({{< ref "/bali-2016/future-of-bali.md" >}}), have been to the Balkans and even Poland isn't nearly as tidy as we would like it to be. We'll see for ourselves and report back on the findings.
 
 Speaking of hygienic standards, travel advice includes the __usual warnings of possible food poisoning__, avoiding drinking anything else than bottled water and never, _ever_ eating on the street. We're trying to stay reasonable here. I can easily imagine people, whose daily diet consists of highly processed food, who then travel to a place like India, where the first thing they'll try will get their stomachs upset.
 

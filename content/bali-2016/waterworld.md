@@ -12,7 +12,7 @@ tags:
 image: img/bali-2016/waterworld/snorkeler-header.jpg
 ---
 
-A huge chunk of __Bali's riches are below the surface of the ocean__. There's a whole industry profiting off of that here, from diving courses and expeditions, through freediving to snorkeling for the amateurs among us (that would be us, of course). Exploring the seabed and its wildlife is one of the top three activities marketed every five meters on every commercial beach, along with [surfing lessons]({{< ref "bali-2016/sky-sand-surf.md" >}}) and [_massaaage_]({{< ref "bali-2016/would-you-like-a-massaaage.md" >}}).
+A huge chunk of __Bali's riches are below the surface of the ocean__. There's a whole industry profiting off of that here, from diving courses and expeditions, through freediving to snorkeling for the amateurs among us (that would be us, of course). Exploring the seabed and its wildlife is one of the top three activities marketed every five meters on every commercial beach, along with [surfing lessons]({{< ref "/bali-2016/sky-sand-surf.md" >}}) and [_massaaage_]({{< ref "/bali-2016/would-you-like-a-massaaage.md" >}}).
 
 <!--more-->
 

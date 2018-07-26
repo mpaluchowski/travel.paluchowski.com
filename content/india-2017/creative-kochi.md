@@ -35,7 +35,7 @@ The main sight in Mattancherry is supposed to be the __Mattanchery Palace__, als
 
 {{< figure src="img/india-2017/creative-kochi/dutch-palace.jpg" alt="Dutch Palace, aka hen house" title="Dutch Palace, aka hen house" >}}
 
-On the way [back to Chameleon Beach Lodge]({{< ref "india-2017/chasing-sunsets.md" >}}) we decided to pass through the mainland district of Ernakulam and __visit the LuLu mall__. Yes, a _mall_. We've been told that it's a pretty fancy place, with live performances and an ice rink inside. That... was a mistake.
+On the way [back to Chameleon Beach Lodge]({{< ref "/india-2017/chasing-sunsets.md" >}}) we decided to pass through the mainland district of Ernakulam and __visit the LuLu mall__. Yes, a _mall_. We've been told that it's a pretty fancy place, with live performances and an ice rink inside. That... was a mistake.
 
 We didn't realize it was a Sunday---we completely lost track of time here---and apparently on Sundays _the whole nation_ is storming malls around the region. Cars were queuing for two blocks to enter the parking lot. Our driver dropped us off quickly at the entrance and then disappeared. Took us half an hour later to find him after we left the mall.
 

@@ -23,7 +23,7 @@ True to its name, the the __school's mission__ is to "educate _for_ sustainabili
 
 Children learn by doing, with practical workshops and exercises. Many of them take place at dedicated, __sustainability-oriented stations__---a recycling facility right at the entrance (where "recycling" also includes trading obsolete possessions), several vegetable gardens, a water sourcing station, a power station using water to generate electricity (making the school self-sufficient energy-wise, on most days). Even bamboo construction is part of the curriculum. There's plenty of arts education too. We witnessed a musical band playing, children practicing dance, and passed by a building used for theater classes. [Sir Ken Robinson](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) would've been happy.
 
-[Cooking]({{< ref "bali-2016/rice-nation.md" >}}) is organic, local and traditional Balinese. We noticed women in the kitchen weaving neat, small purses from coconut palm leaves, curiously asked what they were and found out they're used to... cook rice, they way people did here for centuries, without the use of plastic.
+[Cooking]({{< ref "/bali-2016/rice-nation.md" >}}) is organic, local and traditional Balinese. We noticed women in the kitchen weaving neat, small purses from coconut palm leaves, curiously asked what they were and found out they're used to... cook rice, they way people did here for centuries, without the use of plastic.
 
 {{< figure src="img/bali-2016/green-school/rice-cooking-purses.jpg" alt="Rice cooking purses" title="Rice cooking purses" >}}
 

@@ -15,7 +15,7 @@ Up, and down, and up again, and see that you don't step into dog poo. Haifa is I
 
 <!--more-->
 
-The city seemed like a good target for our first excursion out of Tel Aviv. A little over an hour's drive, not too much to see there and we would be back just in time for the [evening celebrations of Yom Ha'atzmaut]({{< ref "israel-2018/proud-nation.md" >}}).
+The city seemed like a good target for our first excursion out of Tel Aviv. A little over an hour's drive, not too much to see there and we would be back just in time for the [evening celebrations of Yom Ha'atzmaut]({{< ref "/israel-2018/proud-nation.md" >}}).
 
 The city's **built on the northern slope of Mount Carmel**. That's an important fact I did read before but somehow didn't consciously register. We quickly realized what that meant when we arrived and I had to drive the narrow, steep streets on our way to a parking lot. Shortly afterwards we had to *walk* the same way---up or down in nearly 30C heat.
 

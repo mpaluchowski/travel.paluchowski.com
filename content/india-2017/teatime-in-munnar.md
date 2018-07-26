@@ -16,7 +16,7 @@ Time to cool off. 25C is the top temperature here this season and we had to dig 
 
 <!--more-->
 
-[We made it to Munnar despite the hartal]({{< ref "india-2017/cruising-keralas-backwaters.md" >}}), although it wasn't exactly a smooth ride. A group of __protesters stopped us when we entered [Kochi]({{< ref "india-2017/creative-kochi.md" >}})__, surrounded the car, and in mixed English explained why we couldn't go onwards before the protest ends at 6PM. They generally acted peaceful and friendly, but still being surrounded by a bunch of upset men was anything but comforting.
+[We made it to Munnar despite the hartal]({{< ref "/india-2017/cruising-keralas-backwaters.md" >}}), although it wasn't exactly a smooth ride. A group of __protesters stopped us when we entered [Kochi]({{< ref "/india-2017/creative-kochi.md" >}})__, surrounded the car, and in mixed English explained why we couldn't go onwards before the protest ends at 6PM. They generally acted peaceful and friendly, but still being surrounded by a bunch of upset men was anything but comforting.
 
 Turned out one of the protesters had some relationship to our driver---either an acquaintance or shared origin. He helped negotiate our release. The men told us to put a sign on the windshield saying, in capital letters, "HOSPITAL" because that was one of the exceptions from the hartal. And off we went.
 
@@ -24,7 +24,7 @@ That first roadblock wasn't the only one on our way. We were later stopped in th
 
 The protest literally brought the region to a standstill. __Villages and towns we passed on our way were ghost towns__ with all the shops, restaurants and other parlors closed. Not a soul in the streets, where usually one can barely squeeze through because of the pedestrians, cars and motorbikes. The benefit: no traffic! If it wasn't for the roadblocks (and the challenge to find an open restaurant for lunch) we would've had a perfect drive.
 
-Munnar is the __most climatically distinct location__ on our route because of its location high up in the mountains, 1,700m above sea level. By comparison, [Bengaluru is at 900m]({{< ref "india-2017/first-impressions-of-bengaluru.md" >}}). We were a bit worried that our accommodation won't have air-conditioning nor fans, but these are completely obsolete here. Even a bit of heating in the winter season wouldn't hurt. Thankfully we had some sweatshirts that we put on for the first time since landing in India.
+Munnar is the __most climatically distinct location__ on our route because of its location high up in the mountains, 1,700m above sea level. By comparison, [Bengaluru is at 900m]({{< ref "/india-2017/first-impressions-of-bengaluru.md" >}}). We were a bit worried that our accommodation won't have air-conditioning nor fans, but these are completely obsolete here. Even a bit of heating in the winter season wouldn't hurt. Thankfully we had some sweatshirts that we put on for the first time since landing in India.
 
 Mild climate makes the region __ideal for growing tea__. Plantations cover vast areas around Munnar---hilltops, slopes, valleys, all green, all covered top to bottom with densely packed, low bushes. There's a million shades of green around here that I couldn't quite capture on the photos because I could only make them in the evening, with limited light.
 

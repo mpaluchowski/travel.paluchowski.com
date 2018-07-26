@@ -11,7 +11,7 @@ tags:
   - local economy
 ---
 
-They always start with "Hellooo, how are you?", spoken in a high-pitched voice, followed by the inevitable "Would you like a massaaage? Manicure?" Every ten meters along the [beach in Kuta]({{< ref "bali-2016/sky-sand-surf.md" >}}), every fifty in Sanur, ladies offering these local luxuries.
+They always start with "Hellooo, how are you?", spoken in a high-pitched voice, followed by the inevitable "Would you like a massaaage? Manicure?" Every ten meters along the [beach in Kuta]({{< ref "/bali-2016/sky-sand-surf.md" >}}), every fifty in Sanur, ladies offering these local luxuries.
 
 <!--more-->
 

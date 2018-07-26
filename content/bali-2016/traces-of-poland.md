@@ -15,7 +15,7 @@ I wasn't expecting to find any. We're almost as far from Poland as physically po
 
 <!--more-->
 
-We've been **asked by pretty much _every single person_** we encountered "where are you from?" Casually, just like that, second or third sentence uttered. I always made a point of carefully stressing the pronunciation: _POOOland_, to make sure we're distinguished from the [omnipresent Dutch]({{< ref "bali-2016/the-vagabonders.md" >}}) (and don't get charged like we were Dutch---we have been offered better prices more than once after answering the question).
+We've been **asked by pretty much _every single person_** we encountered "where are you from?" Casually, just like that, second or third sentence uttered. I always made a point of carefully stressing the pronunciation: _POOOland_, to make sure we're distinguished from the [omnipresent Dutch]({{< ref "/bali-2016/the-vagabonders.md" >}}) (and don't get charged like we were Dutch---we have been offered better prices more than once after answering the question).
 
 Reactions we received surprised me _every_ time:
 

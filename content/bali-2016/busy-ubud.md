@@ -11,13 +11,13 @@ tags:
 image: "img/bali-2016/busy-ubud/pura-taman-saraswati-header.jpg"
 ---
 
-Stay longer than a day, she said. Ubud has a lot to offer, she said. That's mostly true---the crowd here is different than down at the [beaches of the south]({{< ref "bali-2016/sky-sand-surf.md" >}}). Young and fit backpackers or wealthy pensioners, shipped in with air-conditioned coaches. And monkeys, so _keep your food stashed safely_.
+Stay longer than a day, she said. Ubud has a lot to offer, she said. That's mostly true---the crowd here is different than down at the [beaches of the south]({{< ref "/bali-2016/sky-sand-surf.md" >}}). Young and fit backpackers or wealthy pensioners, shipped in with air-conditioned coaches. And monkeys, so _keep your food stashed safely_.
 
 <!--more-->
 
 Ubud landed at the top of Milena's Bali checklist after she read [Eat, Pray, Love](https://www.amazon.com/Eat-Pray-Love-10th-Anniversary-Everything-ebook/dp/B000PDYVVG/), because it was __home to Ketut Liyer__---the book heroine's spiritual guide and healer. Turns out, Ketut played a trick on us and [passed away back in June](http://bali.coconuts.co/2016/06/10/ketut-liyer-balinese-medicine-man-featured-eat-pray-love-passes-away). Perhaps for the better so, since we would've surely died from the heat waiting in line to see him. The queues apparently became unwieldy following the book's and [film's](http://www.imdb.com/title/tt0879870/) success.
 
-Sudden passings notwithstanding, Lonely Planet dedicated considerable space to cover Ubud, so there were clearly other reasons to drop by. So we did, staying overnight at the delightfully hospitable [Baruna Guest House](http://www.booking.com/hotel/id/baruna-guest-house.en-gb.html), slightly off the center, right [next to an active temple]({{< ref "bali-2016/living-on-good-terms-with-gods.md" >}}) that afforded us a 6AM wake-up call with ten minutes of overtone prayers and chanting.
+Sudden passings notwithstanding, Lonely Planet dedicated considerable space to cover Ubud, so there were clearly other reasons to drop by. So we did, staying overnight at the delightfully hospitable [Baruna Guest House](http://www.booking.com/hotel/id/baruna-guest-house.en-gb.html), slightly off the center, right [next to an active temple]({{< ref "/bali-2016/living-on-good-terms-with-gods.md" >}}) that afforded us a 6AM wake-up call with ten minutes of overtone prayers and chanting.
 
 {{< figure src="img/bali-2016/busy-ubud/monkey-forest-monkeys.jpg" class="right" alt="Monkeys in the Sacred Monkey Forest" title="Monkeys in the Sacred Monkey Forest" >}}
 
@@ -46,4 +46,4 @@ Heading back to Sanur, we wet our feet at another one of Bali's green wonders---
 
 Most of the visitors opt for dipping their whole bodies in the pond where the water splashes into, and for good reason---the water is pleasantly cool, unlike the shallow seawater at the beaches, which resembles a warm tub and offers little relief from the daily heat.
 
-We're back in Sanur, with its local, expat-friendly vibe, plotting our next moves. After seeing the land, it's probably time to [descend underwater]({{< ref "bali-2016/waterworld.md" >}}).
+We're back in Sanur, with its local, expat-friendly vibe, plotting our next moves. After seeing the land, it's probably time to [descend underwater]({{< ref "/bali-2016/waterworld.md" >}}).

@@ -11,11 +11,11 @@ tags:
 image: img/israel-2018/caesarea-other-ruins/caesarea-port.jpg
 ---
 
-"Hugely impressive Roman ruins" of a city and port "built to rival Alexandria", boasted the travel guide. You never know with ruins---many (most?) of them turn out to be a bunch of dull, loosely scattered stones. Caesarea was on our way back from [Haifa]({{< ref "israel-2018/disappointment-thats-haifa.md" >}}), though, so we figured we might as well drop by and see.
+"Hugely impressive Roman ruins" of a city and port "built to rival Alexandria", boasted the travel guide. You never know with ruins---many (most?) of them turn out to be a bunch of dull, loosely scattered stones. Caesarea was on our way back from [Haifa]({{< ref "/israel-2018/disappointment-thats-haifa.md" >}}), though, so we figured we might as well drop by and see.
 
 <!--more-->
 
-We didn't time our arrival well. It was [the day of Yom Hazikaron]({{< ref "israel-2018/proud-nation.md" >}}) and the amphitheater---perhaps the most interesting part---was closed early. The harbour was open though, and lucky for us, required no payment to enter.
+We didn't time our arrival well. It was [the day of Yom Hazikaron]({{< ref "/israel-2018/proud-nation.md" >}}) and the amphitheater---perhaps the most interesting part---was closed early. The harbour was open though, and lucky for us, required no payment to enter.
 
 The ruins were pretty much what we expected them to be. **Pieces of old building blocks, columns, scattered across the landscape.** Some still formed structures---walls, ponds, roads---others sat loosely on the ground, only vaguely reminding visitors of the once greatness of the city.
 

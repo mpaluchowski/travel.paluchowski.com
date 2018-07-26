@@ -14,7 +14,7 @@ Brace yourself when, being white, you stumble upon a school trip of teenage, Mus
 
 <!--more-->
 
-We encountered one of those groups on our [sunset stroll along the sandy Kuta beach]({{< ref "bali-2016/sky-sand-surf.md" >}}). The usual pack of teenagers, like anywhere in the world, making noise, all excited, probably visiting here from another Indonesian island. The moment we came closer, we got __surrounded by the first bunch who saw us, smiling from ear to ear, asking for a joint photo__. Sure, why not?
+We encountered one of those groups on our [sunset stroll along the sandy Kuta beach]({{< ref "/bali-2016/sky-sand-surf.md" >}}). The usual pack of teenagers, like anywhere in the world, making noise, all excited, probably visiting here from another Indonesian island. The moment we came closer, we got __surrounded by the first bunch who saw us, smiling from ear to ear, asking for a joint photo__. Sure, why not?
 
 I wasn't *too* surprised. I heard stories of this happening, told by friends coming back from Southeast Asia and from India. Had also my own experience years ago, visiting a [Western Digital](https://www.wdc.com/) factory in Kuala Lumpur. The workforce there were mostly Indonesian women and they also acted excitedly friendly seeing me being shown around the floors.
 

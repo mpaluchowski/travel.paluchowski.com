@@ -17,7 +17,7 @@ We _could_ live there. Adapt, eventually. Find our places, our people, a favorit
 
 Our stay in Bali was planned as __creative downtime__, where we generally stay in one place, spend a lot of time reading, writing, doing sports---"recharging our batteries" in many different ways. Such trips usually follow fairly predictable daily schedules, starting with jogging at sunrise, followed by mornings at the beach, finishing with afternoons and evenings strolling public spaces.
 
-In Bali we could only really do the beach part of the three. Jogging was out due to lack of infrastructure---no sidewalks and no runner-friendly trails. For the same reason, evening strolls were also not an option. The island is __direly missing safe public spaces__, and I stress _safe_, because a busy, narrow commercial street or a crowded local market do not count as such. Yes, there's a 4km long beachfront walk in Sanur (the first one of its kind in Bali), but even that's pretty dense with people, shared with bikers and littered with [unending offers of _massaaage_]({{< ref "bali-2016/would-you-like-a-massaaage.md" >}}).
+In Bali we could only really do the beach part of the three. Jogging was out due to lack of infrastructure---no sidewalks and no runner-friendly trails. For the same reason, evening strolls were also not an option. The island is __direly missing safe public spaces__, and I stress _safe_, because a busy, narrow commercial street or a crowded local market do not count as such. Yes, there's a 4km long beachfront walk in Sanur (the first one of its kind in Bali), but even that's pretty dense with people, shared with bikers and littered with [unending offers of _massaaage_]({{< ref "/bali-2016/would-you-like-a-massaaage.md" >}}).
 
 A brief conversation I had with a surfing instructor in Kuta (who's offer I declined politely, but they always continued talking for a while), reveals an insight:
 
@@ -27,13 +27,13 @@ A brief conversation I had with a surfing instructor in Kuta (who's offer I decl
 * "But it's also very beautiful." I was trying to be positive.
 * "Oh, that we have from God. The poverty is our doing."
 
-I concur. __Most of what is truly wonderful in Bali is nature.__ The fertile, volcanic soil, together with a hot, humid climate, create perfect conditions for fifty thousand shades of green to flourish. [Look below the sea level]({{< ref "bali-2016/waterworld.md" >}}) and there's a world of its own there, with countless fish and corals in every imaginable color.
+I concur. __Most of what is truly wonderful in Bali is nature.__ The fertile, volcanic soil, together with a hot, humid climate, create perfect conditions for fifty thousand shades of green to flourish. [Look below the sea level]({{< ref "/bali-2016/waterworld.md" >}}) and there's a world of its own there, with countless fish and corals in every imaginable color.
 
-Those are the sort of landscapes you will see in photos, postcards and travel folders advertising Bali. It's all too easy to pick out a piece of reality, frame it and discard everything around it---[the traffic]({{< ref "bali-2016/rules-of-the-road.md" >}}), trash and omnipresent civilizational disorder. I'm just as guilty here as any other photographer, because hey, why would I bring _ugly_ photos back home?
+Those are the sort of landscapes you will see in photos, postcards and travel folders advertising Bali. It's all too easy to pick out a piece of reality, frame it and discard everything around it---[the traffic]({{< ref "/bali-2016/rules-of-the-road.md" >}}), trash and omnipresent civilizational disorder. I'm just as guilty here as any other photographer, because hey, why would I bring _ugly_ photos back home?
 
 {{< figure src="img/bali-2016/bottom-line-on-bali/nyoman-winten.jpg" class="right" alt="With Nyoman, our host" title="With Nyoman, our host" >}}
 
-__Most of what's unpleasant originates from humans.__ Which is actually reason to be optimistic, because if humans have created something, then humans can also change it, and [the Balinese are already working on it]({{< ref "bali-2016/future-of-bali.md" >}}).
+__Most of what's unpleasant originates from humans.__ Which is actually reason to be optimistic, because if humans have created something, then humans can also change it, and [the Balinese are already working on it]({{< ref "/bali-2016/future-of-bali.md" >}}).
 
 We found the Balinese themselves to be some of the kindest people we've met anywhere in the world. They smiled a lot and frequently offered help without us asking. Very often when we stopped our scooter to check Google Maps for directions, someone would shortly stop next to us and inquire whether we needed any help. And our host at the [Sanur Bagoes Guest House](https://www.tripadvisor.com/Hotel_Review-g297700-d4046095-Reviews-Sanur_Bagoes_Guest_House-Sanur_Denpasar_Bali.html) offered invaluable help and guidance.
 

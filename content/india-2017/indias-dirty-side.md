@@ -18,9 +18,9 @@ We have been warned. A friend claimed India was the most trash-infested country 
 
 It doesn't take much effort to spot garbage. Even when a street seems orderly, it's enough to look into a side alley or an unused parcel to see piles that must've been building up for years. __Places popular with tourists---surroundings of palaces, temples---are no exception.__
 
-Big cities stand marginally better than the small ones. Bengaluru was OK-_ish_. Then there were the [numerous rubble piles we've seen in Mysuru]({{< ref "india-2017/diving-into-mysuru.md" >}}). Kochi was perhaps the worst we've seen so far, with a lot of trash accumulating near the [Chinese Fish Nets in Fort Kochi]({{< ref "india-2017/creative-kochi.md" >}}).
+Big cities stand marginally better than the small ones. Bengaluru was OK-_ish_. Then there were the [numerous rubble piles we've seen in Mysuru]({{< ref "/india-2017/diving-into-mysuru.md" >}}). Kochi was perhaps the worst we've seen so far, with a lot of trash accumulating near the [Chinese Fish Nets in Fort Kochi]({{< ref "/india-2017/creative-kochi.md" >}}).
 
-Last year [in Bali we were truly disgusted with the amount of litter]({{< ref "bali-2016/waterworld.md" >}}), on land and floating in water. India wasn't nearly as shocking. Perhaps because we've been told such nasty things before, that once we came here we though it's actually not that bad.
+Last year [in Bali we were truly disgusted with the amount of litter]({{< ref "/bali-2016/waterworld.md" >}}), on land and floating in water. India wasn't nearly as shocking. Perhaps because we've been told such nasty things before, that once we came here we though it's actually not that bad.
 
 It's obviously __a matter of mentality__---the average person in the street unpacking something they just bought and casually dropping plastic wrapping onto the street in front of them. This needs to change. That person needs to gain awareness that they're doing something wrong, stop themselves, reconsider and look for a trash can. Without this consciousness there's no chance any advanced approaches will take off, like recycling.
 
