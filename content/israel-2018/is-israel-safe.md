@@ -25,7 +25,7 @@ The western heavy-screening-guns-everywhere approach is what [experts call "secu
 
 [Yom Ha'atzmaut, Israel's 70th anniversary of independence]({{< ref "/israel-2018/proud-nation.md" >}}), would've been a prime opportunity for terrorists to disrupt. The official celebrations we joined at Rabin square were secured by cutting off the area from car traffic by blocking incoming streets with large tourist buses, making it impossible for any car to ram its way into the area. Additionally, there was a very brief bag check at the entrance to the square and a bit of armed police on the edges of the crowd.
 
-**Jerusalem was another story.** Here the military was ubiquitous in every area of the city we've been to, notably in the Muslim district of the Old City. With the city being perhaps the most disputed strip of land in the whole region, and the most visited, it's easy to understand why security here is tightest.
+**[Jerusalem]({{< ref "/israel-2018/jerusalem-or-bust.md" >}}) was another story.** Here the military was ubiquitous in every area of the city we've been to, notably in the Muslim district of the Old City. With the city being perhaps the most disputed strip of land in the whole region, and the most visited, it's easy to understand why security here is tightest.
 
 Not all of the soldiers we've seen were on active duty. Many of them looked off duty or in transit. Nonetheless, they always carried their assault weapons, even when sitting in cafes, chatting with friends, sipping drinks, eating, with the guns resting on their laps. An interesting, and somewhat discomforting sight.
 
