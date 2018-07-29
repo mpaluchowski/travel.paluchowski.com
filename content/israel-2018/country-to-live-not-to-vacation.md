@@ -10,7 +10,7 @@ tags:
   - military
   - security
   - religion
-image: "/img/israel-2018/country-to-live-not-to-vacation/tel-aviv-sunset.jpg"
+image: "/img/israel-2018/country-to-live-not-to-vacation/israel-refugees.jpg"
 ---
 
 Police car lights *always* blink here, no matter if they're speeding to an intervention or just cruising. Electrical bikes and scooters rule the streets and sidewalks. Cats are everywhere, but oddly no stray dogs. And the Tel Aviv climate in April feels lovely, damp and warm. So much is obvious, but what else is there about the country?
