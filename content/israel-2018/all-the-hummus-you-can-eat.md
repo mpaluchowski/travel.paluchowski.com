@@ -1,5 +1,6 @@
 ---
 date: 2018-05-22T18:42:03+02:00
+lastmod: 2019-12-26T06:30:19Z
 title: All the hummus you can eat
 timezone: CEST
 location: Warszawa, Poland
@@ -33,7 +34,7 @@ We were happy to find both **fruits and vegetables available in very good shape*
 
 Mainstream **Israeli beer** seems to be of the typical, southern, watery and light variety---again, what you'd expect in this climate. But there's also an interesting craft beer scene (like everywhere, I guess), which maintains the lightness of the climate, while offering a much broader variety of styles and flavors.
 
-The only downside of Israeli food is that it's... so **darn expensive**. Actually, everything is expensive there, compared to prices in Poland. Take a price for anything in Warsaw, multiply it by two and that's the Israeli price. *Heavy.* The difference was even more tangible because the exchange rate of the Israeli Shekel to the Polish Złoty is one-to-one, so the price tags there represented what we were being changed in our currency.
+The only downside of Israeli food is that it's... so **darn expensive**. Actually, everything is expensive there compared to Poland. Take any Warsaw price, multiply it by two and that's the Israeli price. *Heavy.* The difference is even more tangible because the exchange rate of the Israeli Shekel to the Polish Złoty is one-to-one, so the price tags there represent what we're being charged in our currency.
 
 These prices meant that we had to rationalize our food expenses, so on most days we had breakfasts and dinners at the apartment, while eating out for lunch. Groceries were still expensive, but less so than restaurants. We saw the difference most vividly when, on the last day of our stay, we had burgers for two for lunch, with no drinks and a side of fries for one, then flew to Varna, Bulgaria and the same evening had a full dinner for four, with alcohol, for which we paid roughly the same amount.
 
