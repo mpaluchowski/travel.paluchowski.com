@@ -1,5 +1,6 @@
 ---
 date: 2018-06-03T15:18:59+02:00
+lastmod: 2019-12-29T19:41:51Z
 title: A country to live, not to vacation
 timezone: CEST
 location: Warszawa, Poland
@@ -35,8 +36,8 @@ But Israel only has, somewhat weak, peace treaties with Jordan and Egypt, while 
 
 {{< figure src="/img/israel-2018/country-to-live-not-to-vacation/israel-live-and-let-live.jpg" alt="Israel's live and let live" title="Israel's live and let live" class="right" >}}
 
-The second downside are the taxes. We've been told by numerous friends who had moved to Israel, that even for them it's expensive, partly because they pay lots of taxes on their wages. Many cannot afford to live in Tel Aviv, while working there, and choose housing outside the city and commute. High taxes are probably there to fund the military, and to continue funding immigration. The more people the country has, the better it stands to develop and defend itself.
+The second downside are the taxes. We've been told by numerous friends who had moved to Israel that even for them it's expensive, partly because they pay lots of taxes on their wages. Many cannot afford to live in Tel Aviv, while working there, and choose housing outside the city. High taxes are probably there to fund the military, and to continue funding immigration. The more people the country has, the better it stands to develop and defend itself.
 
 It is a country of optimism, though. It took a lot of positive thinking to create it, then even more effort to defend its right to exist. Even if living here is not all roses, the people of Israel seem to be taking it in strides. They're [happy to have a place of their own in the world and they're not shy celebrating it]({{< ref "/israel-2018/proud-nation.md" >}}), at least annually.
 
-Would we want to live here? Maybe, but not more so than in Europe. Will we visit again? If we had a good reason, perhaps an event of some sort, yes. For sightseeing we'll be heading elsewhere though. There's still so much to see in this world.
+Would we want to live here? Maybe, but not more so than in Europe. Will we visit again? If we have a good reason, perhaps an event of some sort, yes. For sightseeing we'll be heading elsewhere, though. There's still so much to see in this world.
