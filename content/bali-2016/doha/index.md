@@ -16,7 +16,7 @@ A twenty-first century oasis, constructed from nothing in the scorching-hot dese
 
 <!--more-->
 
-Doha is obviously far away from Bali (geographically, socially and in many other ways), but it nonetheless is part of our travel story, because we __spent a total of twelve hours there__---nine on the way to Denpasar and three on the way back. Courtesy of Qatar Airways, we got to see not only the 2014-opened [Hamad International Airport](http://dohahamadairport.com/), but also take a short guided tour of the city, offered to transiting travelers.
+Doha is obviously far away from Bali (geographically, socially and in many other ways), but it nonetheless is part of our travel story, because we __spent a total of twelve hours there__---nine on the way to Denpasar and three on the way back. Courtesy of Qatar Airways, we got to see not only the 2014-opened [Hamad International Airport](https://dohahamadairport.com/), but also take a short guided tour of the city, offered to transiting travelers.
 
 {{< figure src="bali-2016/doha/hamad-international-airport.jpg" class="right" alt="Hamad International Airport" title="Hamad International Airport" >}}
 

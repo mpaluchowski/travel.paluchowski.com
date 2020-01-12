@@ -45,4 +45,4 @@ We met a number of young Indians (including [our good friend]({{< ref "/india-20
 
 Yes, **we'll be back**. No idea when. There are a lot of places in the world for us to see, and only so much time. If you're considering visiting India---go for it. And if you're worried about the heat, the hygiene, the traffic or even the spiciness of food---don't. You'll be just fine. And if you ever get in trouble, the locals will be happy to assist. Just go.
 
-[gapmider-india]: http://www.gapminder.org/tools/#_locale_id=en;&state_marker_select@_geo=ind&trailStartTime=1800;;;;&chart-type=bubbles
+[gapmider-india]: https://www.gapminder.org/tools/#$locale$id=en;&state$marker$select@$country=ind&trailStartTime=1800;;;;&chart-type=bubbles

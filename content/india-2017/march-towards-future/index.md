@@ -68,11 +68,11 @@ To be fair, in each of these cases the law stands firmly on the side of the vict
 
 All in all, the country's looking good. Indians show that they know where they're falling short of modern, civilized standards, and they're working actively to catch up. Some of the changes are easier to introduce---like green energy sources---others take time---like getting people to care about litter. Eventually, it'll all get better and the next time we visit, I expect to see a difference.
 
-[caste-killings]: http://www.thehindu.com/news/national/tamil-nadu/when-victims-of-caste-violence-came-face-to-face/article18064601.ece
-[cow-vigilantes]: http://www.thehindu.com/news/national/sc-seeks-response-on-plea-for-reining-in-cow-vigilantes/article17875575.ece
+[caste-killings]: https://www.thehindu.com/news/national/tamil-nadu/when-victims-of-caste-violence-came-face-to-face/article18064601.ece
+[cow-vigilantes]: https://www.thehindu.com/news/national/sc-seeks-response-on-plea-for-reining-in-cow-vigilantes/article17875575.ece
 [gmaps-pollachi-coimbatore]: https://goo.gl/maps/s5pEFQ1i1kM2
-[mob-sorcery]: http://www.thehindu.com/news/national/telangana/mob-set-afire-couple-alleging-sorcery/article17864125.ece
-[udumalpet-wind-farm]: http://www.thehindu.com/2005/08/25/stories/2005082506250400.htm
+[mob-sorcery]: https://www.thehindu.com/news/national/telangana/mob-set-afire-couple-alleging-sorcery/article17864125.ece
+[udumalpet-wind-farm]: https://www.thehindu.com/2005/08/25/stories/2005082506250400.htm
 [wp-bidet-shower]: https://en.wikipedia.org/wiki/Bidet_shower
 [wp-cfl]: https://en.wikipedia.org/wiki/Compact_fluorescent_lamp
 [wp-india-demonetization]: https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation

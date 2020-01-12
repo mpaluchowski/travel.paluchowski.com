@@ -13,7 +13,7 @@ Terrorist attacks, bombings and warfare are, sadly, as much part of Israel's ima
 
 <!--more-->
 
-I expected the [Ben Gurion airport in Tel Aviv](http://www.iaa.gov.il/en-US/airports/bengurion/Pages/default.aspx) to be heavily guarded, being the main gateway to Israel and the most natural spot to wreak havoc via a terrorist attack. Surprisingly, it has **very little noticeable security** beyond what you encounter at any major airport in the world. On arrival two plain-looking security guards watched us as we were disembarking the airplane. Then there were a few officers around the exit from the baggage claim, occasionally screening passengers. Uniformed guards were strolling the terminal here and there, but were barely noticeable.
+I expected the [Ben Gurion airport in Tel Aviv](https://www.iaa.gov.il/en-US/airports/bengurion/Pages/default.aspx) to be heavily guarded, being the main gateway to Israel and the most natural spot to wreak havoc via a terrorist attack. Surprisingly, it has **very little noticeable security** beyond what you encounter at any major airport in the world. On arrival two plain-looking security guards watched us as we were disembarking the airplane. Then there were a few officers around the exit from the baggage claim, occasionally screening passengers. Uniformed guards were strolling the terminal here and there, but were barely noticeable.
 
 There's a bit more security for departures. The airport driveway passes through a quick security check, where a guard simply greeted us and asked a few simple questions, like where we had stayed in Israel or where we had been to. Our actual answers mattered less than our behavior, in particular whether we were acting nervously.
 

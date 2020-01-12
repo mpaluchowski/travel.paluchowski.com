@@ -70,9 +70,9 @@ What we're used to in Poland is that bottled water equals mineral waster---extra
 
 Being back in Poland, we're pretty happy to return to our mostly Mediterranean diet, with lots of raw vegetables, lean meats and some delicious dairy. We love what India has to offer---the rich taste, the vibrant colors, and the hearty spice---we just wouldn't be able to live on its cuisine permanently. It'll remain a tasty treat to have once in a while, and thankfully Warsaw is home these days to a growing number of very decent Indian restaurants.
 
-[arbor-brewing-company]: http://www.arborbrewing.com/locations/india/
+[arbor-brewing-company]: https://arborbrewing.com/locations/india/
 [bird-on-tree]: http://www.birdontree.com/
-[supreme-court-order-alcohol]: http://indianexpress.com/article/india/sc-confirms-alcohol-ban-on-highways-will-include-bars-and-restaurants-4594238/
+[supreme-court-order-alcohol]: https://indianexpress.com/article/india/sc-confirms-alcohol-ban-on-highways-will-include-bars-and-restaurants-4594238/
 [ted-why-we-sleep]: https://www.ted.com/talks/russell_foster_why_do_we_sleep
 [wp-kadai]: https://en.wikipedia.org/wiki/Karahi
 [wp-vindaloo]: https://en.wikipedia.org/wiki/Vindaloo

@@ -26,7 +26,7 @@ Reactions we received surprised me _every_ time:
 
 All true. (Well, Podolski partly so, but let's not be picky.)
 
-The best part came when we __visited a meeting of [Magical Bali Toastmasters](http://magicalbali.toastmastersclubs.org/)__, with the theme "One World, One Family" (in celebration of [United Nations Day](http://www.un.org/en/events/unday/)), and the word of the day "Solidarity". Made me laugh, as I immediately thought about the [Polish trade union](https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)) and what it meant in the history of our country. I thought that'd be a good story to tell during the Table Topics session or chatting with the club's members.
+The best part came when we __visited a meeting of [Magical Bali Toastmasters](https://magicalbali.toastmastersclubs.org/)__, with the theme "One World, One Family" (in celebration of [United Nations Day](https://www.un.org/en/events/unday/)), and the word of the day "Solidarity". Made me laugh, as I immediately thought about the [Polish trade union](https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)) and what it meant in the history of our country. I thought that'd be a good story to tell during the Table Topics session or chatting with the club's members.
 
 Then I was floored, as the Toastmasters of the evening began to explain the theme, then the word of the day, and __proceeded to introduce the Polish organization__! I thought I would be telling the people here a bit of history of Poland, instead I was the one being told.
 

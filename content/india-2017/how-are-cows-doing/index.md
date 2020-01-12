@@ -30,17 +30,17 @@ Having said that, an article in [The Hindu newspaper][the-hindu] caught my atten
 
 > [O]fficials found there was no evidence of cow slaughter by Mohammed Akhlaq, who was __beaten and lynched in 2015 on the suspicion of storing beef in his house__ at Dadri in Uttar Pradesh. [emphasis mine]
 >
-> <cite><a href="http://www.thehindu.com/news/national/sc-seeks-response-on-plea-for-reining-in-cow-vigilantes/article17875575.ece">SC seeks response on plea for reining in cow vigilantes</a>, The Hindu</cite>
+> <cite><a href="https://www.thehindu.com/news/national/sc-seeks-response-on-plea-for-reining-in-cow-vigilantes/article17875575.ece">SC seeks response on plea for reining in cow vigilantes</a>, The Hindu</cite>
 
 The same text mentioned another incident, very recent "in Alwar, Rajasthan, where a man was lynched by a mob claiming to be cow protectors" whom the press calls colorfully "__cow vigilantes__". It appears these groups are even protected by the law:
 
 > [T]he Gujarat Animal Prevention Act, 1965 which deemed that __all who acted to protect cows were public servants__ and no legal action shall be instituted against them. [emphasis mine]
 >
-> <cite><a href="http://www.thehindu.com/news/national/sc-seeks-response-on-plea-for-reining-in-cow-vigilantes/article17875575.ece">SC seeks response on plea for reining in cow vigilantes</a>, The Hindu</cite>
+> <cite><a href="https://www.thehindu.com/news/national/sc-seeks-response-on-plea-for-reining-in-cow-vigilantes/article17875575.ece">SC seeks response on plea for reining in cow vigilantes</a>, The Hindu</cite>
 
 Doing harm to a cow, and often even the _suggestion_ that somebody may have done such, __may be life threatening__ in some areas of India---mostly in the northern states. Down here in the south it's probably safer, although we still wouldn't like to be involved in any controversies.
 
 Are the stories about the status of cows in India true? It's complicated. As much as the fabric of this country is. In our culinary choices, we're __betting on the safest option---chicken__. Or forfeiting even that and __going vegetarian__, which seems to be accepted by everybody, no matter their origin or religious views.
 
-[msz-indie]: http://msz.gov.pl/pl/informacje_konsularne/profile_krajow/indie#informacje
-[the-hindu]: http://www.thehindu.com
+[msz-indie]: https://msz.gov.pl/pl/informacje_konsularne/profile_krajow/indie#informacje
+[the-hindu]: https://www.thehindu.com/
