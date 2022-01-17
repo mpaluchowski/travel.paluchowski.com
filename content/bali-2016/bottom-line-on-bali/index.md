@@ -8,6 +8,7 @@ tags:
   - public spaces
   - quality of living
   - environment
+  - summary
 image: bali-2016/bottom-line-on-bali/tegalalang-rice-terrace-statue-header.jpg
 ---
 

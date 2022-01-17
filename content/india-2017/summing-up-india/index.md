@@ -8,6 +8,7 @@ tags:
   - people
   - traffic
   - progress
+  - summary
 timezone: CEST
 title: Summing-up India
 ---
