@@ -6,6 +6,7 @@
 /public/
 /resources/
 /themes/
+.hugo_build.lock
 
 ### Visual Studio Code ###
 .settings/
@@ -13,4 +14,3 @@
 
 ### Website ###
 /static/google*.html
-.hugo_build.lock
