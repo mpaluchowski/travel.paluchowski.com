@@ -13,3 +13,4 @@
 
 ### Website ###
 /static/google*.html
+.hugo_build.lock
