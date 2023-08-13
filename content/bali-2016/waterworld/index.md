@@ -34,4 +34,4 @@ Look at the header photo. See anything out of place? Right. __Trash.__ Lots and 
 
 We also weren't lucky with the weather---__overcast skies all morning__, no direct sunlight, so the waters were much darker than they could've been. But unlike garbage management, there was nothing anyone could do about that.
 
-If there's one thing the experience left with us, it's the profound realization of how important it is to work hard for sustainability and to reduce humanity's footprint on Earth. It strengthened our commitment to do our part of the job, __throw away less, reuse more__ and support the companies and people who live out the same values.
+If there's one thing the experience left with with, it's the profound realization of how important it is to work hard for sustainability, and to reduce humanity's footprint on Earth. It strengthened our commitment to do our part of the job: __throw away less, reuse more__, and support the companies and people who live by the same values.
