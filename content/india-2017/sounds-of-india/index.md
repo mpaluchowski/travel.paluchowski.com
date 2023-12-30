@@ -15,7 +15,7 @@ Mystical and spacious as the misty mountain ranges. Noisy and chaotic as the bus
 
 I like to build a soundscape of every place I'm about to visit. A playlist of music, ideally recorded by artists working in that country and city, but not necessarily so. Often times I will hear a song that just _sounds_ like a particular place. And some places seem to fit well with any kind of music---they're _this_ diverse. London is one good example.
 
-{{< spotify-playlist class="spotify-playlist right" user="1120916164" playlist="57VOSxQHNyDd1dSlzkBlYk" >}}
+{{< spotify-playlist class="spotify-playlist right" playlist="57VOSxQHNyDd1dSlzkBlYk" >}}
 
 India is no exception. I have a [small playlist on Spotify][sp-playlist-india] built for our journey. A mixture of songs I knew already, with a bunch discovered lately while combing through YouTube.
 
