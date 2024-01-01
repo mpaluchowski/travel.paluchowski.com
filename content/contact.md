@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Contact us
+menus: main
+_build:
+    list: never
 ---
 
 If you're reading this blog, you may already know how to get in touch with us, because you're family, friend or acquaintance.
