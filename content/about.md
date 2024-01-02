@@ -2,6 +2,8 @@
 layout: page
 title: About Well Traveled
 menus: main
+_build:
+    list: never
 ---
 
 We travel. This much is obvious by now, providing you had a look at some of the content published here. For business and for pleasure. Sometimes we'll visit ten cities in three countries in two weeks of a hectic roadtrip, and sometimes we'll spend three weeks in one place, with no plan upfront whatsoever.
