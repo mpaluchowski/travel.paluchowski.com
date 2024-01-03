@@ -8,7 +8,7 @@ tags:
   - ruins
   - Romans
   - dining
-image: israel-2018/caesarea-other-ruins/caesarea-port.jpg
+image: israel-2018/caesarea-other-ruins/caesarea-port.webp
 ---
 
 "Hugely impressive Roman ruins" of a city and port "built to rival Alexandria", boasted the travel guide. You never know with ruins---many (most?) of them turn out to be a bunch of dull, loosely scattered stones. Caesarea was on our way back from [Haifa]({{< ref "/israel-2018/disappointment-thats-haifa/index.md" >}}), though, so we figured we might as well drop by and see.
@@ -19,7 +19,7 @@ We didn't time our arrival well. It was [the day of Yom Hazikaron]({{< ref "/isr
 
 The ruins were pretty much what we expected them to be. **Pieces of old building blocks, columns, scattered across the landscape.** Some still formed structures---walls, ponds, roads---others sat loosely on the ground, only vaguely reminding visitors of the once greatness of the city.
 
-{{< figure src="israel-2018/caesarea-other-ruins/caesarea-nymphaeum.jpg" alt="Caesarea Nymphaeum" title="Caesarea Nymphaeum" >}}
+{{< figure src="israel-2018/caesarea-other-ruins/caesarea-nymphaeum.webp" alt="Caesarea Nymphaeum" title="Caesarea Nymphaeum" >}}
 
 I must admit I fail to see the beauty of such places. Neither here, nor in Jerusalem. I do love old buildings---factories, castles, manors---as long as they're still roughly complete structures. For them I can imagine the buzz of life that they once hosted. But the ruins... I guess my imagination just isn't efficient enough to bridge the gap between stone piles and a bustling, ancient city.
 

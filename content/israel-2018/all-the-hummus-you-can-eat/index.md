@@ -9,7 +9,7 @@ tags:
   - food
   - hummus
   - cuisine
-image: israel-2018/all-the-hummus-you-can-eat/jaffa-dish.jpg
+image: israel-2018/all-the-hummus-you-can-eat/jaffa-dish.webp
 ---
 
 Hummus, mixed olives and red wine. That was our dinner on the first evening in Israel, and on pretty much every other evening we were there. Israeli cuisine is deeply rooted in Middle Eastern tradition, but it's also so much more. Especially in Tel Aviv, where cultures mix freely, unleashing their tastes onto local foodies.
@@ -24,11 +24,11 @@ Big cities are melting pots of cultures, in particular of *Jewish* cultures from
 
 There's also a whole wave of young culinary entrepreneurs experimenting with local and international cuisines, and these tend to have the most interesting offerings. They like to open modern bars in trendy neighborhoods, old ports turned leisure spaces, [narrow streets of Jaffa and in the small houses of Neve Tzedek]({{< ref "/israel-2018/tel-aviv-is-for-living/index.md" >}}).
 
-{{< figure src="israel-2018/all-the-hummus-you-can-eat/tel-aviv-street-food-pita-shop.jpg" alt="Tel Aviv street food shop" title="Tel Aviv street food shop" >}}
+{{< figure src="israel-2018/all-the-hummus-you-can-eat/tel-aviv-street-food-pita-shop.webp" alt="Tel Aviv street food shop" title="Tel Aviv street food shop" >}}
 
 We were happy to find both **fruits and vegetables available in very good shape**. This might've been the first time I ate a ripe watermelon this early in the year. We're always looking closely at the vegetables because---true to our Balkan tastes---we like to have a fresh salad some time in the day. And we had been deeply disappointed by the availability in warm climates in the past, [particularly in Bali]({{< ref "/bali-2016/rice-nation/index.md" >}}).
 
-{{< figure src="israel-2018/all-the-hummus-you-can-eat/wine-hummus-olives-dinner.jpg" alt="Wine, hummus & olives dinner" title="Wine, hummus & olives dinner" class="right" >}}
+{{< figure src="israel-2018/all-the-hummus-you-can-eat/wine-hummus-olives-dinner.webp" alt="Wine, hummus & olives dinner" title="Wine, hummus & olives dinner" class="right" >}}
 
 **Wine's great.** *Red* wine that is. We had one bottle of white, courtesy of our landlords, but this one was only so-so. It's the cooler countries that specialize in whites, usually because they're too cold to grow proper red grapes. Israel is plenty hot for that and we had a few bottles of local wine, with grapes the names of which I couldn't possibly remember, which were all smooth, gentle and rich in taste.
 

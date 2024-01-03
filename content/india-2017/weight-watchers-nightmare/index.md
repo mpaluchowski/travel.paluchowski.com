@@ -1,6 +1,6 @@
 ---
 date: 2017-04-15T19:44:08+02:00
-image: india-2017/weight-watchers-nightmare/south-indian-lunch.jpg
+image: india-2017/weight-watchers-nightmare/south-indian-lunch.webp
 location: Warszawa, Poland
 tags:
   - food
@@ -26,7 +26,7 @@ I'm __slightly disappointed with how few dishes I found truly spicy__. Mostly th
 
 In any case, if you don't handle spicy food well, you'll have a hard time in India. If you do like it, you'll be fine, but don't expect the heat to blow you away.
 
-{{< figure src="india-2017/weight-watchers-nightmare/spice-market.jpg" alt="Spice market in Kochi" title="Spice market in Kochi" >}}
+{{< figure src="india-2017/weight-watchers-nightmare/spice-market.webp" alt="Spice market in Kochi" title="Spice market in Kochi" >}}
 
 It's cheap. By western standards obviously, and even by our still modest Polish standards. We could easily find __decent restaurants that cost €15-20 to feed all four of us__. We've also been to a few more upscale ones, some of them self-describing as "fine dining", where the prices were around mid-range Warsaw levels. Perhaps the most expensive place we've been to, [Bird on Tree in Coimbatore][bird-on-tree], cost us €30 for a dinner for three.
 
@@ -34,11 +34,11 @@ Granted, there's no alcohol included. There's __very little alcohol consumed__, 
 
 Alcohol is offered in selected stores and restaurants, mostly catering to foreigners and well-off Indians. The bigger a city the wider the availability, unsurprisingly. [In Bengaluru]({{< ref "/india-2017/first-impressions-of-bengaluru/index.md" >}}) we even found an __outpost of the craft beer movement__---the [Arbor Brewing Company brewpub][arbor-brewing-company] making decent brews and serving very British pub food, enhanced with Indian inspirations.
 
-{{< figure src="india-2017/weight-watchers-nightmare/arbor-brewing-company.jpg" alt="Arbor Brewing Company brewpub in Bengaluru" title="Arbor Brewing Company brewpub in Bengaluru" >}}
+{{< figure src="india-2017/weight-watchers-nightmare/arbor-brewing-company.webp" alt="Arbor Brewing Company brewpub in Bengaluru" title="Arbor Brewing Company brewpub in Bengaluru" >}}
 
 Not that we were particularly looking for booze. We've all but ditched alcohol in the last few months, largely because we seem to be enjoying it much less than we used to. Plus, it [hurts sleep quality][ted-why-we-sleep].
 
-{{< figure src="india-2017/weight-watchers-nightmare/karnatakan-breakfast.jpg" class="right" alt="Karnatakan breakfast" title="Karnatakan breakfast" >}}
+{{< figure src="india-2017/weight-watchers-nightmare/karnatakan-breakfast.webp" class="right" alt="Karnatakan breakfast" title="Karnatakan breakfast" >}}
 
 The low cost of food, combined with the __massive variety of flavors and colors__, made it all too easy for us to overeat. Anyone who's ever been to an Indian restaurant will know what to expect. Tens of dishes with unfamiliar names, curries---thick sauces with meat or vegetables---plus rice and several bread varieties: naans, parathas, chapatis, dosas, rotis and others.
 
@@ -48,7 +48,7 @@ Each state has its own culinary specialties. Also the level of spicy-ness differ
 
 We tried to taste as many different dishes as we could. Not easy because we couldn't understand much of the menus, so we also couldn't quite remember what we had before. __Lunch offerings were often a great bet__, because these commonly consist of a number of dishes, each in a small bowl, with bread and rice. Chicken bits were tricky, because they usually weren't the soft breast or thigh fillets we were expecting, but whole pieces, with bones and cartilage. Not much meat on them and what little there was, was difficulty to extract.
 
-{{< figure src="india-2017/weight-watchers-nightmare/coffee-pouring.jpg" class="right" alt="Traditional coffee preparation" title="Traditional coffee preparation" >}}
+{{< figure src="india-2017/weight-watchers-nightmare/coffee-pouring.webp" class="right" alt="Traditional coffee preparation" title="Traditional coffee preparation" >}}
 
 __Coffee__ is... _special_. We're all big on coffee. I love to have cup of flat white in the morning, with thick milk foam and a bitter ending. Not available in India. "Espresso" was a foreign term in most places we visited, as were its varieties---latte, cappuccino and others. Most places just served "coffee" which meant a tiny cup with lots of milk (boiled, but not steamed) and heavily sweetened.
 
@@ -56,7 +56,7 @@ That local coffee became really interesting once we saw __how it gets traditiona
 
 And the fruits... oh, the fruits... These were absolutely excellent. We drank a ton of watermelon juice, ate __countless mangos, bananas, and the occasional coconut__. Bananas alone must've been available in some fifteen varieties, none of which resembled the standard "Chiquita" ones we have in Poland. From finger-sized yellow to red, fat blobs, to cooking plantains. All of them great. And the mangos really blossom in this climate. An Indian restaurant owner in Warsaw told me once that no other mangos can compare to the ones grown in India. I know what he meant.
 
-{{< figure src="india-2017/weight-watchers-nightmare/fried-bananas.jpg" class="right" alt="Fried bananas" title="Fried bananas" >}}
+{{< figure src="india-2017/weight-watchers-nightmare/fried-bananas.webp" class="right" alt="Fried bananas" title="Fried bananas" >}}
 
 I actually think we made most of our weight gains from sugar in all these fruits. Perhaps with the help of all the breads we ate.
 

@@ -8,7 +8,7 @@ tags:
   - sustainability
   - quality of living
   - development
-image: bali-2016/future-of-bali/temple-sculpture-header.jpg
+image: bali-2016/future-of-bali/temple-sculpture-header.webp
 ---
 
 A bike lane. Not something I expected to see in a city where most streets have no sidewalks, yet there it was. Painted on the side of a road, lit by LED street lights and... casually driven over by cars. Bali is dipping its toes in modernity while still firmly rooted in ways of the old.
@@ -23,7 +23,7 @@ I [complained a lot about Bali]({{< ref "/bali-2016/which-way-to-paradise/index.
 
 Examples abound:
 
-{{< figure src="bali-2016/future-of-bali/green-school-power-plant.jpg" class="right" alt="Hydropower plant at Green School" title="Hydropower plant at Green School" >}}
+{{< figure src="bali-2016/future-of-bali/green-school-power-plant.webp" class="right" alt="Hydropower plant at Green School" title="Hydropower plant at Green School" >}}
 
 * Yes, [traffic is dense on most streets]({{< ref "/bali-2016/rules-of-the-road/index.md" >}}) and walking is a balancing act between getting hit by a passing scooter and falling into a roadside ditch. But gradually __streets are getting sidewalks__---narrow, frequently used by scooters to overtake traffic, but still---and their availability increased dramatically over the last few years.
 * __Bikers are a frequent sight__ and their numbers are growing---a trend I reckon will continue as dedicated infrastructure becomes available.

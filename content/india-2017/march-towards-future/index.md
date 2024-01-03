@@ -1,6 +1,6 @@
 ---
 date: 2017-05-03T19:46:39+02:00
-image: india-2017/march-towards-future/toilet-chamundi-hill.jpg
+image: india-2017/march-towards-future/toilet-chamundi-hill.webp
 location: Warszawa, Poland
 tags:
   - modernity
@@ -32,11 +32,11 @@ __Road construction works__ are a pain when present. It's great to see the count
 
 Speaking of __traffic__, wild driving is treated as a given in India and other Asian countries. That's an area where the country could also improve. In mathematical terms, a road network is simply a system optimized for throughput---highest when the flow is organized. There's some good research on the topic already, and I'll risk putting forward a theory, that if Indians were to drive more orderly, they'd have quicker and shorter commutes.
 
-{{< figure src="india-2017/march-towards-future/public-bike-station.jpg" alt="Public bikes station. Oddly, none of them had bikes." title="Public bikes station. Oddly, none of them had bikes." >}}
+{{< figure src="india-2017/march-towards-future/public-bike-station.webp" alt="Public bikes station. Oddly, none of them had bikes." title="Public bikes station. Oddly, none of them had bikes." >}}
 
 __Ecology__ is big on the agenda. Yes, there's [lots and lots of litter everywhere]({{< ref "/india-2017/indias-dirty-side/index.md" >}}) and that won't change until mentality improves. But there are laws already in power that actively reduce the environmental footprint of the country's billion human beings. In most shops the grocery bags we received were __cotton instead of plastic__, and we always had to pay for them. Bigger cities, [like Bengaluru]({{< ref "/india-2017/first-impressions-of-bengaluru/index.md" >}}), show the beginnings of sorting and recycling trash. Many restaurants serve water in refillable containers instead of plastic bottles. And many individuals carry their own, refillable water bottles.
 
-{{< figure src="india-2017/march-towards-future/reuse-newspaper-bag.jpg" class="right" alt="Creative recycling" title="Creative recycling" >}}
+{{< figure src="india-2017/march-towards-future/reuse-newspaper-bag.webp" class="right" alt="Creative recycling" title="Creative recycling" >}}
 
 [CFLs][wp-cfl] and LED lights are dominating. We saw a [__sizable wind farm__ between Udumalpet and Pollachi][udumalpet-wind-farm] in Tamil Nadu. Many homes heat their water with solar thermal collectors. I haven't spotted any solar batteries, but with all the sunlight India's getting I'm sure they're already in use. In short, progress is tangible, even if there's still a lot to do for the environment.
 
@@ -48,7 +48,7 @@ Many places accept __credit cards__. Most of the accommodation we used and perha
 
 __ATMs__ were a similar story. Widely available, even in small towns. Some of them would accept our cards, some of them wouldn't. Sometimes we found "no cash" signs on them and had to look elsewhere. All of them had a hard limit of paying out only IDR 10,000 at once, which most of the time was plenty. Half of the ATMs added a fixed __surcharge of IDR 200 for international cards__, independent of the amount we paid out.
 
-{{< figure src="india-2017/march-towards-future/street-food-hygiene.jpg" alt="Street food, uhm, hygiene?" title="Street food, uhm, hygiene?" >}}
+{{< figure src="india-2017/march-towards-future/street-food-hygiene.webp" alt="Street food, uhm, hygiene?" title="Street food, uhm, hygiene?" >}}
 
 Finally, the __toilets__. Sanitation in India is a topic big enough that it even [has its own TED Talks](https://www.ted.com/talks/joe_madiath_better_toilets_better_life). All our accommodation had decent facilities (otherwise we wouldn't have stayed there obviously), but in many, many public places, restaurants and others, there was __no toilet paper__. There was the "[bum gun][wp-bidet-shower]", if lucky, or just a bucket and a jug if not. I'm not even sure how to effectively use the latter and I know for a fact that the locals aren't too good at it either, because most of these toilets had floors flooded with water.
 

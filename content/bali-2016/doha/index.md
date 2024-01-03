@@ -9,7 +9,7 @@ tags:
   - economy
   - architecture
   - democracy
-image: bali-2016/doha/souq-waqif-cafe-header.jpg
+image: bali-2016/doha/souq-waqif-cafe-header.webp
 ---
 
 A twenty-first century oasis, constructed from nothing in the scorching-hot desert, fueled only by the economic power of fossils (pun intended). It's too impressive to omit, too exotic to ignore and too tempting _not_ to dedicate a few hours in transit for exploring and verifying, what little we knew about the capital of Qatar, against reality.
@@ -18,7 +18,7 @@ A twenty-first century oasis, constructed from nothing in the scorching-hot dese
 
 Doha is obviously far away from Bali (geographically, socially and in many other ways), but it nonetheless is part of our travel story, because we __spent a total of twelve hours there__---nine on the way to Denpasar and three on the way back. Courtesy of Qatar Airways, we got to see not only the 2014-opened [Hamad International Airport](https://dohahamadairport.com/), but also take a short guided tour of the city, offered to transiting travelers.
 
-{{< figure src="bali-2016/doha/hamad-international-airport.jpg" class="right" alt="Hamad International Airport" title="Hamad International Airport" >}}
+{{< figure src="bali-2016/doha/hamad-international-airport.webp" class="right" alt="Hamad International Airport" title="Hamad International Airport" >}}
 
 __Hamad is one of the nicer airports__ I've ever been to. Built from scratch, partly on land reclaimed from the sea, and designed for capacity of up to 50 million passengers annually. It's an elegant structure alright, but what counts is the inner layout, affecting the (dis)comfort of travelers, and that's done _really well_.
 
@@ -34,7 +34,7 @@ From stop at the Museum of Islamic Art we got to admire the view on __Doha's "Ma
 
 Then there was the __Souq Waqif__---arguably the most interesting part of the visit. An old, traditional street market, popular with locals as with tourists. We pleasantly spent our time here just walking the narrow streets and corners, checking out the wares on offer and doing a bit of shopping. An enchanting oriental experience---just what I imagined years ago reading novels from colonial times.
 
-{{< figure src="bali-2016/doha/souq-waqif-stall.jpg" alt="Souq Waqif" title="Souq Waqif" >}}
+{{< figure src="bali-2016/doha/souq-waqif-stall.webp" alt="Souq Waqif" title="Souq Waqif" >}}
 
 The whole city is very orderly, __fixated on buying its way into modernity__. The road from the airport was busy with new-ish Japanese cars (Honda and Toyota, pretty much exclusively), broad, smooth, and lit with beautiful street lamps, poles of which are colorfully illuminated and inscribed with Quran quotations. We saw a neat park, with lots of greens, benches, playgrounds for children and a street workout installation for the grown-ups.
 

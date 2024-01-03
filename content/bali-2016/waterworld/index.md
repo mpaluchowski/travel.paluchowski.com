@@ -9,7 +9,7 @@ tags:
   - trash
   - coral reefs
   - marine life
-image: bali-2016/waterworld/snorkeler-header.jpg
+image: bali-2016/waterworld/snorkeler-header.webp
 ---
 
 A huge chunk of __Bali's riches are below the surface of the ocean__. There's a whole industry profiting off of that here, from diving courses and expeditions, through freediving to snorkeling for the amateurs among us (that would be us, of course). Exploring the seabed and its wildlife is one of the top three activities marketed every five meters on every commercial beach, along with [surfing lessons]({{< ref "/bali-2016/sky-sand-surf/index.md" >}}) and [_massaaage_]({{< ref "/bali-2016/would-you-like-a-massaaage/index.md" >}}).
@@ -20,7 +20,7 @@ We wanted to experience this first-hand, naturally. Our Baltic Sea back at home,
 
 __Padang Bay__ is one of the three major locations to go underwater here, together with Nusa Lembongan and Tulamben. It has a reputation for clear water, great sights, and then there's the allure of one of its diving locations named the Blue Lagoon (though apparently the name originated from an adjacent hotel and has nothing to do with local conditions). It's an hour by car from Sanur and it's _wildly_ popular throughout the day. Tens of boats start take off here, from morning to midday, taking eager divers out to sea.
 
-{{< figure src="bali-2016/waterworld/diver-boats.jpg" alt="Boats like these take divers out to sea" title="Boats like these take divers out to sea" >}}
+{{< figure src="bali-2016/waterworld/diver-boats.webp" alt="Boats like these take divers out to sea" title="Boats like these take divers out to sea" >}}
 
 Our experience? Mixed.
 

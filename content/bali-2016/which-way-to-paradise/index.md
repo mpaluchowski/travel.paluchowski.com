@@ -10,7 +10,7 @@ tags:
   - Bali
   - beaches
   - weather
-image: "bali-2016/which-way-to-paradise/kuta-beach-header.jpg"
+image: "bali-2016/which-way-to-paradise/kuta-beach-header.webp"
 ---
 
 They have no sidewalks. The local streets consist of patches of asphalt (mostly smooth, thankfully), [covered by a zillion scooters passing]({{< ref "/bali-2016/rules-of-the-road/index.md" >}}), sided by half-a-meter-deep ditches to contain heavy rainfall, then immediately property walls. Pedestrians enter at your own risk. It's loud, it's messy, it's unorderly. It's Bali.
@@ -23,11 +23,11 @@ We're __still puzzled over how some people talk so highly of this place__, spend
 
 The weather is beautiful. We had seven days of solid sunlight, and with the angle of the sun here, close to the equator shining straight down, got some minor burns just strolling on our first day. Quickly learned to wear hats and sunscreen on all exposed skin at all times. We're still expecting short, intense rainfalls in the coming days, as it's the beginning of the rainy season, but so far there were none.
 
-{{< figure src="bali-2016/which-way-to-paradise/sanur-sea.jpg" alt="Seaside in Sanur" title="Seaside in Sanur" >}}
+{{< figure src="bali-2016/which-way-to-paradise/sanur-sea.webp" alt="Seaside in Sanur" title="Seaside in Sanur" >}}
 
 There's a _lot_ of vegetation. Green, thick, tropical trees everywhere---in the streets, gardens, and along the beaches. Then there are the beautiful rice fields, which we only had a glimpse of so far, at the outskirts of the city. We're yet to leave Sanur and Denpasar properly to experience more of Bali's nature.
 
-{{< figure src="bali-2016/which-way-to-paradise/kuta-beach.jpg" class="right" alt="Beach in Kuta" title="Beach in Kuta" >}}
+{{< figure src="bali-2016/which-way-to-paradise/kuta-beach.webp" class="right" alt="Beach in Kuta" title="Beach in Kuta" >}}
 
 [Beaches we've seen]({{< ref "/bali-2016/sky-sand-surf/index.md" >}}), over here in Sanur and the Western side in Kuta, are long, sandy and very gently sloping into the sea. Lots of walking before one reaches reasonable depth, and even then swimming is _discouraged_ (well, officially forbidden, but nobody seems to enforce that) due to strong winds and currents. Most people lay on sunbeds, shaded by umbrellas.
 
@@ -37,7 +37,7 @@ It's cheap-ish. Very cheap for Western Europeans, I assume. We got our apartment
 
 Oh, and there's no dairy, really. Yoghurts are all sweet and expensive (relative to other prices here), as is milk. Forget about cheese---none seen to date. Very little meat, no hams, sausages of any kind. [Noodles, rice and fruits are plenty, though.]({{< ref "/bali-2016/the-vagabonders/index.md" >}})
 
-{{< figure src="bali-2016/which-way-to-paradise/milena-michal-coconuts.jpg" class="left" alt="Milena & Michał sipping coconuts" title="Milena, Michał & coconuts" >}}
+{{< figure src="bali-2016/which-way-to-paradise/milena-michal-coconuts.webp" class="left" alt="Milena & Michał sipping coconuts" title="Milena, Michał & coconuts" >}}
 
 There's [no way one can live without a scooter here]({{< ref "/bali-2016/rules-of-the-road/index.md" >}}). Hugely inconvenient to walk, no public transportation, lots of taxis, if one enjoys paying, and cars will often get stuck in traffic. Scooters, on the other side, with an ownership ratio of perhaps one per person here, move surprisingly fluidly. One needs to get used to driving on the left (no biggie) and generally behaving decisively on the road, and you're set. As one Australian advised me: focus on what's ahead of you and trust that the people driving behind you will sort themselves out.
 

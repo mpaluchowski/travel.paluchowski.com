@@ -1,6 +1,6 @@
 ---
 date: 2017-04-01T07:12:16+05:30
-image: india-2017/roaming-the-roads/traffic-devaraja-market.jpg
+image: india-2017/roaming-the-roads/traffic-devaraja-market.webp
 location: Kuzhupilly Beach, India
 tags:
   - driving
@@ -24,7 +24,7 @@ __Road signs are funny.__ They're scarce and inconsistent. Speed limit signs loo
 
 A lot of signs carry the names of companies that sponsored their installation. Sometimes these are common traffic signs, but often carry slogans asking drivers to be careful, drive slowly, stay sober and such. They're printed on sizable plates, with the company name taking up to 80% of the surface, with the actual message taking up the rest, often near the bottom.
 
-{{< figure src="india-2017/roaming-the-roads/oldtimer-india.jpg" alt="Oldtimer near Mysuru, most cars are modern" title="Oldtimer near Mysuru, most cars are modern" >}}
+{{< figure src="india-2017/roaming-the-roads/oldtimer-india.webp" alt="Oldtimer near Mysuru, most cars are modern" title="Oldtimer near Mysuru, most cars are modern" >}}
 
 We've been told before that traffic conditions here would be worse than [what we had experienced in Bali]({{< ref "/bali-2016/rules-of-the-road/index.md" >}}). That's _not true_. It's precisely the same, not a bit worse or better. People will somewhat loosely follow rules of the road---drive either inside lanes or in between, take left turns from the rightmost lanes, u-turn in the middle of the road, squeeze in between other vehicles (especially the scooters), push through intersections and overtake without too much consideration for whether the opposing lane is free, merely signaling their intention via road lights.
 
@@ -32,7 +32,7 @@ Just like in Bali, __one driving here must be careful and decisive__. Move slowl
 
 It helps that we [hired a driver]({{< ref "/india-2017/t-minus-24-hours/index.md" >}}) for the whole trip. We can sit comfortably, chat, read or stare outside the windows, while he's taking care of navigating the rough traffic.
 
-{{< figure src="india-2017/roaming-the-roads/meeting-manju-in-bengaluru.jpg" alt="Meeting our driver at Bengaluru Airport" title="Meeting our driver at Bengaluru Airport" >}}
+{{< figure src="india-2017/roaming-the-roads/meeting-manju-in-bengaluru.webp" alt="Meeting our driver at Bengaluru Airport" title="Meeting our driver at Bengaluru Airport" >}}
 
 Manju---that's his (apparently abbreviated) name---sadly speaks only rudimentary English. It's usually enough to communicate where we want to go, but we need to be extra careful giving him directions. It's __not always clear whether he really understood our request__ and whether he knows the way to get to a particular place. [In Mysuru, we asked him to drive us to the Devaraja Market]({{< ref "/india-2017/diving-into-mysuru/index.md" >}}), and he took us out of town to some shop with local clothing.
 

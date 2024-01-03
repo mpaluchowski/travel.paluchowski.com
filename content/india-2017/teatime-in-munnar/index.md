@@ -1,6 +1,6 @@
 ---
 date: 2017-04-06T18:35:11+05:30
-image: india-2017/teatime-in-munnar/tea-leaves.jpg
+image: india-2017/teatime-in-munnar/tea-leaves.webp
 location: Munnar, India
 tags:
   - tea
@@ -28,7 +28,7 @@ Munnar is the __most climatically distinct location__ on our route because of it
 
 Mild climate makes the region __ideal for growing tea__. Plantations cover vast areas around Munnar---hilltops, slopes, valleys, all green, all covered top to bottom with densely packed, low bushes. There's a million shades of green around here that I couldn't quite capture on the photos because I could only make them in the evening, with limited light.
 
-{{< figure src="india-2017/teatime-in-munnar/tea-fields.jpg" alt="Tea plantation" title="Tea plantation" >}}
+{{< figure src="india-2017/teatime-in-munnar/tea-fields.webp" alt="Tea plantation" title="Tea plantation" >}}
 
 Our accommodation, [Green Magic Home][green-magic-home], is another perfect find, with a __stunning view on the surrounding mountains__, villages down in the valley, and a sea of tea plantations with narrow service roads and paths cutting through the bushes. All of this available from the sizable terrace adjacent to our rooms, where we chilled out the whole evening and had our breakfast the next day. We can't see Munnar city from here, but that's for the better. It's nothing more than an administrative center.
 

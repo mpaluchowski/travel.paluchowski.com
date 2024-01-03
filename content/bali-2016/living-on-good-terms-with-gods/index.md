@@ -8,14 +8,14 @@ tags:
   - rituals
   - temples
   - religious restrictions
-image: bali-2016/living-on-good-terms-with-gods/pura-gunung-kawi-sebatu-header.jpg
+image: bali-2016/living-on-good-terms-with-gods/pura-gunung-kawi-sebatu-header.webp
 ---
 
 Mind your step. They're on the ground at every gate or entrance, though they're not meant to greet visitors. [_Canang sari_ are offerings to gods](http://www.iskconid.org/about-bali)---flowers, incense, often with some food, wrapped in bamboo leaves---freshly laid out every day. A symbol of the Balinese' affinity with gods and spirits.
 
 <!--more-->
 
-{{< figure src="bali-2016/living-on-good-terms-with-gods/canang-sari.jpg" class="right" alt="Canang sari" title="Canang sari" >}}
+{{< figure src="bali-2016/living-on-good-terms-with-gods/canang-sari.webp" class="right" alt="Canang sari" title="Canang sari" >}}
 
 Each morning, a household member or an employee (companies follow the same tradition), __prepares and distributes the colored pellets__. One for the entrance, then one for every building, placed in a small, wall-attached shrine. And I mean _every_ building. Even shacks at the beach, storing windsurfing equipment, or individual stands at the local market. _Cars_ carry them, either on the dashboard when moving, or on the hood when parked.
 
@@ -27,7 +27,7 @@ Then there are the __temples__. Squeezed in between city buildings, with ornamen
 
 Truly committed devotees obviously wanted to escape the hustle & bustle of cities, so they built isolated temples, hidden away in forests or nested on the cliffs, facing sea. The latter locations are indeed perfect to get in touch with gods, [or at least one's inner self]({{< ref "/bali-2016/sky-sand-surf/index.md" >}}).
 
-{{< figure src="bali-2016/living-on-good-terms-with-gods/tanah-lot-temple.jpg" alt="Tanah Lot temple" title="Tanah Lot temple" >}}
+{{< figure src="bali-2016/living-on-good-terms-with-gods/tanah-lot-temple.webp" alt="Tanah Lot temple" title="Tanah Lot temple" >}}
 
 Priests here must be enduring a __love-hate relationship with tourists__. On the one hand, many of the temples are highlights of the island---Uluwatu, Tanah Lot being prime examples---and money is always welcome. On the other hand, they're all sacred places, often closed for outsiders and allowing entry for prayers only. Even when a temple _is_ open for tourists, there's usually a large sign at the entrance, spelling out the rules:
 

@@ -8,7 +8,7 @@ tags:
   - Haifa
   - high-tech
   - livability
-image: israel-2018/disappointment-thats-haifa/bahai-gardens.jpg
+image: israel-2018/disappointment-thats-haifa/bahai-gardens.webp
 ---
 
 Up, and down, and up again, and see that you don't step into dog poo. Haifa is Israel's work and transportation center with a major contribution to the country's GDP, but not much (if anything) to offer tourists, or even millenials willing to work and live there. We came, we saw, we left with very few photos shot.
@@ -25,7 +25,7 @@ Let's see, what else does Haifa have to offer? Turns out, not much. The Lonely P
 
 Then there's the **Downtown** part, which could be considered the center or the old town, I guess. In reality, it's one small, partly dilapidated street with a few bars and restaurants along it. On the plus side, we had a delicious falafel lunch here.
 
-{{< figure src="israel-2018/disappointment-thats-haifa/haifa-downtown.jpg" alt="Haifa Downtown" title="Haifa Downtown" >}}
+{{< figure src="israel-2018/disappointment-thats-haifa/haifa-downtown.webp" alt="Haifa Downtown" title="Haifa Downtown" >}}
 
 The south-western part of the city hosts a **high-tech campus** with heavyweights of the IT industry located here---Microsoft, IBM, Intel and others. That's likely because Haifa is home to [Technion](https://www.technion.ac.il/en/home-2/)---Israel's top technical university. It's an impressive concentrations of big brains and money, although obviously the area is an office district like pretty much every other in the world, not a worthy sight.
 
