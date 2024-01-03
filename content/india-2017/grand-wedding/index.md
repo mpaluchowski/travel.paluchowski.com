@@ -1,6 +1,6 @@
 ---
 date: 2017-04-10T15:35:11+05:30
-image: india-2017/grand-wedding/wedding-family-photo.jpg
+image: india-2017/grand-wedding/wedding-family-photo.webp
 location: Coimbatore, India
 tags:
   - wedding
@@ -22,7 +22,7 @@ Three days, times five thousand people means a __lot of opportunities for networ
 
 I was heavily surprised by just **_how little_ the event centered around the bride & groom** and the procedures they were going through. Mind you, at any given time their closest relatives were with them, and a couple hundred people watched intently. But this focused audience was just a portion of everyone present in the venue. The rest were coming in or out, eating, sipping coffee, chatting.
 
-{{< figure src="india-2017/grand-wedding/bride-blessings.jpg" class="right" alt="Blessings for the bride" title="Blessings for the bride" >}}
+{{< figure src="india-2017/grand-wedding/bride-blessings.webp" class="right" alt="Blessings for the bride" title="Blessings for the bride" >}}
 
 The wedding starts on Saturday morning with the __bride receiving blessings__ from her own family, performed by the women. Relatively few guests attend this portion of the weekend, mostly family and close friends. The venue is still only being setup, stage built, speakers and screens installed (if any), chairs arranged. The groom is free to wander the space and welcome guests. Around mid-day everyone goes off to prepare for the evening.
 
@@ -32,7 +32,7 @@ Then there are photos taken. __Lots and lots of photos.__ The future newlyweds (
 
 Saturday evening is the closest it gets to what we call a __"wedding reception"__ in the western world. There's music---a pair of local singers performing live---but _no_ dancing (we were disappointed on this one, hoping for a bit of Bollywood-style choreographies, but apparently that's a north-Indian thing), and there's plenty of food. Buffets of breads, chutneys, curries, rice (obviously) and all the other spice-filled Indian delicacies. We couldn't understand a thing from the menu, printed all in Tamil, but thankfully the buffet setup allowed us to pick by sight & smell.
 
-{{< figure src="india-2017/grand-wedding/palm-tree-leave-plate.jpg" alt="Palm tree leaf plate" title="Palm tree leaf plate" >}}
+{{< figure src="india-2017/grand-wedding/palm-tree-leave-plate.webp" alt="Palm tree leaf plate" title="Palm tree leaf plate" >}}
 
 Saturday's the moment when we realized we should've practiced __eating with our hands__. All food was presented to us on coconut palm tree leaves, with no utensils. So we did a quick recap of what we knew:
 
@@ -42,7 +42,7 @@ Saturday's the moment when we realized we should've practiced __eating with our 
 
 It worked all right, we managed. At some point we were offered spoons, which we declined politely. Wouldn't want to have our bragging rights taken away for this achievement.
 
-{{< figure src="india-2017/grand-wedding/wedding-attire.jpg" class="right" alt="Our attire for the wedding" title="Our attire for the wedding" >}}
+{{< figure src="india-2017/grand-wedding/wedding-attire.webp" class="right" alt="Our attire for the wedding" title="Our attire for the wedding" >}}
 
 Finally, the Sunday. The __wedding ceremony__ starts around 7:30AM, but the day started a lot earlier for us. Had to get out of bed at 5AM, make ourselves beautiful and ready for the girls' [sarees][wp-saree] to arrive just before 6AM, followed by stylists to help put them on. It's _not_ easy. Many of today's young Indian women don't know how to do that, relying on their mothers, aunts and other elders.
 

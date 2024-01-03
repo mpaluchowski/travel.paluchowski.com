@@ -1,6 +1,6 @@
 ---
 date: 2017-04-04T09:16:04+05:30
-image: india-2017/creative-kochi/chinese-fishing-nets.jpg
+image: india-2017/creative-kochi/chinese-fishing-nets.webp
 location: Kochi, India
 tags:
   - art
@@ -27,13 +27,13 @@ What we did find is a __mix of architectural styles__ planted here over six cent
 
 Being the melting pot that it is, no wonder Kochi's been selected to host a [massive art biennale in 2016][kochi-muziris-biennale], that finished just now, in the end of March, days before we arrived. Pity, because the closing concert was played by an eclectic Keralan band called [Thaikkudam Bridge][thaikkudam-bridge], [mixing Indian rock music with ethnic tunes from the region][yt-thaikkudam-bridge-song].
 
-{{< figure src="india-2017/creative-kochi/kochi-muziris-biennale-logo.jpg" alt="Sign of the Kochi Muziris Biennale" title="Sign of the Kochi Muziris Biennale" >}}
+{{< figure src="india-2017/creative-kochi/kochi-muziris-biennale-logo.webp" alt="Sign of the Kochi Muziris Biennale" title="Sign of the Kochi Muziris Biennale" >}}
 
 Other than Fort Kochi, the area to see is the __old Jewish district of Mattancherry__. Jews came here on board of merchant ships and built a tight bazaar district for spice trade, centered around a simple synagogue.
 
 The main sight in Mattancherry is supposed to be the __Mattanchery Palace__, also called the Dutch Palace. We came, we saw... we left disappointed. It literally looked like a farm house, turned into a museum, with the entrance fee of a _whopping_ IDR 5 (that's less than €0,01), and not even a separate price for foreigners. No wonder. It looks like it's never been particularly appealing and nowadays it's in desperate need of renovation and repairs.
 
-{{< figure src="india-2017/creative-kochi/dutch-palace.jpg" alt="Dutch Palace, aka hen house" title="Dutch Palace, aka hen house" >}}
+{{< figure src="india-2017/creative-kochi/dutch-palace.webp" alt="Dutch Palace, aka hen house" title="Dutch Palace, aka hen house" >}}
 
 On the way [back to Chameleon Beach Lodge]({{< ref "/india-2017/chasing-sunsets/index.md" >}}) we decided to pass through the mainland district of Ernakulam and __visit the LuLu mall__. Yes, a _mall_. We've been told that it's a pretty fancy place, with live performances and an ice rink inside. That... was a mistake.
 

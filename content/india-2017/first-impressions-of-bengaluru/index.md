@@ -10,14 +10,14 @@ tags:
   - military
 timezone: IST
 title: First impressions of Bengaluru
-image: india-2017/first-impressions-of-bengaluru/street-rikshaws.jpg
+image: india-2017/first-impressions-of-bengaluru/street-rikshaws.webp
 ---
 
 We're quite surprised at how comfortable we are feeling here. It's hot, it's hectic, there's a billion people in the streets, there's litter everywhere and we keep fending off rikshaw drivers peddling their services. Yet, we're really confident walking these here streets. They're _familiar_.
 
 <!--more-->
 
-{{< figure src="india-2017/first-impressions-of-bengaluru/wiring.jpg" class="right" alt="Cable wiring" title="Cable wiring" >}}
+{{< figure src="india-2017/first-impressions-of-bengaluru/wiring.webp" class="right" alt="Cable wiring" title="Cable wiring" >}}
 
 __Perhaps countries located along the equator are simply much alike.__ Climate similarities are obvious. People's kindness and hospitality is another commonality we see between India, Indonesia and Malaysia. Even details such as very high curbs---the kind that'd badly damage any car trying to get onto it---look very much alike. It's almost as if we never left Bali.
 
@@ -31,7 +31,7 @@ Our friend here told us that there's a story behind all this presence here. Beng
 
 There's a __visible focus on security everywhere__. India's facing a threat of terrorism from various directions, and it shows in how they're trying to guard many of the public places. The airport was full of soldiers and checkpoints. In the city even entering a mall requires one to pass through a metal detector, although with the lenient approach of the guards manning it I'm not so confident whether they'd be able to catch a real threat.
 
-{{< figure src="india-2017/first-impressions-of-bengaluru/coffee-watermelon-juice.jpg" class="left" alt="Coffee & delicious watermelon juice" title="Coffee & delicious watermelon juice" >}}
+{{< figure src="india-2017/first-impressions-of-bengaluru/coffee-watermelon-juice.webp" class="left" alt="Coffee & delicious watermelon juice" title="Coffee & delicious watermelon juice" >}}
 
 __Food is great__. We've always been fans of the heavy-spiced Indian cuisine and so far it hasn't disappointed. Even in the [small hotel we're staying at][toms-hotel], where breakfast is rather plain by hotel standards, what we're getting is _delicious_.
 
@@ -39,7 +39,7 @@ We're yet to properly explore the food scene here, including the many fruit vari
 
 Finally, there are the __funnies of culture__. We stressed to our transport company that we'll be four people with large suitcases and need a car big enough to carry those. Not a problem---two suitcases fit into the smallish trunk, two other... on the roof. Traffic is left-hand and so is the customary way one passes pedestrians on the sidewalks. We still need a moment to adjust here. Streets are also filled with signs and wall marks making statements in eyebrow-raising English. Some of them sounding serious, and because of their form we wouldn't even know if we're committing any felony.
 
-{{< figure src="india-2017/first-impressions-of-bengaluru/sign-nuissance-procecuted.jpg" alt="Should we be worried?" title="Should we be worried?" >}}
+{{< figure src="india-2017/first-impressions-of-bengaluru/sign-nuissance-procecuted.webp" alt="Should we be worried?" title="Should we be worried?" >}}
 
 All in all, __we're really happy to be here__. Perhaps because of the familiarity stated in the beginning, or maybe it's the joy of having escaped the lengthy, cold and dark Polish winter, into a country of neverending warmth and sunshine. We have two more weeks ahead of us, now it's time to try out running in the local park.
 

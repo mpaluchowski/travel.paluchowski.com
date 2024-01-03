@@ -1,6 +1,6 @@
 ---
 date: 2017-04-06T07:50:05+05:30
-image: india-2017/cruising-keralas-backwaters/kerala-backwaters.jpg
+image: india-2017/cruising-keralas-backwaters/kerala-backwaters.webp
 location: Kainakary, India
 tags:
   - houseboats
@@ -21,7 +21,7 @@ These waterways have for centuries been used as "highways", before the ones on l
 
 The __kettuvalam are the region's major tourist attraction__, for locals and foreigners alike. We're told there's over 1,500 of them floating around here, and in the tourist season most waterways get literally jammed. Our boat is average-sized. One deck, with two bedrooms for the four of us, plus our own captain to steer it and a cook to cater to our culinary needs.
 
-{{< figure src="india-2017/cruising-keralas-backwaters/kettuvalam-houseboat.jpg" alt="Kettuvalam, a Keralan houseboat" title="Kettuvalam, a Keralan houseboat" >}}
+{{< figure src="india-2017/cruising-keralas-backwaters/kettuvalam-houseboat.webp" alt="Kettuvalam, a Keralan houseboat" title="Kettuvalam, a Keralan houseboat" >}}
 
 Our crew is very hospitable. Fifteen minutes after we took off, the cook served us a welcome snack of fried bananas. We had a bar of melted (did I mention it's _hot_?) chocolate brought from Kochi, which proved a perfect companion for the bananas.
 
@@ -35,7 +35,7 @@ We spend days cruising the waters. A bit in the open of the Vembanad Lake---the 
 
 __These are captivating scenes.__ I must've shot a good two hundred photos here, out of the eight hundred total. Small, colorful cottages, children playing cricket, people waiting at the jetties for ferry transportation, women doing laundry in the river, soaking every piece of clothing then hitting it with a loud _SMACK!_ multiple times against stones laying on the shore.
 
-{{< figure src="india-2017/cruising-keralas-backwaters/kerala-lush-green.jpg" alt="Kerala's lush green scenery" title="Kerala's lush green scenery" >}}
+{{< figure src="india-2017/cruising-keralas-backwaters/kerala-lush-green.webp" alt="Kerala's lush green scenery" title="Kerala's lush green scenery" >}}
 
 Locals happily will cater to the tastes of, __mostly white but also affluent Indian, tourists__. Multiple shops, restaurants, and cafes are open for business along the channels. We entered one woodcarving shop, making religious statues to order, mostly for churches. A crucified Christ was waiting ready for pickup, another one was work in progress, and in a corner was a statue of... John Paul II, "our" former pope.
 

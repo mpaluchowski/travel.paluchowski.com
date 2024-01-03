@@ -1,6 +1,6 @@
 ---
 date: 2017-04-03T06:30:03+05:30
-image: india-2017/chasing-sunsets/mari-sunset.jpg
+image: india-2017/chasing-sunsets/mari-sunset.webp
 location: Kuzhupilly Beach, India
 tags:
   - beaches
@@ -19,13 +19,13 @@ Sound of sea waves crashing against the shore. Their melody putting us to sleep 
 
 We're staying at [Chameleon Beach Lodge][fb-chameleon-beach-lodge], located __right at the seafront__. Two terraces upstairs offer a splendid view of the endless water. A ten-kilometer stretch of sandy beach begins from here, perfect for strolls and lazing around, all but devoid of other human beings. In the evenings, the horizon occasionally offers an exciting show of distant thunderstorms.
 
-{{< figure src="india-2017/chasing-sunsets/chameleon-beach-lodge.jpg" alt="Chameleon Beach Lodge" title="Chameleon Beach Lodge" >}}
+{{< figure src="india-2017/chasing-sunsets/chameleon-beach-lodge.webp" alt="Chameleon Beach Lodge" title="Chameleon Beach Lodge" >}}
 
 The Lodge is situated on a thin strip of land, separating the open sea from vast, tranquil backwaters, spread along Keralan shores. Very few people live here (relatively, compared to inland), houses are considerably spread apart from each other. There's barely any traffic. It's perfect. Lots of space, both physical and mental. We can write, we can read, or we can simply sit there gaping into the distance, with absolutely nothing on our minds.
 
 Turns out we __arrived here shortly past the tourist season__. I never thought India had a "tourist season", with the weather being always hot. Perhaps the monsoon season being an exception. But we were told that the Lodge is normally quite busy, just that now it's already too hot for the (mostly) westerners patronizing the place.
 
-{{< figure src="india-2017/chasing-sunsets/keralan-sunset.jpg" class="right" alt="Keralan sunset" title="Keralan sunset" >}}
+{{< figure src="india-2017/chasing-sunsets/keralan-sunset.webp" class="right" alt="Keralan sunset" title="Keralan sunset" >}}
 
 Chameleon Beach Lodge itself is __beautifully relaxed__. We took our shoes off the moment we arrived and keep them off unless we leave the compound. The place is owned by a local Keralan, who introduced himself as Dr Joseph. A psychologist, who spent some years back in the 80s and 90s living in Germany and traveling in Europe. He likes to speak German (on top of English) and still refers to Yugoslavia and Czechoslovakia when referencing these areas of Europe.
 
@@ -41,7 +41,7 @@ There's a number of small, but **_very_ busy villages nearby**, where we go for 
 
 We spent one day doing some sightseeing in Kochi, slightly down south from here, but I'll cover that in a dedicated post.
 
-{{< figure src="india-2017/chasing-sunsets/keralan-girl.jpg" class="right" alt="Asked for a photo with a charming smile" title="Asked for a photo with a charming smile" >}}
+{{< figure src="india-2017/chasing-sunsets/keralan-girl.webp" class="right" alt="Asked for a photo with a charming smile" title="Asked for a photo with a charming smile" >}}
 
 **Locals are _extremely_ friendly**. Just a minute ago, two men were passing on a scooter, down on the road, one saw me on the terrace writing, smiled and waved. Many people around here will do this. Greet us, stop, inquire about our names, country of origin. Kids and teenagers are the most amazing encounters. They'll ask me (seeing my camera) to shoot photos of them, or they'll take out their smartphones and ask for joint selfies. We're happy to go along.
 

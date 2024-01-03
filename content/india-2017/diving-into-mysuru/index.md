@@ -1,6 +1,6 @@
 ---
 date: 2017-03-30T06:30:58+05:30
-image: india-2017/diving-into-mysuru/mysuru-devaraja-market.jpg
+image: india-2017/diving-into-mysuru/mysuru-devaraja-market.webp
 location: Mysuru, India
 tags:
   - crafts
@@ -29,7 +29,7 @@ The funny thing with our driver (and not just ours, we had the same experience w
 
 __Mysuru itself feels a lot smaller than Bengaluru.__ Buildings are lower, considerably older, fewer streets have sidewalks and... free-walking cows are a common sight. I'll probably devote a whole article to India's cows, since I'm sure you'll be curious. This'll do as a teaser for now:
 
-{{< figure src="india-2017/diving-into-mysuru/mysuru-cows.jpg" alt="Cow eating flowers off a motorcycle" title="Cow eating flowers off a motorcycle" >}}
+{{< figure src="india-2017/diving-into-mysuru/mysuru-cows.webp" alt="Cow eating flowers off a motorcycle" title="Cow eating flowers off a motorcycle" >}}
 
 __Litter is _considerably_ more visible__ around here. And rubble. Along streets, in parks, laid out in small piles, as if there was demolition going on nearby, but with no construction in sight. What's the deal with that? It looks like everyone was just dumping rubble from construction sites... somewhere. Wherever everyone else put theirs earlier. No clue, for the moment. Again, I'll write up a whole text about the litter situation later.
 
@@ -39,7 +39,7 @@ I've no clue why we're __generally not allowed to photograph interiors__ here, n
 
 The Mysuru Palace is a prime example of a __world-class monument in really bad shape__. Dust and dirt, bird poo everywhere, massive insect hives in some of the window heads, paint falling off the walls and pillars. Funny enough, the catholic St Philomena's Cathedral was in much better shape, and undergoing (admittedly cheap) renovation, than the Hindu buildings.
 
-{{< figure src="india-2017/diving-into-mysuru/mysuru-palace.jpg" alt="Mysuru palace" title="Mysuru palace" >}}
+{{< figure src="india-2017/diving-into-mysuru/mysuru-palace.webp" alt="Mysuru palace" title="Mysuru palace" >}}
 
 Tuesday evening we spent at the __Devaraja Market__---one of the few highlighted by Lonely Planet as wort visiting in all India. It's an intense experience. Narrow streets filled with stalls full of goods, people browsing them, and cars, rikshaws and scooters pushing through. Not for the faint of heart. I felt excellent, right in the fabric of the community here. Milena felt overwhelmed by the intensity. We bought some (yummy!) fruits and headed back to the hotel.
 
@@ -51,7 +51,7 @@ A unique experience. The son of the family running the place took us in, offered
 
 It was sleek sales talk all over, but we did like the oils, and our driver assured us they were genuine. The girls were enthusiastic, the two of us guys somewhat skeptic (their wares weren't cheap and I wasn't quite sure we would actually use them). We agreed on an order totaling INR 3,000, that we then slowly negotiated down to INR 2,100.
 
-{{< figure src="india-2017/diving-into-mysuru/incense-factory.jpg" alt="Oils in the incense factory" title="Oils in the incense factory" >}}
+{{< figure src="india-2017/diving-into-mysuru/incense-factory.webp" alt="Oils in the incense factory" title="Oils in the incense factory" >}}
 
 __Price negotiations are tough__ here. It's natural to expect initial quotes for tourists to be inflated, often times twice or thrice. But then in the course of negotiations one can usually quickly bring the price down to a point where the seller reacts with discomfort to further decreases, which usually means we reached the real, fair price.
 

@@ -8,7 +8,7 @@ tags:
   - sustainability
   - environment
   - climate change
-image: bali-2016/green-school/green-school-header.jpg
+image: bali-2016/green-school/green-school-header.webp
 ---
 
 The jungle carries sounds of laughter, occasional screams of delight, and music; the voice of an excited, young speaker delivering a talk on environmental matters. We're at [Green School](https://www.greenschool.org), nested in the middle of a thick bamboo forest, educating kids for a sustainable future, and possibly itself being the __future of education__.
@@ -17,7 +17,7 @@ The jungle carries sounds of laughter, occasional screams of delight, and music;
 
 I knew about [Green School](https://www.greenschool.org) from a [TED Talk by founder John Hardy](https://www.ted.com/talks/john_hardy_my_green_school_dream). And the second [TED Talk by his daughter Elora](https://www.ted.com/talks/elora_hardy_magical_houses_made_of_bamboo), and third [TED Talk by two pupils of the school, Melati and Isabel](https://www.ted.com/talks/melati_and_isabel_wijsen_our_campaign_to_ban_plastic_bags_in_bali) (TED's the closest thing I have to television, and I watch _a lot_ of these). It's not listed in any travel guide we know of, nor was it a consideration when planning our trip to the island, but once we arrived here I figured why not visit. It'd be my first time when a TED Talk comes to life.
 
-{{< figure src="bali-2016/green-school/bamboo-visitor-tag.jpg" class="right" alt="Visitor tag" title="Visitor tag, T stands for Tour" >}}
+{{< figure src="bali-2016/green-school/bamboo-visitor-tag.webp" class="right" alt="Visitor tag" title="Visitor tag, T stands for Tour" >}}
 
 True to its name, the the __school's mission__ is to "educate _for_ sustainability" (emphasis in original)---creating a world where natural resources are consumed only in as much as they can be replenished. This mission was literally built _into_ the school by having chosen bamboo as the building material for all structures, large and small, across the campus. School buildings, classrooms, walls, a 22 meter long bridge, even the visitor tags we wore were made of bamboo.
 
@@ -25,13 +25,13 @@ Children learn by doing, with practical workshops and exercises. Many of them ta
 
 [Cooking]({{< ref "/bali-2016/rice-nation/index.md" >}}) is organic, local and traditional Balinese. We noticed women in the kitchen weaving neat, small purses from coconut palm leaves, curiously asked what they were and found out they're used to... cook rice, they way people did here for centuries, without the use of plastic.
 
-{{< figure src="bali-2016/green-school/rice-cooking-purses.jpg" alt="Rice cooking purses" title="Rice cooking purses" >}}
+{{< figure src="bali-2016/green-school/rice-cooking-purses.webp" alt="Rice cooking purses" title="Rice cooking purses" >}}
 
 The school is in its __eighth year of existence__ now, and on the way to have a fifth graduating class. __400 children__ total are enrolled, starting from pre-kindergarten and up to high school. Some of the parents we talked to expressed regret that the school doesn't offer college degrees.
 
 What the school _does_ offer are __scholarships__ for children from surrounding villages. Fees for campus tours---[available for visits are Green School, Bamboo Workshop and the Green Village](http://greenvillagebali.com/visit/)---contribute towards the scholarship fund. The money we paid for our own tour was perhaps the best-spent entrance fee to anywhere on the island.
 
-{{< figure src="bali-2016/green-school/meditation-hut.jpg" class="right" alt="Meditation hut" title="Meditation hut" >}}
+{{< figure src="bali-2016/green-school/meditation-hut.webp" class="right" alt="Meditation hut" title="Meditation hut" >}}
 
 Green School in an inspiration. It's built for excellent education, bringing out the best in children, but also (perhaps first and foremost) to grow responsible citizens in a world of scarce natural resources. A small movement that _needs to_ scale far beyond reaching mere four hundred children, if we're to have any chance at survival as humanity.
 

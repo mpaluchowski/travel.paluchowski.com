@@ -1,6 +1,6 @@
 ---
 date: 2017-04-09T16:25:52+05:30
-image: india-2017/how-are-cows-doing/indian-cow.jpg
+image: india-2017/how-are-cows-doing/indian-cow.webp
 location: Coimbatore, India
 tags:
   - cows
@@ -20,7 +20,7 @@ The story goes (in case you haven't heard it) that __cows in India are worshiped
 
 We have met a number of cows. [In Mysuru]({{< ref "/india-2017/diving-into-mysuru/index.md" >}}) and throughout lowland Kerala they've been walking largely unobstructed, munching on whatever they found tasty. Plants, grass, flowers hanging off cars and motorcycles. Elsewhere not so much. None [in Bengaluru]({{< ref "/india-2017/first-impressions-of-bengaluru/index.md" >}}) I remember and none so far in Coimbatore. [In Kochi]({{< ref "/india-2017/creative-kochi/index.md" >}}), as in Munnar, there were lots of goats instead.
 
-{{< figure src="india-2017/diving-into-mysuru/mysuru-cows.jpg" alt="Cow eating flowers off a motorcycle" title="Cow eating flowers off a motorcycle" >}}
+{{< figure src="india-2017/diving-into-mysuru/mysuru-cows.webp" alt="Cow eating flowers off a motorcycle" title="Cow eating flowers off a motorcycle" >}}
 
 __Some of them were clearly owned and herded__. [At Kuzhupilly Beach]({{< ref "/india-2017/chasing-sunsets/index.md" >}}) a number of residents owned cows, usually no more than one or two---it was a pretty poor neighborhood---which were kept close to the houses, milked and otherwise taken care of. I suspect all the animals we've seen walking without any binding were also ultimately watched over by somebody. They weren't "wild cows" if you will.
 

@@ -8,7 +8,7 @@ tags:
   - Jerusalem
   - religion
   - churches
-image: israel-2018/jerusalem-or-bust/western-wall-temple-mount.jpg
+image: israel-2018/jerusalem-or-bust/western-wall-temple-mount.webp
 ---
 
 Covered by the first, and by far the longest chapter of the [Lonely Planet Travel Guide to Israel](https://shop.lonelyplanet.com/products/israel-and-the-palestinian-territories-travel-guide-8). Of the (relatively few) places we've seen in the country, **it was the only one offering sights that impressed us**. That, together with its religious status, makes it chock-full of tourists---numerous groups of pilgrims, squeezing through the narrow streets of the Old City while chanting religious songs.
@@ -17,7 +17,7 @@ Covered by the first, and by far the longest chapter of the [Lonely Planet Trave
 
 With tourists come all the annoyances of tourism-oriented commerce. Random people on the street offering city tours, rides to Bethlehem (which we couldn't reach easily on our own, because our car rental contract forbade us to go into Palestinian territory) and virtually all taxi drivers peddling their services---particularly intensely trying to convince anyone heading for the Mount of Olives to not go there on foot, this being such a "steep and difficult climb".
 
-{{< figure src="israel-2018/jerusalem-or-bust/jerusalem-old-city-market.jpg" alt="Old City's busy market street" title="Old City's busy market street" class="right" >}}
+{{< figure src="israel-2018/jerusalem-or-bust/jerusalem-old-city-market.webp" alt="Old City's busy market street" title="Old City's busy market street" class="right" >}}
 
 **There are so... many... shops...** All the main streets of the Old City's Christian and Muslim quarters are filled with stalls selling symbols of every Abrahamic religion, sweets, juices, carvings, carpets and other crafts. It's busy, it's noisy and that's what makes it beautiful---unless you're looking for quiet contemplation. That's much easier to find in the side streets, which are all but devoid of traffic, snaking between residential houses (yes, people do live in the Old City).
 
@@ -29,11 +29,11 @@ The **Western Wall** was first on our route and it is... magical. There's a bit 
 
 **Church of Holy Sepulchre** was second and this one, unsurprisingly, was packed with pilgrims. Visitors typically start off by kneeling at the stone, on which Jesus's body was supposedly laid after taking it off the cross. Then, deeper in the church, there's the grave of Jesus, with a long, long line of people wanting to get in for a minute or so, and be rushed out quickly to make room for others. We tried waiting in the line for a quarter of an hour and made barely any progress, then resigned. We did learn, though, that Calvary---the "mound" on which Jesus was crucified, wasn't a mountain at all. Merely a rock that Romans used for executions, which in those times was outside the city walls of Jerusalem. That rock is embedded into the church and a chapel is built around and on top of it.
 
-{{< figure src="israel-2018/jerusalem-or-bust/stone-of-anointing.jpg" alt="Stone of Anointing in the Church of Holy Sepulchre" title="Stone of Anointing in the Church of Holy Sepulchre" >}}
+{{< figure src="israel-2018/jerusalem-or-bust/stone-of-anointing.webp" alt="Stone of Anointing in the Church of Holy Sepulchre" title="Stone of Anointing in the Church of Holy Sepulchre" >}}
 
 Then there was the **Temple Mount**. Not easy to get in for us, non-Muslims, because we could only enter through a single gate, a security check and only at short times during the day. We managed. The inside is very pleasant indeed. We couldn't enter any of the buildings---the Al-Aqsa mosque, nor the Dome of The Rock, these being some of the holiest places in Islam. But even the outside of the Dome of The Rock (the "rock" being the one from which Mohammed ascended to heaven), was a stunning piece of architecture and ornamentation.
 
-{{< figure src="israel-2018/jerusalem-or-bust/dome-of-the-rock.jpg" alt="Dome of The Rock" title="Dome of The Rock" >}}
+{{< figure src="israel-2018/jerusalem-or-bust/dome-of-the-rock.webp" alt="Dome of The Rock" title="Dome of The Rock" >}}
 
 The whole Temple Mount is spacious and, outside of prayer times, sparsely occupied by Muslims and their families. Some come there to rest and have picnics. I was told that in Ramadan time the space hosts up to 120,000 people, and while we were there, preparations were already being made to receive them.
 

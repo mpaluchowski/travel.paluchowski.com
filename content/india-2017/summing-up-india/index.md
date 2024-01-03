@@ -1,6 +1,6 @@
 ---
 date: 2017-05-07T06:53:32+02:00
-image: india-2017/summing-up-india/hindu-temple.jpg
+image: india-2017/summing-up-india/hindu-temple.webp
 location: Warszawa, Poland
 tags:
   - India
@@ -19,7 +19,7 @@ Is it a month already? Seems like we came back just yesterday. We're dearly miss
 
 It's 15C, overcast, with occasional rain outside, as I'm writing this. The middle of a somewhat disappointing springtime in Poland, and summer is still more than a month away. Too easy for the mind to drift back to India, where every day was hot---all day. If the country was any closer, we would be dropping in every other weekend just to recharge batteries.
 
-{{< figure src="india-2017/summing-up-india/wayanad-temperature.jpg" class="right" alt="India's temperature, not for everyone" title="India's temperature, not for everyone" >}}
+{{< figure src="india-2017/summing-up-india/wayanad-temperature.webp" class="right" alt="India's temperature, not for everyone" title="India's temperature, not for everyone" >}}
 
 Admittedly, **India's weather is not suitable for everyone**. One member of our posse (of four) found it most comfortable in the [cool mountains of Munnar]({{< ref "/india-2017/teatime-in-munnar/index.md" >}}), where the day's top temperature was a relatively mild 25C. Some places were really heavy---particularly Tamil Nadu with its daytime highs of 40C. But overall, we found it a very pleasant experience to escape Poland's winter, just as it was becoming unbearably long, in late March.
 
@@ -31,7 +31,7 @@ What largely contributed to our feeling of comfort were the people. The **beauti
 
 One of our group said that "India has it all---hills and mountains, plains and deserts, tropical seasides, tiny villages and massive agglomerations." That's certainly our experience and we barely scratched the surface of what's available. There's the whole central and eastern part of Tamil Nadu we haven't seen. And everything north of Bengaluru---Mumbai, Kolkata, perhaps even New Delhi, if we ever dare. We're told the north of the country is a [socially and economically more complex place]({{< ref "/india-2017/march-towards-future/index.md" >}}) than the friendly, sunny, propsperous south we saw. Guess we'll have to find that out on our own.
 
-{{< figure src="india-2017/summing-up-india/munnar-mountains.jpg" alt="Deserts and mountains, India has it all" title="Deserts and mountains, India has it all" >}}
+{{< figure src="india-2017/summing-up-india/munnar-mountains.webp" alt="Deserts and mountains, India has it all" title="Deserts and mountains, India has it all" >}}
 
 We **could only realistically cover a small piece of the subcontinent**, because the whole country is so vast and the roads wouldn't permit us to move further than 3-400km per day. On most days in transit we did only half that.
 We were nonetheless [positively surprised by the quality of roads]({{< ref "/india-2017/roaming-the-roads/index.md" >}})---while not built for speed, they were well maintained.
@@ -40,7 +40,7 @@ The [amount of litter]({{< ref "/india-2017/indias-dirty-side/index.md" >}}) did
 
 India is steadily [on its way to modernity]({{< ref "/india-2017/march-towards-future/index.md" >}}). Just in the last 35 years, since 1980 or so, [India's GDP per capita increased fivefold and life expectancy grew by 12 years][gapmider-india]. These trends continue upwards. When you consider that it's a country with a population of over one billion, that's a _lot_ of children who are not dying anymore, and a _lot_ of economic output.
 
-{{< figure src="india-2017/summing-up-india/india-competitive-schools.jpg" alt="India's schools are highly competitive" title="India's schools are highly competitive" >}}
+{{< figure src="india-2017/summing-up-india/india-competitive-schools.webp" alt="India's schools are highly competitive" title="India's schools are highly competitive" >}}
 
 We met a number of young Indians (including [our good friend]({{< ref "/india-2017/grand-wedding/index.md" >}})) who come to study in Europe, who when asked what they would like to do afterwards, all said that **_of course_ they'll come back to India to work**. Going abroad, getting an education, learning the good stuff, then applying at it a home. Sounds like a solid recipe for success---not just personal, but the whole country's.
 

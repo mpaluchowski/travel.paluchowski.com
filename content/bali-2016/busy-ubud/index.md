@@ -8,7 +8,7 @@ tags:
   - art market
   - bargaining
   - monkeys
-image: "bali-2016/busy-ubud/pura-taman-saraswati-header.jpg"
+image: "bali-2016/busy-ubud/pura-taman-saraswati-header.webp"
 ---
 
 Stay longer than a day, she said. Ubud has a lot to offer, she said. That's mostly true---the crowd here is different than down at the [beaches of the south]({{< ref "/bali-2016/sky-sand-surf/index.md" >}}). Young and fit backpackers or wealthy pensioners, shipped in with air-conditioned coaches. And monkeys, so _keep your food stashed safely_.
@@ -19,7 +19,7 @@ Ubud landed at the top of Milena's Bali checklist after she read [Eat, Pray, Lov
 
 Sudden passings notwithstanding, Lonely Planet dedicated considerable space to cover Ubud, so there were clearly other reasons to drop by. So we did, staying overnight at the delightfully hospitable [Baruna Guest House](https://www.booking.com/hotel/id/baruna-guest-house.en-gb.html), slightly off the center, right [next to an active temple]({{< ref "/bali-2016/living-on-good-terms-with-gods/index.md" >}}) that afforded us a 6AM wake-up call with ten minutes of overtone prayers and chanting.
 
-{{< figure src="bali-2016/busy-ubud/monkey-forest-monkeys.jpg" class="right" alt="Monkeys in the Sacred Monkey Forest" title="Monkeys in the Sacred Monkey Forest" >}}
+{{< figure src="bali-2016/busy-ubud/monkey-forest-monkeys.webp" class="right" alt="Monkeys in the Sacred Monkey Forest" title="Monkeys in the Sacred Monkey Forest" >}}
 
 __First ones on the list were the monkeys.__ Balinese macaques---sweet little devils chilling in the [Sacred Monkey Forest](https://www.lonelyplanet.com/indonesia/bali/ubud/sights/parks-gardens/sacred-monkey-forest-sanctuary) as if there's nothing in the world that could ever bother them. Highly misleading. We were asked to pocket our jewelry, leave any food we may have outside the gates and never, ever touch the animals. Even so, one of the monkeys took interest in Milena's water bottle, but luckily wasn't too persistent in pursuing it.
 
@@ -36,11 +36,11 @@ Other than a stroll around town, that's pretty much all we found for sightseeing
 
 Off to see the greens then, we were. Located north of town is the Tegalalang rice terrace---__second best rice terrace in Bali__, we were told ("number one" being and hour and a half further into the island---an escapade we chose to pass on). It's a very pleasing sight. Layers of green, stacked one atop the other, with a finishing of palm trees touching the pale, blue sky.
 
-{{< figure src="bali-2016/busy-ubud/tegalalang-rice-terrace.jpg" alt="Tegalalang rice terrace" title="Tegalalang rice terrace" >}}
+{{< figure src="bali-2016/busy-ubud/tegalalang-rice-terrace.webp" alt="Tegalalang rice terrace" title="Tegalalang rice terrace" >}}
 
 The terraces can be climbed, if only to get a better angle for the photos, providing one's prepared to walk a steep, narrow path down and up, doesn't mind passing through a few piles of trash from the local restaurants, and is prepared to pay up at several booths requesting "donations" for the upkeep of the hill. The name's misleading---they won't let anyone through without payment, at _every_ post you're passing.
 
-{{< figure src="bali-2016/busy-ubud/tegenungan-waterfall.jpg" class="right" alt="Tegenungan waterfall" title="Tegenungan waterfall" >}}
+{{< figure src="bali-2016/busy-ubud/tegenungan-waterfall.webp" class="right" alt="Tegenungan waterfall" title="Tegenungan waterfall" >}}
 
 Heading back to Sanur, we wet our feet at another one of Bali's green wonders---__the Tegenungan waterfall__. Again, apparently the second most beautiful waterfall around, but we didn't catch which one was first.
 

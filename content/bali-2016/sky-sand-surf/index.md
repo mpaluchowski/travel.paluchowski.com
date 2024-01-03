@@ -9,7 +9,7 @@ tags:
   - seaside
   - sunsets
   - cleanliness
-image: "bali-2016/sky-sand-surf/balangan-beach-surf-header.jpg"
+image: "bali-2016/sky-sand-surf/balangan-beach-surf-header.webp"
 ---
 
 Paradise. [We found it on the island]({{< ref "/bali-2016/which-way-to-paradise/index.md" >}}) where the land meets the sea, and it's a whole different world from the [craze of traffic]({{< ref "/bali-2016/rules-of-the-road/index.md" >}}) and the never-ending rush of Denpasar with its adjacent cities. It must be the beaches around here that charm, enchant, captivate imagination, and keep folks coming back for more.
@@ -22,7 +22,7 @@ Then there are the __twenty-somethings, coming for the fun__. A lot of them will
 
 __Many will choose surfing__ instead. Most of the time they just lay there and wait, looking out to sea. Nature certainly has its ways of teaching patience. They know _the_ wave will come any moment---_their_ wave---and it'll be _glorious_. All thirty seconds of it. Then it's paddling back to the start and idling again.
 
-{{< figure src="bali-2016/sky-sand-surf/uluwatu-temple-cliff.jpg" class="left" alt="Cliff at the Uluwatu Temple" title="Cliff at the Uluwatu Temple" >}}
+{{< figure src="bali-2016/sky-sand-surf/uluwatu-temple-cliff.webp" class="left" alt="Cliff at the Uluwatu Temple" title="Cliff at the Uluwatu Temple" >}}
 
 By necessity, surfers need to go somewhere where the wave is high. Kuta is one place, but it's far from surfing paradise. Shores of the southernmost parts of Bali are much more promising, with fewer tourists, taller waves, and lovingly named beaches: Blue Point, Dreamland or Balangan, squeezed between tall cliffs offering remarkable views on the sea below. Waves crash into the rocks, sending splashes of water several meters high into the air.
 
@@ -38,6 +38,6 @@ Water is warm. Like a soup, really, so you're quickly disappointed the first tim
 
 What definitively makes up for all the deficiencies of the seaside here are __the views__.
 
-{{< figure src="bali-2016/sky-sand-surf/balangan-beach-sea-view.jpg" alt="Sea view from Balangan Beach" title="Sea view from Balangan Beach" >}}
+{{< figure src="bali-2016/sky-sand-surf/balangan-beach-sea-view.webp" alt="Sea view from Balangan Beach" title="Sea view from Balangan Beach" >}}
 
 They're _stunning_. Just sitting on the soft sand, facing open water touching the horizon with its turquoise-blue surface, is __a meditation in itself__. Come to the western side of the island at the right time of day and you'll also be graced with a spectacular sunset. One that wipes away the whole world from your consciousness and for a moment in time, nobody and nothing else exists.

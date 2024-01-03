@@ -9,7 +9,7 @@ tags:
   - quality of living
   - environment
   - summary
-image: bali-2016/bottom-line-on-bali/tegalalang-rice-terrace-statue-header.jpg
+image: bali-2016/bottom-line-on-bali/tegalalang-rice-terrace-statue-header.webp
 ---
 
 We _could_ live there. Adapt, eventually. Find our places, our people, a favorite stretch of beach, good coffee and reasonable access to the internet. If only we were very careful in selecting pieces of reality we like, and pass over all the rest. Bali today is _not_ a paradise, it's just too inconsistent. But it does have the _makings_ of one.
@@ -32,7 +32,7 @@ I concur. __Most of what is truly wonderful in Bali is nature.__ The fertile, vo
 
 Those are the sort of landscapes you will see in photos, postcards and travel folders advertising Bali. It's all too easy to pick out a piece of reality, frame it and discard everything around it---[the traffic]({{< ref "/bali-2016/rules-of-the-road/index.md" >}}), trash and omnipresent civilizational disorder. I'm just as guilty here as any other photographer, because hey, why would I bring _ugly_ photos back home?
 
-{{< figure src="bali-2016/bottom-line-on-bali/nyoman-winten.jpg" class="right" alt="With Nyoman, our host" title="With Nyoman, our host" >}}
+{{< figure src="bali-2016/bottom-line-on-bali/nyoman-winten.webp" class="right" alt="With Nyoman, our host" title="With Nyoman, our host" >}}
 
 __Most of what's unpleasant originates from humans.__ Which is actually reason to be optimistic, because if humans have created something, then humans can also change it, and [the Balinese are already working on it]({{< ref "/bali-2016/future-of-bali/index.md" >}}).
 

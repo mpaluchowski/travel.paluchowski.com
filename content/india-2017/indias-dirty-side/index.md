@@ -1,6 +1,6 @@
 ---
 date: 2017-04-05T18:55:28+05:30
-image: india-2017/indias-dirty-side/trash.jpg
+image: india-2017/indias-dirty-side/trash.webp
 location: Kainakary, India
 tags:
   - trash
@@ -30,7 +30,7 @@ There's also the issue of friction. __How far do I need to walk to the nearest t
 
 Finally, there's of course the __problem of putting basic needs, like safety, food and health, before any higher ones__, like environment protection, are even considered. India may be lifting millions out of poverty, but with a billion people living here, there's still a considerable number spending too much time every day trying to survive---make some money, acquire food, even washing clothes is a time-consuming, physical endeavor. These people don't have any time nor attention left to think about what happens with the stuff they're dumping or burning in the backyards of their crumbling homes.
 
-{{< figure src="india-2017/indias-dirty-side/maintain-cleanness-sign.jpg" class="right" alt="Signs promoting responsible trash disposal" title="Signs promoting responsible trash disposal" >}}
+{{< figure src="india-2017/indias-dirty-side/maintain-cleanness-sign.webp" class="right" alt="Signs promoting responsible trash disposal" title="Signs promoting responsible trash disposal" >}}
 
 So, __is anything changing in India?__ It seems yes. We saw a number of positive signals in public and private spaces, promoting responsible trash disposal. From the simple "Please maintain the Cleanness" (sic!) to a somewhat vague, if ambitious, concept of "plastic-free zones".
 
@@ -38,6 +38,6 @@ We're not quite sure what a __"plastic-free zone"__ means exactly. If it's forbi
 
 Artists are chipping in, trying to help raise awareness. In Kochi, in one of the prime locations near the seaside promenade, there's a large __art installation called the Fish Cemetery__, symbolically showing how plastic casually dumped inland will eventually, inevitably, make it to the sea, where it's eaten up by fish, which we then catch for food. It's ugly, but it's true.
 
-{{< figure src="india-2017/indias-dirty-side/fish-cemetery.jpg" alt="Fish Cemetery art installation in Kochi" title="Fish Cemetery art installation in Kochi" >}}
+{{< figure src="india-2017/indias-dirty-side/fish-cemetery.webp" alt="Fish Cemetery art installation in Kochi" title="Fish Cemetery art installation in Kochi" >}}
 
 We're worried for India. It's __too beautiful a country with too nice a people to remain this dirty__. And obviously litter from the billion people living here cannot avoid impacting the other six billion people on Earth. We're all in this together, and so we'll be cheering for every initiative aimed at reducing the problem, and hoping the next time we visit (and by now I'm pretty sure there _will_ be a next time), things will be looking better.
