@@ -24,7 +24,7 @@ Every other morning, shortly after sunrise, while my companions were still fast 
 
 {{< figure src="israel-2018/tel-aviv-is-for-living/old-jaffa-street.webp" alt="Old Jaffa street" title="Old Jaffa street" class="right" >}}
 
-The beach was obviously also a mecca for those who prefer an immobile horizontal position. Already this early in the season, the sun was plenty warm, and lots of people spent their days and evenings on the sand, or at one of the many bars and restaurants along the promenade. **On weekends and evenings I thought the whole Tel Aviv actually descended onto beachfront**---it was this busy.
+The beach was obviously also a mecca for those who prefer an immobile horizontal position. Already this early in the season, the sun was plenty warm, and lots of people spent their days and evenings on the sand, or at one of the many bars and restaurants along the promenade. **On weekends and evenings it felt like all of Tel Aviv turned up at the beachfront**---it was this busy.
 
 We did do our share of sightseeing too. Started out in Jaffa, which is the oldest part of the city, with low buildings, narrow streets and all around a lot of messiness. Nothing postcard-worthy really, but pleasant to stroll, eat or have a drink in one of the "ruin bars"---probably not what they're called, but we stole the term from Budapest's bar scene, because these here establishments were similar, with somewhat decrepit interiors.
 
