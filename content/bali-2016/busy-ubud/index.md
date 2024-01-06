@@ -9,6 +9,8 @@ tags:
   - bargaining
   - monkeys
 image: "bali-2016/busy-ubud/pura-taman-saraswati-header.webp"
+destination:
+  osm: -8.5060/115.2617
 ---
 
 Stay longer than a day, she said. Ubud has a lot to offer, she said. That's mostly true---the crowd here is different than down at the [beaches of the south]({{< ref "/bali-2016/sky-sand-surf/index.md" >}}). Young and fit backpackers or wealthy pensioners, shipped in with air-conditioned coaches. And monkeys, so _keep your food stashed safely_.

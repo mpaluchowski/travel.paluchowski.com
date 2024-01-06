@@ -9,6 +9,8 @@ tags:
   - environment
   - climate change
 image: bali-2016/green-school/green-school-header.webp
+destination:
+  osm: -8.56695/115.21393
 ---
 
 The jungle carries sounds of laughter, occasional screams of delight, and music; the voice of an excited, young speaker delivering a talk on environmental matters. We're at [Green School](https://www.greenschool.org), nested in the middle of a thick bamboo forest, educating kids for a sustainable future, and possibly itself being the __future of education__.

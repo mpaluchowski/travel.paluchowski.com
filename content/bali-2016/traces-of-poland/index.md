@@ -11,7 +11,7 @@ tags:
   - expectations
 ---
 
-I wasn't expecting to find any. We're almost as far from Poland as physically possible while still remaining on the surface of Earth. I _was_ expecting getting mixed up with Holland, which to the untrained ear sounds just the same, and then blank stares once we repeat "no, __PO__land". And I was wrong.
+I wasn't expecting to find any. We're almost as far from Poland as physically possible while still remaining on the surface of Earth. I _was_ expecting getting mixed up with Holland, which to the untrained ear sounds just the same, and then blank stares once we repeat "no, _PO_-land". And I was wrong.
 
 <!--more-->
 

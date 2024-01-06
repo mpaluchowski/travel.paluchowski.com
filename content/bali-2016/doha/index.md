@@ -10,6 +10,8 @@ tags:
   - architecture
   - democracy
 image: bali-2016/doha/souq-waqif-cafe-header.webp
+destination:
+  osm: 25.2894/51.5279
 ---
 
 A twenty-first century oasis, constructed from nothing in the scorching-hot desert, fueled only by the economic power of fossils (pun intended). It's too impressive to omit, too exotic to ignore and too tempting _not_ to dedicate a few hours in transit for exploring and verifying, what little we knew about the capital of Qatar, against reality.
