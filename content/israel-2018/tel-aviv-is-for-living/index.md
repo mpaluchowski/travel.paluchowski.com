@@ -12,6 +12,8 @@ tags:
   - food
   - leisure
 image: israel-2018/tel-aviv-is-for-living/tel-aviv-beachfront.webp
+destination:
+  osm: 32.086719672321266/34.78975296020508
 ---
 
 There's not much to see here. Some bauhaus buildings, two markets, maybe one or two neighborhoods. But so much to *do*! Exercise, eat, party and spend afternoons lazily in one of the street cafes. It's a perfectly livable city, with lots of variety, plenty of freedom and few annoyances.

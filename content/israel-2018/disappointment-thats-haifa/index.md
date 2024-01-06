@@ -9,6 +9,8 @@ tags:
   - high-tech
   - livability
 image: israel-2018/disappointment-thats-haifa/bahai-gardens.webp
+destination:
+  osm: 32.8200/34.9985
 ---
 
 Up, and down, and up again, and see that you don't step into dog poo. Haifa is Israel's work and transportation center with a major contribution to the country's GDP, but not much (if anything) to offer tourists, or even millenials willing to work and live there. We came, we saw, we left with very few photos shot.

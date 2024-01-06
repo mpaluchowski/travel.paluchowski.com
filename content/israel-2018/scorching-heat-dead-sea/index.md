@@ -11,6 +11,8 @@ tags:
   - seaside
   - beaches
 image: israel-2018/scorching-heat-dead-sea/desert-dead-sea.webp
+destination:
+  osm: 31.2013/35.3639
 ---
 
 People floating on their backs in the deep blue water, reading newspapers. That's the image of the Dead Sea we had in our minds, probably from some ancient brochure. We had to see for ourselves, of course.

@@ -9,6 +9,8 @@ tags:
   - patriotism
   - parties
 image: israel-2018/proud-nation/israel-flag.webp
+destination:
+  osm: 32.08070/34.78068
 ---
 
 "What's with all the flags?" Every bridge on the way from the airport to our Tel Aviv apartment was decorated with a host of Israel's characteristic blue-on-white emblems. As were many of the buildings. We arrived just in time for Yom Ha'atzmaut---the state celebrating its seventieth birthday.

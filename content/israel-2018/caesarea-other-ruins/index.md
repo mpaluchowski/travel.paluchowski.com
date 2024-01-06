@@ -9,6 +9,8 @@ tags:
   - Romans
   - dining
 image: israel-2018/caesarea-other-ruins/caesarea-port.webp
+destination:
+  osm: 32.5059/34.8971
 ---
 
 "Hugely impressive Roman ruins" of a city and port "built to rival Alexandria", boasted the travel guide. You never know with ruins---many (most?) of them turn out to be a bunch of dull, loosely scattered stones. Caesarea was on our way back from [Haifa]({{< ref "/israel-2018/disappointment-thats-haifa/index.md" >}}), though, so we figured we might as well drop by and see.
