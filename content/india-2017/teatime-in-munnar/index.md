@@ -10,6 +10,8 @@ tags:
   - Kerala
 timezone: IST
 title: Teatime in Munnar
+destination:
+  osm: 10.05543/77.06803
 ---
 
 Time to cool off. 25C is the top temperature here this season and we had to dig out sweatshirts for the evening. Clouds slowly glide up and down the mountains, occasionally covering the whole area in thick, drizzling fog. Everywhere you look it's shades of green. Imagine the perfect scenery to [Ed Sheeran's "I See Fire"][yt-i-see-fire] and you have Munnar.

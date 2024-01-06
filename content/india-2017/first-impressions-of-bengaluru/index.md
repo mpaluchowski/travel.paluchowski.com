@@ -11,6 +11,8 @@ tags:
 timezone: IST
 title: First impressions of Bengaluru
 image: india-2017/first-impressions-of-bengaluru/street-rikshaws.webp
+destination:
+  osm: 12.9889/77.6221
 ---
 
 We're quite surprised at how comfortable we are feeling here. It's hot, it's hectic, there's a billion people in the streets, there's litter everywhere and we keep fending off rikshaw drivers peddling their services. Yet, we're really confident walking these here streets. They're _familiar_.

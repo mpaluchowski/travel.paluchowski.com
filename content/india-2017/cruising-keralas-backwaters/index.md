@@ -11,6 +11,8 @@ tags:
   - food
 timezone: IST
 title: Cruising Kerala's backwaters
+destination:
+  osm: 9.5016/76.3818
 ---
 
 The lazying around continues. We moved away from the open sea and onto the backwaters of Kerala---900km of waterways spread along 200km of the Indian shore. Our home for the next two days is a kettuvalam---a houseboat with two bedrooms, a captain, and a cook---surrounded by water, small villages, palm trees and rice fields.

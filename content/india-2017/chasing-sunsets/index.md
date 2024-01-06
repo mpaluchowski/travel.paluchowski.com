@@ -11,6 +11,8 @@ tags:
   - expats
 timezone: IST
 title: Chasing sunsets
+destination:
+  osm: 10.10950/76.18737
 ---
 
 Sound of sea waves crashing against the shore. Their melody putting us to sleep and welcoming us to every new day. We're in [Kuzhupilly Beach][map-kuzhupilly-beach], just north of Kochi. The moment we arrived we _knew_ it was a most fortunate decision to spend a full four days and nights here, relaxing, recharging, looking out to sea.

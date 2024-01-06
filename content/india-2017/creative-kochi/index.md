@@ -11,6 +11,8 @@ tags:
   - trade
 timezone: IST
 title: Creative Kochi
+destination:
+  osm: 9.9675/76.2454
 ---
 
 It's not all sky, sand and sea in Kerala. Being the subcontinent's eastern seafront, some of the first explorers from the west arrived here, followed by centuries of foreign contacts. We took a day off from lazying around and went discovering the old port of Kochi.
