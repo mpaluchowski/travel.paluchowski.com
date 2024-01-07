@@ -28,11 +28,11 @@ Every other morning, shortly after sunrise, while my companions were still fast 
 
 The beach was obviously also a mecca for those who prefer an immobile horizontal position. Already this early in the season, the sun was plenty warm, and lots of people spent their days and evenings on the sand, or at one of the many bars and restaurants along the promenade. **On weekends and evenings it felt like all of Tel Aviv turned up at the beachfront**---it was this busy.
 
-We did do our share of sightseeing too. Started out in Jaffa, which is the oldest part of the city, with low buildings, narrow streets and all around a lot of messiness. Nothing postcard-worthy really, but pleasant to stroll, eat or have a drink in one of the "ruin bars"---probably not what they're called, but we stole the term from Budapest's bar scene, because these here establishments were similar, with somewhat decrepit interiors.
+We did our share of sightseeing too. Started out in Jaffa, which is the oldest part of the city, with low buildings, narrow streets and all around a lot of messiness. Nothing postcard-worthy really, but pleasant to stroll, eat or have a drink in one of the "ruin bars"---probably not what they're called, but we stole the term from Budapest's bar scene, because these here establishments were similar, with somewhat decrepit interiors.
 
 The Neve Tzedek neighborhood is similar---a neat place to spend time in---but distinctly more modern. Then the highly advertised bauhaus architecture along the Rothschild boulevard was quite pleasing, especially for a design buff like myself, though again, the beauty of this movement lies in its simplicity and its products are far from what one would consider "impressive".
 
-Next were the markets, the flee market of Jaffa and the Carmel market of Tel Aviv. Both busy, noisy, packed and offering lots of really cool stuff to spend money on, including mouthwatering veggies and other foods. Basically, what you would expect from serious markets.
+Next were the markets, the flee market of Jaffa and the Carmel market of Tel Aviv. Both busy, noisy, packed, and offering lots of really cool stuff to spend money on, including mouthwatering veggies and other foods. Basically, what you would expect from serious markets.
 
 {{< figure src="israel-2018/tel-aviv-is-for-living/tel-aviv-port.webp" alt="Tel Aviv port" title="Tel Aviv port" >}}
 
