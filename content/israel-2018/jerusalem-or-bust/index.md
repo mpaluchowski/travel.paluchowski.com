@@ -4,10 +4,13 @@ title: Jerusalem or bust
 timezone: EEST
 location: Veliki Preslav, Bulgaria
 tags:
-  - Israel
   - Jerusalem
   - religion
   - churches
+countries: 
+  - Israel
+continents: 
+  - Asia
 image: israel-2018/jerusalem-or-bust/western-wall-temple-mount.webp
 destination:
   osm: 31.7801/35.2266

@@ -8,6 +8,10 @@ tags:
   - culture
   - diversity
   - race
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 ---
 
 Brace yourself when, being white, you stumble upon a school trip of teenage, Muslim girls crossing your way in Bali. You're just about to loose half an hour of your life on taking selfies with *every single three or four* of them. Just because you're white---not even a particularly uncommon sight around.

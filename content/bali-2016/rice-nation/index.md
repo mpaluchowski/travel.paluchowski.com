@@ -8,6 +8,10 @@ tags:
   - cuisine
   - prices
   - alcohol
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: bali-2016/rice-nation/nasi-goreng-header.webp
 ---
 

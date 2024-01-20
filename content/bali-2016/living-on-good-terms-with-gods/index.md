@@ -8,6 +8,10 @@ tags:
   - rituals
   - temples
   - religious restrictions
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: bali-2016/living-on-good-terms-with-gods/pura-gunung-kawi-sebatu-header.webp
 ---
 

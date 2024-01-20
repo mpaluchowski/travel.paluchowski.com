@@ -8,6 +8,10 @@ tags:
   - ecology
   - payments
   - violence
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: CEST
 title: March towards the future
 ---

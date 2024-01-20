@@ -8,6 +8,10 @@ tags:
   - sustainability
   - environment
   - climate change
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: bali-2016/green-school/green-school-header.webp
 destination:
   osm: -8.56695/115.21393

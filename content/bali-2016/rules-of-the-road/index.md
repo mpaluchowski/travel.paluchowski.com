@@ -8,6 +8,10 @@ tags:
   - traffic
   - road safety
   - scooters
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: "bali-2016/rules-of-the-road/kuta-scooter-parking-header.webp"
 ---
 

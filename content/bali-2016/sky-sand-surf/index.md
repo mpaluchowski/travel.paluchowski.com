@@ -9,6 +9,10 @@ tags:
   - seaside
   - sunsets
   - cleanliness
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: "bali-2016/sky-sand-surf/balangan-beach-surf-header.webp"
 ---
 

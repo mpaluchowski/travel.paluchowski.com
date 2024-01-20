@@ -4,8 +4,11 @@ title: From sunset to sunset
 timezone: IDT
 location: Tel Aviv, Israel
 tags:
-  - Israel
   - holidays
+countries: 
+  - Israel
+continents: 
+  - Asia
 image: israel-2018/from-sunset-to-sunset/tel-aviv-sunset.webp
 ---
 

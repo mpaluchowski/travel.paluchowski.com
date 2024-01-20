@@ -4,10 +4,13 @@ title: What's with the Russian?
 timezone: CEST
 location: Warsaw, Poland
 tags:
-  - Israel
   - Russian
   - language
   - immigration
+countries: 
+  - Israel
+continents: 
+  - Asia
 ---
 
 It's quite pervasive. The sound of spoken Russian and signs written in cyrillic. We're used to meeting Russians around Europe, wherever it was fashionable to vacation, but this is something different. These here are *locals*, who emigrated mostly in the 90s and largely kept their culture.

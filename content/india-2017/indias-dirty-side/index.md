@@ -8,6 +8,10 @@ tags:
   - poverty
   - art
   - environment protection
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: IST
 title: India's dirty side
 ---

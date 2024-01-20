@@ -8,6 +8,10 @@ tags:
   - lynching
   - safety
   - religion
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: IST
 title: How are cows doing?
 ---

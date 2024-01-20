@@ -2,10 +2,13 @@
 date: 2017-03-05T08:31:19+01:00
 location: Warszawa, Poland
 tags:
-  - India
   - preparations
   - expectations
   - route planning
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: CET
 title: The heat of preparations
 ---

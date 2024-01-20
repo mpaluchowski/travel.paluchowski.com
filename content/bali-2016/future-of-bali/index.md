@@ -8,6 +8,10 @@ tags:
   - sustainability
   - quality of living
   - development
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: bali-2016/future-of-bali/temple-sculpture-header.webp
 ---
 

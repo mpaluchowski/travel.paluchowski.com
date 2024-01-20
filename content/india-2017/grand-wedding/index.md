@@ -8,6 +8,10 @@ tags:
   - clothing
   - culture
   - networking
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: IST
 title: The Grand Wedding
 ---

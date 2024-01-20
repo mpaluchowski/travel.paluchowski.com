@@ -9,6 +9,10 @@ tags:
   - digital nomads
   - telecommuting
   - relationships
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 ---
 
 Our Flying Dutchman is leaving today. That's not his name, but we didn't get his real one when he first offered it. He's been a source of recommendations for pretty much all of our dining here, having been a local here for months at a time. Now he's off to a job in the Caribbean. One of the many vagabonds around here.

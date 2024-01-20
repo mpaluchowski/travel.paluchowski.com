@@ -9,6 +9,10 @@ tags:
   - trash
   - coral reefs
   - marine life
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: bali-2016/waterworld/snorkeler-header.webp
 destination:
   osm: -8.53387/115.50889

@@ -4,10 +4,13 @@ title: The disappointment that's Haifa
 timezone: IDT
 location: Tel Aviv, Israel
 tags:
-  - Israel
   - Haifa
   - high-tech
   - livability
+countries: 
+  - Israel
+continents: 
+  - Asia
 image: israel-2018/disappointment-thats-haifa/bahai-gardens.webp
 destination:
   osm: 32.8200/34.9985

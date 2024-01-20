@@ -4,13 +4,16 @@ title: "Tel-Aviv is for living"
 timezone: CEST
 location: Warszawa, Poland
 tags:
-  - Israel
   - Tel-Aviv
   - beach
   - fitness
   - sightseeing
   - food
   - leisure
+countries: 
+  - Israel
+continents: 
+  - Asia
 image: israel-2018/tel-aviv-is-for-living/tel-aviv-beachfront.webp
 destination:
   osm: 32.086719672321266/34.78975296020508

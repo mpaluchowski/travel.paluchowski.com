@@ -11,6 +11,10 @@ tags:
   - street markets
   - trash
   - yoga
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: IST
 title: Diving into Mysuru
 destination:

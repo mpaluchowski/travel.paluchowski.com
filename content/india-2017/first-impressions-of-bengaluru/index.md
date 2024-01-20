@@ -8,6 +8,10 @@ tags:
   - security
   - culture
   - military
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: IST
 title: First impressions of Bengaluru
 image: india-2017/first-impressions-of-bengaluru/street-rikshaws.webp

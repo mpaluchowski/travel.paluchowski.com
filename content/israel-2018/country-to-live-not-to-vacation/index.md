@@ -5,12 +5,15 @@ title: A country to live, not to vacation
 timezone: CEST
 location: Warszawa, Poland
 tags:
-  - Israel
   - summary
   - taxes
   - military
   - security
   - religion
+countries: 
+  - Israel
+continents: 
+  - Asia
 image: "israel-2018/country-to-live-not-to-vacation/israel-refugees.webp"
 ---
 

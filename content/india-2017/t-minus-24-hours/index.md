@@ -5,6 +5,10 @@ tags:
   - preparations
   - visas
   - accommodation
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: CET
 title: T minus 24 hours
 ---

@@ -3,12 +3,15 @@ date: 2017-05-07T06:53:32+02:00
 image: india-2017/summing-up-india/hindu-temple.webp
 location: Warszawa, Poland
 tags:
-  - India
   - climate
   - people
   - traffic
   - progress
   - summary
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: CEST
 title: Summing-up India
 ---

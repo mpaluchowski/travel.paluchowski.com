@@ -8,6 +8,10 @@ tags:
   - weight
   - diet
   - coffee
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: CEST
 title: Weight watchers' nightmare
 ---

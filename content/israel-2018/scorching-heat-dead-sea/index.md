@@ -4,12 +4,15 @@ title: Scorching heat of the Dead Sea
 timezone: IDT
 location: Tel Aviv, Israel
 tags:
-  - Israel
   - Dead Sea
   - desert
   - heat
   - seaside
   - beaches
+countries: 
+  - Israel
+continents: 
+  - Asia
 image: israel-2018/scorching-heat-dead-sea/desert-dead-sea.webp
 destination:
   osm: 31.2013/35.3639

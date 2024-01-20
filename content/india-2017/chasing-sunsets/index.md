@@ -9,6 +9,10 @@ tags:
   - food
   - locals
   - expats
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: IST
 title: Chasing sunsets
 destination:

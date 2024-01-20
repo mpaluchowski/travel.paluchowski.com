@@ -10,6 +10,10 @@ languageCode: "en-us"
 googleAnalytics: G-T5DLL1HFNE
 author: "Michał Paluchowski"
 copyright: 'Made around the world by <a href="https://michal.paluchowski.com/">Michał Paluchowski</a> with <a href="https://gohugo.io/">Hugo</a>. All content is under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.'
+taxonomies:
+  tag: tags
+  country: countries
+  continent: continents
 params:
   logo: img/compass-rose.svg
   favicon:

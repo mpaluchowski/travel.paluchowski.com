@@ -4,10 +4,13 @@ title: Caesarea and other ruins
 timezone: IDT
 location: Tel Aviv, Israel
 tags:
-  - Israel
   - ruins
   - Romans
   - dining
+countries: 
+  - Israel
+continents: 
+  - Asia
 image: israel-2018/caesarea-other-ruins/caesarea-port.webp
 destination:
   osm: 32.5059/34.8971

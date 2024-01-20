@@ -8,6 +8,10 @@ tags:
   - art market
   - bargaining
   - monkeys
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: "bali-2016/busy-ubud/pura-taman-saraswati-header.webp"
 destination:
   osm: -8.5060/115.2617
@@ -30,7 +34,7 @@ __Downtown Ubud is dense and busy.__ No wonder real-estate prices here are secon
 The Art Market afforded us a chance to __practice our bargaining skills__ and I daresay we came out reasonably well. Paid half of the original asking price and close to what the items should fairly cost. My fear with these negotiations is always that I'll either:
 
 1. start too high, anchored by the shopkeeper's asking price, and end up overpaying, or
-1. bid too low and offend the other party.
+2. bid too low and offend the other party.
 
 (1) can easily be managed by watching out for the [anchoring bias](https://en.wikipedia.org/wiki/Anchoring), and (2) seems to be an overblown fear in countries, where bargaining is the norm and the shopkeeper wants to sell. I might end up _enjoying_ the process in the end.
 

@@ -9,6 +9,10 @@ tags:
   - shopping
   - Kerala
   - food
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: IST
 title: Cruising Kerala's backwaters
 destination:

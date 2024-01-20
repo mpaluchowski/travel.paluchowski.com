@@ -5,10 +5,13 @@ title: All the hummus you can eat
 timezone: CEST
 location: Warszawa, Poland
 tags:
-  - Israel
   - food
   - hummus
   - cuisine
+countries: 
+  - Israel
+continents: 
+  - Asia
 image: israel-2018/all-the-hummus-you-can-eat/jaffa-dish.webp
 ---
 

@@ -5,6 +5,10 @@ tags:
   - music
   - dancing
   - culture
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: CET
 title: Sounds of India
 ---

@@ -9,6 +9,10 @@ tags:
   - quality of living
   - environment
   - summary
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: bali-2016/bottom-line-on-bali/tegalalang-rice-terrace-statue-header.webp
 ---
 

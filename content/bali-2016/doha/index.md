@@ -9,6 +9,10 @@ tags:
   - economy
   - architecture
   - democracy
+countries: 
+  - Qatar
+continents: 
+  - Asia
 image: bali-2016/doha/souq-waqif-cafe-header.webp
 destination:
   osm: 25.2894/51.5279

@@ -9,6 +9,10 @@ tags:
   - sightseeing
   - Jews
   - trade
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: IST
 title: Creative Kochi
 destination:

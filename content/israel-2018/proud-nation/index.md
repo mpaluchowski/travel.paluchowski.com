@@ -4,10 +4,13 @@ title: Proud nation
 timezone: IDT
 location: Tel Aviv, Israel
 tags:
-  - Israel
   - independence
   - patriotism
   - parties
+countries: 
+  - Israel
+continents: 
+  - Asia
 image: israel-2018/proud-nation/israel-flag.webp
 destination:
   osm: 32.08070/34.78068

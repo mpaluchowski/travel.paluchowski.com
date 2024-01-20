@@ -10,6 +10,10 @@ tags:
   - Bali
   - beaches
   - weather
+countries: 
+  - Indonesia
+continents: 
+  - Asia
 image: "bali-2016/which-way-to-paradise/kuta-beach-header.webp"
 ---
 

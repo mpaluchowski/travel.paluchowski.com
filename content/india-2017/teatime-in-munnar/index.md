@@ -8,6 +8,10 @@ tags:
   - nature
   - protest
   - Kerala
+countries: 
+  - India
+continents: 
+  - Asia
 timezone: IST
 title: Teatime in Munnar
 destination:
