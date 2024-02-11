@@ -24,7 +24,7 @@ We've no *fixed* plans for any of the days. I'm guessing we'll want to travel ou
 
 Tel Aviv itself doesn't seem to have many sights---it'll "just" be a lovely place to blend in with the local culture---but the other spots we have on our list offer an abundance of these:
 
-- **Jerusalem**, of course, covered by the first and longest chapter of the [Israel Lonely Planet travel guide](https://shop.lonelyplanet.com/products/israel-and-the-palestinian-territories-travel-guide-8). Thousands of years of history in one place. Stones and olive trees that have "seen" events that legends talk about. We might need to go there twice just to cover the most interesting parts.
+- **Jerusalem**, of course, covered by the first and longest chapter of the [Israel Lonely Planet travel guide](https://shop.lonelyplanet.com/products/israel-the-palestinian-territories). Thousands of years of history in one place. Stones and olive trees that have "seen" events that legends talk about. We might need to go there twice just to cover the most interesting parts.
 - **Haifa** with its [Baha'i Gardens](https://www.lonelyplanet.com/israel/haifa/attractions/baha-i-gardens/a/poi-sig/1444834/1001862), beautiful port and adjacent districts.
 - **Caesarea** for the old, Roman ruins and nearby **Zikhron Ya'akov** for the excellent wine.
 - **Sea of Galilee** with its beautiful nature, and most likely the **Dead Sea** to have the obligatory photos of floating on top of the super-salty water.
