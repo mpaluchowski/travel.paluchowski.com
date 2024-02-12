@@ -15,7 +15,7 @@ continents:
 image: bali-2016/living-on-good-terms-with-gods/pura-gunung-kawi-sebatu-header.webp
 ---
 
-Mind your step. They're on the ground at every gate or entrance, though they're not meant to greet visitors. [_Canang sari_ are offerings to gods](http://www.iskconid.org/about-bali)---flowers, incense, often with some food, wrapped in bamboo leaves---freshly laid out every day. A symbol of the Balinese' affinity with gods and spirits.
+Mind your step. They're on the ground at every gate or entrance, though they're not meant to greet visitors. [_Canang sari_ are offerings to gods](https://bali.live/p/the-balinese-daily-offerings-canang-sari)---flowers, incense, often with some food, wrapped in bamboo leaves---freshly laid out every day. A symbol of the Balinese' affinity with gods and spirits.
 
 <!--more-->
 

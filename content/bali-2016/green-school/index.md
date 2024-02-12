@@ -35,7 +35,7 @@ Children learn by doing, with practical workshops and exercises. Many of them ta
 
 The school is in its __eighth year of existence__ now, and on the way to have a fifth graduating class. __400 children__ total are enrolled, starting from pre-kindergarten and up to high school. Some of the parents we talked to expressed regret that the school doesn't offer college degrees.
 
-What the school _does_ offer are __scholarships__ for children from surrounding villages. Fees for campus tours---[available for visits are Green School, Bamboo Workshop and the Green Village](http://greenvillagebali.com/visit/)---contribute towards the scholarship fund. The money we paid for our own tour was perhaps the best-spent entrance fee to anywhere on the island.
+What the school _does_ offer are __scholarships__ for children from surrounding villages. Fees for campus tours---[available for visits are Green School, Bamboo Workshop and the Green Village](https://greenvillagebali.com/visit/)---contribute towards the scholarship fund. The money we paid for our own tour was perhaps the best-spent entrance fee to anywhere on the island.
 
 {{< figure src="bali-2016/green-school/meditation-hut.webp" class="right" alt="Meditation hut" title="Meditation hut" >}}
 
