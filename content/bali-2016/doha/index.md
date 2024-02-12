@@ -9,9 +9,9 @@ tags:
   - economy
   - architecture
   - democracy
-countries: 
+countries:
   - Qatar
-continents: 
+continents:
   - Asia
 image: bali-2016/doha/souq-waqif-cafe-header.webp
 destination:
@@ -36,13 +36,13 @@ The highlight of our stay was a _complimentary_ (yes! completely free!) __tour o
 
 The full tour covers four major tourist attractions in the space of 1.5 hours: the [Museum of Islamic Art](https://mia.org.qa/en/) (without entering it; that'd take hours alone), [Souq Waqif](https://en.wikipedia.org/wiki/Souq_Waqif), [Katara Village](https://www.katara.net/en) and [The Pearl](https://www.thepearlqatar.com/EN/)---an artificial island built right on the sea. Sadly, we only got to see the first two because the queues in immigration (and their lengthy procedures, including face scanning) delayed our departure.
 
-From stop at the Museum of Islamic Art we got to admire the view on __Doha's "Manhattan"__ across the bay---a district of flashy, modern, high-rise buildings, with their colorful nighttime illumination. They reminded me of the Strip in Las Vegas, sans the Eiffel Tower, Pyramid and all the other nonsense, but otherwise in the same, somewhat kitschy, over-the-top arrangement.
+From the stop at the Museum of Islamic Art we got to admire the view on __Doha's "Manhattan"__ across the bay---a district of flashy, modern, high-rise buildings, with their colorful nighttime illumination. They reminded me of the Strip in Las Vegas, sans the Eiffel Tower, Pyramid and all the other nonsense, but otherwise in the same, somewhat kitschy, over-the-top arrangement.
 
 Then there was the __Souq Waqif__---arguably the most interesting part of the visit. An old, traditional street market, popular with locals as with tourists. We pleasantly spent our time here just walking the narrow streets and corners, checking out the wares on offer and doing a bit of shopping. An enchanting oriental experience---just what I imagined years ago reading novels from colonial times.
 
 {{< figure src="bali-2016/doha/souq-waqif-stall.webp" alt="Souq Waqif" title="Souq Waqif" >}}
 
-The whole city is very orderly, __fixated on buying its way into modernity__. The road from the airport was busy with new-ish Japanese cars (Honda and Toyota, pretty much exclusively), broad, smooth, and lit with beautiful street lamps, poles of which are colorfully illuminated and inscribed with Quran quotations. We saw a neat park, with lots of greens, benches, playgrounds for children and a street workout installation for the grown-ups.
+The whole city is very orderly, __fixated on buying its way into modernity__. The road from the airport was busy with new-ish Japanese cars (almost exclusively Hondas and Toyotas), broad, smooth, and lit with beautiful street lamps, poles of which are colorfully illuminated and inscribed with Quran quotations. We saw a neat park, with lots of greens, benches, playgrounds for children and a street workout rig.
 
 __Exciting buildings__ are springing up everywhere, including the [National Museum of Qatar](https://nmoq.org.qa/en/), with its design inspired by the curious shape of the [desert rose](https://en.wikipedia.org/wiki/Desert_rose_(crystal)). And a whole, __new metro system__ is under construction---not just one line, mind you, but _two_ full lines of sixty four stations in one go, followed by another two lines and twenty four stations shortly. That's some perspective, considering Warsaw will build a grand total of _six_ metro stations for one of its lines by 2019.
 
