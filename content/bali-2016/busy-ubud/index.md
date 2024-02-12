@@ -8,9 +8,9 @@ tags:
   - art market
   - bargaining
   - monkeys
-countries: 
+countries:
   - Indonesia
-continents: 
+continents:
   - Asia
 image: "bali-2016/busy-ubud/pura-taman-saraswati-header.webp"
 destination:
@@ -27,7 +27,7 @@ Sudden passings notwithstanding, Lonely Planet dedicated considerable space to c
 
 {{< figure src="bali-2016/busy-ubud/monkey-forest-monkeys.webp" class="right" alt="Monkeys in the Sacred Monkey Forest" title="Monkeys in the Sacred Monkey Forest" >}}
 
-__First ones on the list were the monkeys.__ Balinese macaques---sweet little devils chilling in the [Sacred Monkey Forest](https://www.lonelyplanet.com/indonesia/bali/ubud/sights/parks-gardens/sacred-monkey-forest-sanctuary) as if there's nothing in the world that could ever bother them. Highly misleading. We were asked to pocket our jewelry, leave any food we may have outside the gates and never, ever touch the animals. Even so, one of the monkeys took interest in Milena's water bottle, but luckily wasn't too persistent in pursuing it.
+__First ones on the list were the monkeys.__ Balinese macaques---sweet little devils chilling in the [Sacred Monkey Forest](https://monkeyforestubud.com/) as if there's nothing in the world that could ever bother them. Highly misleading. We were asked to pocket our jewelry, leave any food we may have outside the gates and never, ever touch the animals. Even so, one of the monkeys took interest in Milena's water bottle, but luckily wasn't too persistent in pursuing it.
 
 __Downtown Ubud is dense and busy.__ No wonder real-estate prices here are second only to Kuta's. Three narrow streets, part filled with parking scooters, the remaining space taken up by a constant stream of passing cars, motorbikes and occasional coaches. Tons of restaurants, cafés, shops and every ten meters a man offering taxi services to the throngs of passing tourists.
 
