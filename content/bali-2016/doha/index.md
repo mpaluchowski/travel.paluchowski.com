@@ -18,7 +18,7 @@ destination:
   osm: 25.2894/51.5279
 ---
 
-A twenty-first century oasis, constructed from nothing in the scorching-hot desert, fueled only by the economic power of fossils (pun intended). It's too impressive to omit, too exotic to ignore and too tempting _not_ to dedicate a few hours in transit for exploring and verifying, what little we knew about the capital of Qatar, against reality.
+A twenty-first century oasis, constructed from nothing in the scorching-hot desert, fueled only by the economic power of fossils (pun intended). It's too impressive to omit, too exotic to ignore and too tempting _not_ to dedicate a few hours in transit for exploring, and verifying, what little we knew about the capital of Qatar against reality.
 
 <!--more-->
 
@@ -28,9 +28,9 @@ Doha is obviously far away from Bali (geographically, socially and in many other
 
 __Hamad is one of the nicer airports__ I've ever been to. Built from scratch, partly on land reclaimed from the sea, and designed for capacity of up to 50 million passengers annually. It's an elegant structure alright, but what counts is the inner layout, affecting the (dis)comfort of travelers, and that's done _really well_.
 
-There's no one, single commercial zone. Instead, restaurants, cafés and shops are sprinkled around the building. The majority, including a sizable food court, are located in the middle (with the odd bear-under-lamp sculpture), but one can enjoy just as good a sandwich and as bad a coffee in the more remote parts, closer to the gates. WiFi's free---very welcome and still far from standard worldwide, and power outlets are everywhere.
+There's no one, single commercial zone. Instead, restaurants, cafés and shops are sprinkled around the building. The majority, including a sizable food court, are located in the middle (with the odd bear-under-lamp sculpture), but one can enjoy just as good a sandwich and as bad a coffee in the more remote parts, closer to the gates. WiFi's free---very welcome and still far from standard worldwide---and power outlets are everywhere.
 
-We tested the __quiet room__ and that was the only portion of the experience that truly _sucked_. The first issue was the smell. Imagine a hundred or so people dozing off in a relatively small, closed room. They really need to beef up the ventilation there. Worse, the area wasn't even that quiet. Some of the inhabitants kept having casual conversations, people walked in and out, the door making a loud bang every time it closed, and the entrance was located in a corridor frequented by airport staff, who made a fair amount of noise just going about their daily business.
+We tested the __quiet room__, and that was the only portion of the experience that truly _sucked_. The first issue was the smell. Imagine a hundred or so people dozing off in a relatively small, closed room. They really need to beef up the ventilation there. Worse, the area wasn't even that quiet. Some of the inhabitants kept having casual conversations, people walked in and out, the door making a loud bang every time it closed, and the entrance was located in a corridor frequented by airport staff, who made a fair amount of noise just going about their daily business.
 
 The highlight of our stay was a _complimentary_ (yes! completely free!) __tour of Doha__, arranged by Qatar Airways (thanks!) for anyone with a minimum six hours of layover time. That saved us approx. €25 a person on the entry visa and removed the whole hassle of getting into, around and back out of the city.
 
@@ -38,7 +38,7 @@ The full tour covers four major tourist attractions in the space of 1.5 hours: t
 
 From the stop at the Museum of Islamic Art we got to admire the view on __Doha's "Manhattan"__ across the bay---a district of flashy, modern, high-rise buildings, with their colorful nighttime illumination. They reminded me of the Strip in Las Vegas, sans the Eiffel Tower, Pyramid and all the other nonsense, but otherwise in the same, somewhat kitschy, over-the-top arrangement.
 
-Then there was the __Souq Waqif__---arguably the most interesting part of the visit. An old, traditional street market, popular with locals as with tourists. We pleasantly spent our time here just walking the narrow streets and corners, checking out the wares on offer and doing a bit of shopping. An enchanting oriental experience---just what I imagined years ago reading novels from colonial times.
+Then there was the __Souq Waqif__---arguably the most interesting part of the visit. An old, traditional street market, popular with locals as with tourists. We pleasantly spent our time here just walking the narrow streets and corners, checking out the wares on offer, and doing a bit of shopping. An enchanting oriental experience---just what I imagined years ago, reading novels from colonial times.
 
 {{< figure src="bali-2016/doha/souq-waqif-stall.webp" alt="Souq Waqif" title="Souq Waqif" >}}
 
