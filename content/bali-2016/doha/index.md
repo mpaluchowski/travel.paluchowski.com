@@ -5,6 +5,7 @@ location: Doha, Qatar
 title: Doha
 tags:
   - fossil fuels
+  - airport
   - economy
   - architecture
   - democracy
