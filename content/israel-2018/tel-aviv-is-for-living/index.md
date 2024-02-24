@@ -5,14 +5,14 @@ timezone: CEST
 location: Warszawa, Poland
 tags:
   - Tel-Aviv
-  - beach
+  - beaches
   - fitness
   - sightseeing
   - food
   - leisure
-countries: 
+countries:
   - Israel
-continents: 
+continents:
   - Asia
 image: israel-2018/tel-aviv-is-for-living/tel-aviv-beachfront.webp
 destination:
