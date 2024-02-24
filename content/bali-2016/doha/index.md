@@ -4,7 +4,6 @@ timezone: AST
 location: Doha, Qatar
 title: Doha
 tags:
-  - transfer
   - fossil fuels
   - economy
   - architecture
