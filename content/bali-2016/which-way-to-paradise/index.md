@@ -7,12 +7,11 @@ tags:
   - "first impressions"
   - paradise
   - expectations
-  - Bali
   - beaches
   - weather
-countries: 
+countries:
   - Indonesia
-continents: 
+continents:
   - Asia
 image: "bali-2016/which-way-to-paradise/kuta-beach-header.webp"
 ---

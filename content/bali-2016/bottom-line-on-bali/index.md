@@ -4,14 +4,13 @@ timezone: CET
 location: Warszawa, Poland
 title: The bottom line on Bali
 tags:
-  - Bali
   - public spaces
   - quality of living
   - environment
   - summary
-countries: 
+countries:
   - Indonesia
-continents: 
+continents:
   - Asia
 image: bali-2016/bottom-line-on-bali/tegalalang-rice-terrace-statue-header.webp
 ---
