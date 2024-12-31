@@ -32,7 +32,7 @@ Our experience? Mixed.
 
 The wildlife is _stunning_. Colonies of fish, ranging from small ones synchronously swimming in groups of hundreds, colored blue, yellow or orange, to meter-long ones, grey, brown or black-ish fish, gracefully floating in pairs. Occasionally there's an eel snaking through irregularities of the corals (our Australian companion took one for a snake and panicked, but of course these are harmless), and if one's particularly lucky, a turtle or small shark (too small to do harm, apparently) may show up.
 
-Nobody's allowed to touch or interfere with any of the animals, obviously, but just watching them is mesmerizing. Beats a visit to the zoo or even the massive [AquaDom at SEA LIFE Berlin](https://www.visitsealife.com/berlin/en/).
+Nobody's allowed to touch or interfere with any of the animals, obviously, but just watching them is mesmerizing. Beats a visit to the zoo or even the massive (AquaDom at SEA LIFE Berlin)[^1].
 
 So what's the issue?
 
@@ -41,3 +41,5 @@ Look at the header photo. See anything out of place? Right. __Trash.__ Lots and 
 We also weren't lucky with the weather---__overcast skies all morning__, no direct sunlight, so the waters were much darker than they could've been. But unlike garbage management, there was nothing anyone could do about that.
 
 If there's one thing the experience left with with, it's the profound realization of how important it is to work hard for sustainability, and to reduce humanity's footprint on Earth. It strengthened our commitment to do our part of the job: __throw away less, reuse more__, and support the companies and people who live by the same values.
+
+[^1]: SEA LIFE Berlin was closed in late 2024, following the 2022 collapse of their AquaDom.
