@@ -41,7 +41,7 @@ We were nonetheless [positively surprised by the quality of roads]({{< ref "/ind
 
 The [amount of litter]({{< ref "/india-2017/indias-dirty-side/index.md" >}}) didn't shock us. We had been told to expect it, and some places were better than others. Neither did poverty prove to be particularly striking. Perhaps because it usually comes draped in colors. **India is a very colorful country**---from the land, through spices to the clothing. Even the poorest of people dressed beautifully and if we didn't see the conditions they were living in, we might've never noticed how little they had to live on.
 
-India is steadily [on its way to modernity]({{< ref "/india-2017/march-towards-future/index.md" >}}). Just in the last 35 years, since 1980 or so, [India's GDP per capita increased fivefold and life expectancy grew by 12 years][gapmider-india]. These trends continue upwards. When you consider that it's a country with a population of over one billion, that's a _lot_ of children who are not dying anymore, and a _lot_ of economic output.
+India is steadily [on its way to modernity]({{< ref "/india-2017/march-towards-future/index.md" >}}). Just in the last 35 years, since 1980 or so, [India's GDP per capita increased fivefold and life expectancy grew by 12 years][gapminder-india]. These trends continue upwards. When you consider that it's a country with a population of over one billion, that's a _lot_ of children who are not dying anymore, and a _lot_ of economic output.
 
 {{< figure src="india-2017/summing-up-india/india-competitive-schools.webp" alt="India's schools are highly competitive" title="India's schools are highly competitive" >}}
 
@@ -49,4 +49,4 @@ We met a number of young Indians (including [our good friend]({{< ref "/india-20
 
 Yes, **we'll be back**. No idea when. There are a lot of places in the world for us to see, and only so much time. If you're considering visiting India---go for it. And if you're worried about the heat, the hygiene, the traffic or even the spiciness of food---don't. You'll be just fine. And if you ever get in trouble, the locals will be happy to assist. Just go.
 
-[gapmider-india]: https://www.gapminder.org/tools/#$locale$id=en;&state$marker$select@$country=ind&trailStartTime=1800;;;;&chart-type=bubbles
+[gapminder-india]: https://www.gapminder.org/tools/#$model$markers$line$data$filter$dimensions$geo$/$or@$geo$/$in@=ind;;;;;;;;&encoding$y$data$concept=lex&space@=geo&=time;;&scale$type:null&domain:null&zoomed:null;;;;;;&chart-type=linechart&url=v2

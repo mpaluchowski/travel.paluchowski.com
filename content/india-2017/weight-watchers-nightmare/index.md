@@ -36,7 +36,7 @@ It's cheap. By western standards obviously, and even by our still modest Polish 
 
 Granted, there's no alcohol included. There's __very little alcohol consumed__, or even available, overall. On April 1, India Supreme Court's order came into force [forbidding the sale of any alcohol within 500m from national highways][supreme-court-order-alcohol], aimed at reducing the number of drunk drivers. I'm not sure how effective a measure this'll be, but it did close down a lot of shops and bars, resulting in massive queues at those which remained open. [In Kochi]({{< ref "/india-2017/creative-kochi/index.md" >}}) we saw a liquor store with some 200 people queuing. Another one in Coimbatore had perhaps 100 persons waiting.
 
-Alcohol is offered in selected stores and restaurants, mostly catering to foreigners and well-off Indians. The bigger a city the wider the availability, unsurprisingly. [In Bengaluru]({{< ref "/india-2017/first-impressions-of-bengaluru/index.md" >}}) we even found an __outpost of the craft beer movement__---the [Arbor Brewing Company brewpub][arbor-brewing-company] making decent brews and serving very British pub food, enhanced with Indian inspirations.
+Alcohol is offered in selected stores and restaurants, mostly catering to foreigners and well-off Indians. The bigger a city the wider the availability, unsurprisingly. [In Bengaluru]({{< ref "/india-2017/first-impressions-of-bengaluru/index.md" >}}) we even found an __outpost of the craft beer movement__---the Arbor Brewing Company brewpub making decent brews and serving very British pub food, enhanced with Indian inspirations.
 
 {{< figure src="india-2017/weight-watchers-nightmare/arbor-brewing-company.webp" alt="Arbor Brewing Company brewpub in Bengaluru" title="Arbor Brewing Company brewpub in Bengaluru" >}}
 
@@ -74,7 +74,6 @@ What we're used to in Poland is that bottled water equals mineral waster---extra
 
 Being back in Poland, we're pretty happy to return to our mostly Mediterranean diet, with lots of raw vegetables, lean meats and some delicious dairy. We love what India has to offer---the rich taste, the vibrant colors, and the hearty spice---we just wouldn't be able to live on its cuisine permanently. It'll remain a tasty treat to have once in a while, and thankfully Warsaw is home these days to a growing number of very decent Indian restaurants.
 
-[arbor-brewing-company]: https://arborbrewing.com/locations/india/
 [bird-on-tree]: http://www.birdontree.com/
 [supreme-court-order-alcohol]: https://indianexpress.com/article/india/sc-confirms-alcohol-ban-on-highways-will-include-bars-and-restaurants-4594238/
 [ted-why-we-sleep]: https://www.ted.com/talks/russell_foster_why_do_we_sleep

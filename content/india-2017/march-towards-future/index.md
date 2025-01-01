@@ -76,7 +76,7 @@ All in all, the country's looking good. Indians show that they know where they'r
 [cow-vigilantes]: https://www.thehindu.com/news/national/sc-seeks-response-on-plea-for-reining-in-cow-vigilantes/article17875575.ece
 [gmaps-pollachi-coimbatore]: https://goo.gl/maps/s5pEFQ1i1kM2
 [mob-sorcery]: https://www.thehindu.com/news/national/telangana/mob-set-afire-couple-alleging-sorcery/article17864125.ece
-[udumalpet-wind-farm]: https://www.thehindu.com/2005/08/25/stories/2005082506250400.htm
+[udumalpet-wind-farm]: https://www.gem.wiki/Udumalpet_(Orient_Green)_I_wind_farm
 [wp-bidet-shower]: https://en.wikipedia.org/wiki/Bidet_shower
 [wp-cfl]: https://en.wikipedia.org/wiki/Compact_fluorescent_lamp
 [wp-india-demonetization]: https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation

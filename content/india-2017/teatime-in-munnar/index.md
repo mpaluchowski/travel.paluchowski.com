@@ -36,11 +36,10 @@ Mild climate makes the region __ideal for growing tea__. Plantations cover vast 
 
 {{< figure src="india-2017/teatime-in-munnar/tea-fields.webp" alt="Tea plantation" title="Tea plantation" >}}
 
-Our accommodation, [Green Magic Home][green-magic-home], is another perfect find, with a __stunning view on the surrounding mountains__, villages down in the valley, and a sea of tea plantations with narrow service roads and paths cutting through the bushes. All of this available from the sizable terrace adjacent to our rooms, where we chilled out the whole evening and had our breakfast the next day. We can't see Munnar city from here, but that's for the better. It's nothing more than an administrative center.
+Our accommodation, Green Magic Home, is another perfect find, with a __stunning view on the surrounding mountains__, villages down in the valley, and a sea of tea plantations with narrow service roads and paths cutting through the bushes. All of this available from the sizable terrace adjacent to our rooms, where we chilled out the whole evening and had our breakfast the next day. We can't see Munnar city from here, but that's for the better. It's nothing more than an administrative center.
 
 __Relaxing is pretty much the only thing to do here.__ No temples, palaces to visit nearby. There might be hiking opportunities, but we'll leave that for another trip. We'll be passing a wildlife sanctuary on our way to Coimbatore, and we thought we might be able to see the animals there that we couldn't do back in Wayanad, but sadly we won't have enough time. It'll take us 5.5 hours of driving, not including a pit stop for lunch, and we still need to pick up clothing for the wedding before the shops close on Friday evening.
 
 I think we've struck a very decent balance during this trip, between actively sightseeing, diving into the local life of India, and chilling out, catching up on reading and writing. Munnar's our last stop before the grand event of the wedding in Coimbatore. We'll be finishing with a blast before heading home. As always, time flew much faster than we were hoping it would, but I daresay we made good use of it.
 
 [yt-i-see-fire]: https://www.youtube.com/watch?v=mllXxyHTzfg
-[green-magic-home]: https://www.tripadvisor.com/Hotel_Review-g303881-d1900190-Reviews-Green_Magic_Home-Munnar_Idukki_District_Kerala.html

@@ -49,4 +49,4 @@ Finally, there are the __funnies of culture__. We stressed to our transport comp
 
 All in all, __we're really happy to be here__. Perhaps because of the familiarity stated in the beginning, or maybe it's the joy of having escaped the lengthy, cold and dark Polish winter, into a country of neverending warmth and sunshine. We have two more weeks ahead of us, now it's time to try out running in the local park.
 
-[toms-hotel]: http://tomshotelbangalore.com/
+[toms-hotel]: https://www.tripadvisor.in/Hotel_Review-g297628-d1726353-Reviews-Tom_s_Hotel_Bangalore-Bengaluru_Bangalore_District_Karnataka.html

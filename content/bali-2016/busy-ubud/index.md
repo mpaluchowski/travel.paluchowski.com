@@ -36,7 +36,7 @@ The Art Market afforded us a chance to __practice our bargaining skills__ and I 
 1. start too high, anchored by the shopkeeper's asking price, and end up overpaying, or
 2. bid too low and offend the other party.
 
-(1) can easily be managed by watching out for the [anchoring bias](https://en.wikipedia.org/wiki/Anchoring), and (2) seems to be an overblown fear in countries, where bargaining is the norm and the shopkeeper wants to sell. I might end up _enjoying_ the process in the end.
+(1) can easily be managed by watching out for the [anchoring bias](https://en.wikipedia.org/wiki/Anchoring_effect), and (2) seems to be an overblown fear in countries, where bargaining is the norm and the shopkeeper wants to sell. I might end up _enjoying_ the process in the end.
 
 Other than a stroll around town, that's pretty much all we found for sightseeing in Ubud itself. There was a [Kecak Dance](https://en.wikipedia.org/wiki/Kecak) performance in the evening at the Ubud Palace (as advertised to us by at least _four_ persons selling tickets in the street), which we might've considered attending if it wasn't this obviously tourist-oriented and grossly overpriced.
 

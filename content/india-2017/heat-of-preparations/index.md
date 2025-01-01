@@ -75,14 +75,14 @@ We're a bit concerned for our good friend getting married, with the __ceremonies
 'nuff said for now. Time to comb Airbnb and Booking.com for accommodation offers on our route and prepare a training plan that I can follow in the 35C heat. This'll be an excellent transition away from this year's cold, snowy Polish winter.
 
 [devaraja-street-market]: http://www.global-gallivanting.com/reasons-to-visit-devaraja-market-in-mysore-a-photo-essay/
-[india-online-visa]: https://indianvisaonline.gov.in/visa/tvoa.html
+[india-online-visa]: https://indianvisaonline.gov.in/evisa/tvoa.html
 [lp-bengaluru]: https://www.lonelyplanet.com/india/bengaluru-bangalore
-[lp-coimbatore]: https://www.lonelyplanet.com/india/tamil-nadu/coimbatore
+[lp-coimbatore]: https://en.wikivoyage.org/wiki/Coimbatore
 [lp-kochi]: https://www.lonelyplanet.com/india/kerala/kochi-cochin
-[lp-kumarakom]: https://www.lonelyplanet.com/india/kerala/kumarakom
+[lp-kumarakom]: https://en.wikivoyage.org/wiki/Kumarakom
 [lp-munnar]: https://www.lonelyplanet.com/india/kerala/munnar
 [lp-mysuru]: https://www.lonelyplanet.com/india/karnataka/mysore
 [lp-ooty]: https://www.lonelyplanet.com/india/tamil-nadu/ooty-udhagamandalam
-[lp-wayanad]: https://www.lonelyplanet.com/india/kerala/wayanad-wildlife-sanctuary
-[tamil-wedding]: http://tamilculture.com/photos-tamil-hindu-wedding-ceremony/
-[wunderground-bangalor]: https://www.wunderground.com/cgi-bin/findweather/getForecast?query=Bangalore%2C+India
+[lp-wayanad]: https://en.wikivoyage.org/wiki/Wayanad_Wildlife_Sanctuary
+[tamil-wedding]: https://www.culturalindia.net/weddings/regional-weddings/tamil-wedding.html
+[wunderground-bangalor]: https://www.wunderground.com/weather/in/bengaluru

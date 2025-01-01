@@ -46,5 +46,5 @@ Doing harm to a cow, and often even the _suggestion_ that somebody may have done
 
 Are the stories about the status of cows in India true? It's complicated. As much as the fabric of this country is. In our culinary choices, we're __betting on the safest option---chicken__. Or forfeiting even that and __going vegetarian__, which seems to be accepted by everybody, no matter their origin or religious views.
 
-[msz-indie]: https://msz.gov.pl/pl/informacje_konsularne/profile_krajow/indie#informacje
+[msz-indie]: https://www.gov.pl/web/indie/idp
 [the-hindu]: https://www.thehindu.com/
