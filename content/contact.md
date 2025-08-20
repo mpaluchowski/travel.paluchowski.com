@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Contact us
 menus: main
 _build:

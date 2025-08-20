@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: About Well Traveled
 menus: main
 _build:
