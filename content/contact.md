@@ -2,7 +2,7 @@
 layout: single
 title: Contact us
 menus: main
-_build:
+build:
     list: never
 ---
 
