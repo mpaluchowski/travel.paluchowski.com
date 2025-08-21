@@ -23,3 +23,9 @@ params:
   error404:
     title: Lost a page?
     text: We couldn't find anything under the address you requested. You may want to start from the <a href="/">homepage</a> or go back and try another link.
+menus:
+  main:
+    - name: About
+      pageRef: /about
+    - name: Contact
+      pageRef: /contact
