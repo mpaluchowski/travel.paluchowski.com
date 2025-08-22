@@ -18,7 +18,7 @@ You would be forgiven if you couldn't spot the country on a map of Europe. It's 
 
 Malta has been on my radar for two decades now, if ever so faintly. It joined the European Union in 2004, together with Poland. Then over a decade ago, and two jobs back, I had a colleague in our Warsaw office who was Maltese. Competent, cordial, and occasionally speaking in her native language that to me had a sound I would describe as "tannic".
 
-Then, just two years ago, I saw a music set played by my favorite Paul Van Dyk from Malta.
+Then, just two years ago, I saw a music set played from Malta by my favorite Paul Van Dyk.
 
 {{< youtube id="bOnxgxnxlcU" loading="lazy" >}}
 
