@@ -2,7 +2,7 @@
 date: 2025-08-21T21:30:17+02:00
 title: "Of All the Places"
 timezone: CEST
-location: Warszawa, Poland
+location: Valetta, Malta
 tags:
   - preparations
 image: ""
