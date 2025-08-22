@@ -14,6 +14,12 @@ taxonomies:
   tag: tags
   country: countries
   continent: continents
+  location: location
+permalinks:
+  taxonomy:
+    location: /writing-locations
+  term:
+    location: /writing-locations/:slug
 params:
   logo: img/compass-rose.svg
   favicon:
