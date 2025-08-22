@@ -2,7 +2,7 @@
 date: 2018-05-16T21:16:50+02:00
 title: What's with the Russian?
 timezone: CEST
-location: Warsaw, Poland
+location: Warszawa, Poland
 tags:
   - Russian
   - language
