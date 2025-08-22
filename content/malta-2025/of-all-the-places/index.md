@@ -4,7 +4,7 @@ title: "Of All the Places"
 timezone: CEST
 location: Warszawa, Poland
 tags:
-  - 
+  - preparations
 image: ""
 countries:
   - Malta
@@ -28,7 +28,7 @@ It's not too far, less then three hours on a plane. Not too large, as I wrote ea
 
 It also has this history of connecting Europe with Africa and the Middle East for centuries, ships docking, bringing sailors, merchants, with their mixture of languages, cultures and cuisines. I always adored Mediterranean port cities. Genoa. Marseille. Palma de Mallorca. I love the narrow streets towered by stone houses. The restaurants and cafes squeezed into tiny plazas. I love walking and taking in these places.
 
-That's also the overall plan for Malta. Walk. Discover. Enjoy. And do some writing which I haven't done since, again 2018. The last blog-worthy trip we did to Israel.
+That's also the overall plan for Malta. Walk. Discover. Enjoy. And do some writing which I haven't done since, again 2018. The last [blog-worthy trip we did to Israel]({{<ref "/israel-2018" >}}).
 
 I'm planning to stick to Malta's main island. I might do a boat tour of the coast, but I wouldn't want to spend time on a ship heading to Gozo and then coming back. I only have a few days here.
 
