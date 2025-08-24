@@ -19,6 +19,8 @@ Granted, the climate used to be a bit more forgiving a few centuries ago, so the
 
 There used to be more rain, certainly, and every major building had a courtyard with a well in the center, and a tank underneath for collecting **rainwater**. The building's roof was slightly tilted inwards, so that as much rainwater was collected through that courtyard.
 
+{{< figure src="malta-2025/how-to-feed-an-island/courtyard-well.webp" alt="Courtyard with a well, formerly collecting rainwater" title="Courtyard with a well, formerly collecting rainwater" >}}
+
 That, combined with whatever **seafood** could be caught by the island's fishermen, was enough to feed the locals for most of the island's known history.
 
 Today is different, obviously.
