@@ -7,6 +7,10 @@ tags:
   - food
   - water
 image: malta-2025/how-to-feed-an-island/valetta-granaries-header.webp
+countries:
+  - Malta
+continents:
+  - Europe
 ---
 
 They look like column bases, but their layout was too uneven to have supported any building structure. I ran into them in an open plaza right in front of Fort Saint Elmo in Valetta. Didn't look too pretty, so I decided no to take a photo, and moved on, leaving behind the puzzle of their purpose. Only later in the day did I realize what they were: granaries.
