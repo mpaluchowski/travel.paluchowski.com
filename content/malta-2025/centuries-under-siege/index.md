@@ -27,6 +27,8 @@ Why all this effort and expense, bordering on panic? Because Malta seemed to be 
 - any major military force to stop over and refuel during a large campaign, as with **Napoleon's**,
 - or the island could be used to intercept and harass fleets and convoys passing by, as with the **Axis**-controlled supplies to Italy and North Africa. 
 
+{{< figure src="malta-2025/centuries-under-siege/fort-st-angelo.webp" class="right" alt="Fort Saint Angelo" title="Fort Saint Angelo" >}}
+
 The Order of St. John merely wanted to survive, but after they were [expelled by the French](https://en.wikipedia.org/wiki/French_invasion_of_Malta), who were then [kicked out by the British](https://en.wikipedia.org/wiki/Siege_of_Malta_(1798%E2%80%931800)), whatever power held control over the islands wanted to keep that control tightly.
 
 So, in Malta, and particularly in Valetta and its surrounding peninsulas, military history is everywhere. You turn a corner, and there's a bastion, a cavallier, or at least a [row of embrasures](https://en.wikipedia.org/wiki/Embrasure), sometimes with a gun still in them, more often with trases of old gun mounts. The Grand Harbour alone has sevel full forts, if I counted correctly, and numerous smaller batteries along the shoreline.
@@ -35,8 +37,12 @@ I visited two of the forts: **Fort Saint Elmo** in Valetta and **Fort Saint Ange
 
 Then there's the tunnel under the Upper Barrakka Gardens, which I stumbled upon somewhat accidentally, that hosts a museum of the former **Lascaris War Rooms** -- the command center for all the branches of the British Military during World War II. This is where they observed incoming air raids -- of which they received multiples every day between 1940 and 1942 -- and this is where the allied commanders directed the [invasion of Sicilly in 1943](https://en.wikipedia.org/wiki/Allied_invasion_of_Sicily), that opened a new front in the war.
 
+{{< figure src="malta-2025/centuries-under-siege/lascaris-war-rooms.webp" alt="Lascaris War Rooms" title="Lascaris War Rooms" >}}
+
 I once overheard an elderly British couple exclaiming that they "never saw a place this fortified", and I concur.
 
-At times it even felt like Valetta was still under siege (and not by the throngs of tourists that pack the main streets for most of the day and night). Explosions of various types could be heard from different directions, starting around noon and into the late evening. Sometimes it was the salluting battery, formerly greeting important ships entering the Grand Harbour, nowadays making noise for the pleasue of tourists. Most of the times it was fireworks, when one of the surounding communes celebrated, of which there are many, and every one seems to have had some reason to celebrate this weekend.
+At times it even felt like Valetta was still under siege (and not by the throngs of tourists that pack the main streets for most of the day and night). Explosions of various types could be heard from different directions, starting around noon and into the late evening. Sometimes it was the saluting battery, formerly greeting important ships entering the Grand Harbour, nowadays making noise for the pleasue of tourists. Most of the times it was fireworks, when one of the surounding communes celebrated, of which there are many, and every one seems to have had some reason to celebrate this weekend.
+
+{{< figure src="malta-2025/centuries-under-siege/saluting-battery.webp" alt="Saluting Battery" title="Saluting Battery" >}}
 
 I reckon the locals should be a tad tired with all the noise of the shooting that's so pervasive. I'm also sure that for the elders of the islands, those sounds might offer relief knowing that they're, finally, a sign of peace.
