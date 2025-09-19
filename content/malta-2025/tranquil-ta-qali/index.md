@@ -31,7 +31,7 @@ Then there was the former airstrip. A long, wide belt, still distinctly visible 
 
 Further down, an even larger parking lot. Mostly empty of cars, but judging from the tracks, often used for car drifting stunts.
 
-Finally, the last, northernmost piece of the former airstrip is used by a Model Aircraft association. It has a fresh layer of tarmac, proper airfield markings, even the number of the airstrip is there. That part, sadly, was fenced off, and closed shut. Probably open only during organized events.
+Finally, the last, northernmost piece of the former airstrip is used by a **Model Aircraft Association**. It has a fresh layer of tarmac, proper airfield markings, even the number of the airstrip is there. That part, sadly, was fenced off, and closed shut. Probably open only during organized events.
 
 {{< figure src="malta-2025/tranquil-ta-qali/ta-qali-model-aircraft-airstrip.webp" alt="Former airstrip turned model aircraft flying area" title="Former airstrip turned model aircraft flying area" >}}
 
