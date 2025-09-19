@@ -27,7 +27,11 @@ I found the area almost completely reimagined and remodeled. The newest developm
 
 {{< figure src="malta-2025/tranquil-ta-qali/ta-qali-national-park.webp" alt="Fountain at Ta' Qali National Park" title="Fountain at Ta' Qali National Park" >}}
 
-Then there was the former airstrip. A long, wide belt, still distinctly visible on the map. Part of is is covered by the said National Park. Then there's a parking lot, where the surface might be the original tarmac from the airstrip. Then an **Adventure Park** which is a fancy way of calling a really well-equipped playground for kids of all ages. Again, empty. Two families present in total where in Poland a place like this would've been packed on a sunny Saturday. Then, an even larger parking lot. Mostly empty of cars, but judging from the tracks, often used for car drifting stunts. And finally, the last, northernmost piece of the former airstrip is used by a Model Aircraft association. It has a fresh layer of tarmac, proper airfield markings, even the number of the airstrip is there. That part, sadly, was fenced off, and closed shut. Probably open only during organized events.
+Then there was the former airstrip. A long, wide belt, still distinctly visible on the map. Part of is is covered by the said National Park. Then there's a parking lot, where the surface might be the original tarmac from the airstrip. Then an **Adventure Park** which is a fancy way of calling a really well-equipped playground for kids of all ages. Again, empty. Two families present in total, where in Poland a place like this would've been packed on a sunny Saturday.
+
+Further down, an even larger parking lot. Mostly empty of cars, but judging from the tracks, often used for car drifting stunts.
+
+Finally, the last, northernmost piece of the former airstrip is used by a Model Aircraft association. It has a fresh layer of tarmac, proper airfield markings, even the number of the airstrip is there. That part, sadly, was fenced off, and closed shut. Probably open only during organized events.
 
 {{< figure src="malta-2025/tranquil-ta-qali/ta-qali-model-aircraft-airstrip.webp" alt="Former airstrip turned model aircraft flying area" title="Former airstrip turned model aircraft flying area" >}}
 
